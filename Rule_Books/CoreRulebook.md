@@ -13,7 +13,7 @@ For character creation you need to follow 3 simple steps. You begin with all sta
 *Optional Rule:*  
 Whenever you get two (2) or more selectable increases and a static increase you can swap it with one of the optional ones.
 
-### Ability Scores
+### Stat Scores
 
 In world of <inset name> each person is represented by 6 stats. These being
 
@@ -56,7 +56,7 @@ Passive: none
 
 Static increase: Wisdom  
 Free increase: any one (1) of: Agility, Constitution    
-Passive: They gain proficiency (trained) in 2d6 ranged weapons and increases at the same interval as their highest weapon proficiency.
+Passive: They gain proficiency in 2d6 ranged weapons.
 
 #### Stonborne
 
@@ -90,6 +90,7 @@ Passive: Same as their parent's or ability to sacrifice two (2) lower level spel
 
 #### Beastfolk
 
+[TODO]()
 
 ### Legacy
 
@@ -98,4 +99,36 @@ Passive: Same as their parent's or ability to sacrifice two (2) lower level spel
 
 ## Gameplay Rules
 
+Every skill check is resolved by rolling two (2) six (6) sided die (2d6) and substracting 2 (this gives us range of 0-10 with Gauss like graph of variability). Exceptions to this rule are advantage where you roll 3d6 and take higher 2 and disadvantage where you roll 3d6 and take lower 2. It is rool under system, where default success is to roll 5 or under, with player modifiers being able to increase range of this possibility.  
+Also important is that this system is GM light, where GM can and should put all his energy into telling stories (either trough combat or social interactions) without having to slow down to roll. This is why all rolls are made by the player.  
+
+### Combat actions
+
+Combat action are any actions player can preform while in combat.
+
+#### Making an attack
+
+Player rolls skill check against their skill gate for attack action (Strength check). If they succeed they then roll their weapon's damage that DM then substracts from target's life (after applying armor reduction to it).  
+In case of critical success all weapon's damage die are maxed and then rolled another time.
+
+#### Getting attacked
+
+When player gets attacked by normal enemy attack player rolls skill check against their skill gate for dodge action (Agility check). If they succeed they take no damage. If they fail they reduce enemy's damage by their armor reduction and take remaining damage. In case of catastrophic skill players don't reduce damage by their armor reduction.
+
+#### Casting spell
+
+#### Saving against spell
+
+When player get's targeted by enemy spell they need to make skill check based on requested stat or skill. The spell itself dictates what each type of outcome of this check means for the creature.
+
 ## GM Rules
+
+## Dictionary
+
+Skill check: action of rolling 2d6 (modified by advantage and disadvantage) and comparing it to their skill gate. If result is equal or lower check succeeds.
+
+Skill gate: value of five (5) modified by all affecting modifiers (proficiencies) and stat scores.
+
+Critical skill: when you roll at least 5 below skill gate you may expirience additional benefits.
+
+Catastrophic skill: when you roll at least 5 above skill gate you may expirience additional penalties.
