@@ -82,6 +82,12 @@ Passive: They gain +1 luck bonus to any save vs spell
 
 #### Forsaken
 
+Sometimes unspokable things that come from the far planes. Things that noone should ever have to see. But they nevertheles manage to sire a child with one of the <insert name> inhabitants. These children mostly look like their <inser name> parent, but still have some connection to far planes.
+
+Static increase: Willpower  
+Free increase: any one (1) of parent's Free increases  
+Passive: Same as their parent's or ability to sacrifice two (2) lower level spell slots (they need to be same lever) for one (1) one level higher spell slot.
+
 #### Beastfolk
 
 
