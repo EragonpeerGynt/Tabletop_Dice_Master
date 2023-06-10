@@ -49,7 +49,7 @@ Passive: they gain 1 additional speel slot for each level of available spells
 #### Eldyr - Half
 
 Static increase: Agility  
-Free increase: any one (1) of: Strength, Intelegence, Wisdom, Constitution, Willpower  
+Free increase: any two (2) of: Strength, Intelegence, Wisdom, Constitution, Willpower  
 Passive: none
 
 #### Eldyr - Dew
@@ -66,19 +66,19 @@ For some life infused golems and for others living libraries of ages passed. One
 
 Static increase: Intelegence  
 Free increase: any one (1) of: Agility, Constitution  
-Passive: none
+Passive: They gain ability to wear any type of light or medium armor
 
 #### Stoneborne - Forgotten
 
 Static increase: Strength  
 Free increase: any one (1) of: Wisdom, Constitution  
-Passive:
+Passive: They gain 1 additional hp per life die
 
 #### Stoneborne - Cosmic
 
-Static increase:  
-Free increase:  
-Passive:
+Static increase: Willpower  
+Free increase: Intelegence, Constitution  
+Passive: They gain +1 luck bonus to any save vs spell
 
 #### Forsaken
 
