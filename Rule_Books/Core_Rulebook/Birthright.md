@@ -1,6 +1,6 @@
 # Birthright
 
-## Nahum
+## Nah'um
 
 Most common birthright in Eldyres. They don't live for very long, but are very passionate about their goals. They try to live each day as their last one.
 
@@ -74,7 +74,7 @@ Static increase: Willpower
 Free increase: any one (1) of parent's Free increases  
 Mobility: Same as parent's  
 Vitality: Same as parent's  
-Passive: Same as their parent's or ability to sacrifice two (2) lower level spell slots (they need to be same level) for one (1) one level higher spell slot.
+Passive: Same as their parent's or ability to sacrifice two (2) lower level spell slots (they need to be same level) for one (1) one level higher spell slot. They can choose any feat meant for any of their parents' origins.
 
 ### Beastfolk
 

@@ -24,10 +24,12 @@ Progression:
 | 10 | Battle feat |
 
 Proficiencies:  
-- Weapons: any
-- Armor: any
+- Weapons: all weapons as trained
+- Armor: all armors as trained
 - Skills: INT + 2 (min 2)
 - Language: one of their choice with partial understanding of another one
+
+
 
 ## Brigand
 
