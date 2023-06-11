@@ -220,6 +220,30 @@ When calculating how much damage you take on failed Dodge action you calculate i
 2. Add any modifiers if they apply
 3. Add any runes if they apply
 
+#### Runes
+
+Runes are additional customizations for weapons and armor. They can be applied to any high quality weapon or armor (equipment that has +1/+2/+3). Quality doesn't change damage or armor reduction and doesn't change Skill gate. Runes with same name don't stack and you can apply as many runes as the equipment quality.
+
+Weapon runes:  
+| Rune | Effect |
+|---|---|
+| Striking | adds additional 1d6 damage to war or status weapon |
+| Demolision | adds additional 1d6 damage to war weapon |
+| Exploding | if you rool six (6) on a damage die you roll additional 1d6 for damage. You continue rolling this way as long as you keep getting sixes (6) |
+| Precision +1 | increases Skill gate when attacking by one (+1) |
+| Precision +2 | increases Skill gate when attacking by two (+2) only appliable on status and war weapons |
+| Chaneling | increases Skill gate when using spells by one (+1)  only appliable on status and war weapons |
+| Spell +n | gain one spell slot of each level that is lower or equal **n** |
+
+Armor runes:
+| Rune | Effect |
+|---|---|
+| Protection +1 | increases Skill gate for Dodge action by one (+1) |
+| Protection +2 | increases Skill gate for Dodge action by two (+2) on half and full armors |
+| Protection +3 | increases Skill gate for Dodge action by three (+3) on full armors |
+| Guardian | first Dodge action of the turn doesn't increase Gate penalty |
+
+
 ## GM Rules
 
 ## Dictionary
