@@ -34,6 +34,7 @@ Most common birthright in <inser name>. They don't live for very long, but are v
 
 Static increase: none  
 Free increase: any two (2)  
+Mobility: 6  
 Passive: When calculating number of gained skill proficiencies (trained and expert) calculate it as them having one (1) higher intelegence
 
 #### Eldyr
@@ -44,18 +45,21 @@ Birthright of the old world. Few remain and even fewer reach out to other birthr
 
 Static increase: Intelegence  
 Free increase: any one (1) of: Agility, Willpower  
+Mobility: 6  
 Passive: they gain 1 additional speel slot for each level of available spells
 
 #### Eldyr - Half
 
 Static increase: Agility  
 Free increase: any two (2) of: Strength, Intelegence, Wisdom, Constitution, Willpower  
+Mobility: 6  
 Passive: none
 
 #### Eldyr - Dew
 
 Static increase: Wisdom  
-Free increase: any one (1) of: Agility, Constitution    
+Free increase: any one (1) of: Agility, Constitution   
+Mobility: 7  
 Passive: They gain proficiency in 2d6 ranged weapons.
 
 #### Stonborne
@@ -66,18 +70,21 @@ For some life infused golems and for others living libraries of ages passed. One
 
 Static increase: Intelegence  
 Free increase: any one (1) of: Agility, Constitution  
+Mobility: 5  
 Passive: They gain ability to wear any type of light or medium armor
 
 #### Stoneborne - Forgotten
 
 Static increase: Strength  
 Free increase: any one (1) of: Wisdom, Constitution  
+Mobility: 5  
 Passive: They gain 1 additional hp per life die
 
 #### Stoneborne - Cosmic
 
 Static increase: Willpower  
 Free increase: Intelegence, Constitution  
+Mobility: 5  
 Passive: They gain +1 luck bonus to any save vs spell
 
 #### Forsaken
@@ -86,7 +93,8 @@ Sometimes unspokable things that come from the far planes. Things that noone sho
 
 Static increase: Willpower  
 Free increase: any one (1) of parent's Free increases  
-Passive: Same as their parent's or ability to sacrifice two (2) lower level spell slots (they need to be same lever) for one (1) one level higher spell slot.
+Mobility: Same as parent's  
+Passive: Same as their parent's or ability to sacrifice two (2) lower level spell slots (they need to be same level) for one (1) one level higher spell slot.
 
 #### Beastfolk
 
