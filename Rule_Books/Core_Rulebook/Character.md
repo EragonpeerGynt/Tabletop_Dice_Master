@@ -13,16 +13,21 @@ Whenever you get two (2) or more selectable increases and a static increase you 
 
 ## Stat Scores
 
-In world of <inset name> each person is represented by 6 stats. These being
+In world of Eldyres each person is represented by 6 stats. Their max value without special items is +3. These stats are
 
-| Stat | Short description |
-|---|---|
-| Strength | Physical brute force |
-| Intelegence | Mental brute force |
-| Agility | Physical reflexes |
-| Wisdom | Mental reflexes |
-| Constitution | Physical durability |
-| Willpower | Mental durability |
+| Stat | Short name | Short description |
+|---|:---:|---|
+| Strength | STR | Physical brute force |
+| Intelegence | INT | Mental brute force |
+| Agility | AGI | Physical reflexes |
+| Wisdom | WIS | Mental reflexes |
+| Constitution | CON | Physical durability |
+| Willpower | WIL | Mental durability |
+
+## Health
+
+Maximum health is calculated as:  
+**Durability + STR + Level x (Vitality + CON)**
 
 ## Skills
 
@@ -38,9 +43,9 @@ Everyone can attempt to do anything they want, but not everyone will be as good 
 Skills:  
 | Stat | Skill | Explanation |
 |:---:|---|---|
-| STR | Attack |  |
+| STR |  |  |
 | INT |  |  |
-| AGI | Dodge |  |
+| AGI |  |  |
 | WIS |  |  |
 | CON |  |  |
 | WIL |  |  |

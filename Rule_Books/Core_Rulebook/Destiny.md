@@ -12,23 +12,38 @@ Durability: 1d6+1
 Progression:  
 | Level | Feature |
 |---|---|
-| 1 | Battle feat |
-| 2 | Free feat |
+| 1 | 2 Battle feats |
+| 2 | General feat |
 | 3 | Stat increase |
 | 4 | Battle feat |
-| 5 | Free feat |
+| 5 | General feat |
 | 6 | Stat increase |
 | 7 | Battle feat |
-| 8 | Free feat |
+| 8 | General feat |
 | 9 | Stat increase |
-| 10 | Battle feat |
+| 10 | 2 Battle feats |
 
 Proficiencies:  
 - Weapons: all weapons as trained
 - Armor: all armors as trained
 - Skills: INT + 2 (min 2)
-- Language: one of their choice with partial understanding of another one
+- Language: one (1) of their choice with partial understanding of another one (1)
 
+### Level 3
+
+Increase one (1) weapon type (Simple, Status, War) skill level to expert.  
+You gain two (2) armor skill level increases. You can use them on any armor type (Cloth, Light, Half, Full) but only to increase it to exper.
+
+### Level 6
+
+You gain one (1) weapon skill level increases. You can use them on any weapon type (Simple, Status, War).  
+You gain one (1) armor skill level increases. You can use them on any armor type (Cloth, Light, Half, Full).
+
+### Level 9
+
+You gain one (1) weapon skill level increases. You can use them on any weapon type (Simple, Status, War).  
+You gain one (1) armor skill level increases. You can use them on any armor type (Cloth, Light, Half, Full).  
+Your carry capacity is increased by two (2)
 
 
 ## Brigand
@@ -42,15 +57,67 @@ Progression:
 | Level | Feature | Accurate strike |
 |---|---|---|
 | 1 | Skill training | 1d6 |
-| 2 |  | 1d6 |
-| 3 |  | 2d6 |
+| 2 | Stat increase | 1d6 |
+| 3 | General feat | 2d6 |
 | 4 | Skill training | 2d6 |
-| 5 |  | 3d6 |
-| 6 |  | 3d6 |
+| 5 | Stat increase | 3d6 |
+| 6 | General feat | 3d6 |
 | 7 | Skill training | 4d6 |
-| 8 |  | 4d6 |
-| 9 |  | 5d6 |
-| 10 | | 5d6 |
+| 8 | Stat increase | 4d6 |
+| 9 | General feat | 5d6 |
+| 10 | Stat increase and Skill traing | 5d6 |
+
+Proficiencies:  
+- Weapons: simple weapons as trained
+- Armor: Light armor as trained
+- Skills: INT x 2 + 4 (min 3)
+- Language: two (2) of their choice 
+
+### Level 1
+
+Skill training (feature) gives you INT tokens (min 1) to use on skill increases
+
+You have next limit on skill level (from skill traing feature only)
+
+| Skill level | Skill limit |
+|---|:---:|
+| Trained | none |
+| Expert | 1 |
+| Specialized | 0 |
+
+### Level 4
+
+You have next limit on skill level (from skill traing feature only)
+
+| Skill level | Skill limit |
+|---|:---:|
+| Trained | none |
+| Expert | 2 |
+| Specialized | 1 |
+
+### Level 5
+You gain 1 weapon skill level increases. You can use them on any weapon type (Simple, Status, War).  
+You gain 1 armor skill level increases. You can use them on any armor type (Cloth, Light, Half, Full).
+
+### Level 7
+
+You have next limit on skill level (from skill traing feature only)
+
+| Skill level | Skill limit |
+|---|:---:|
+| Trained | none |
+| Expert | none |
+| Specialized | 2 |
+
+### Level 10
+
+You have next limit on skill level (from skill traing feature only)
+
+| Skill level | Skill limit |
+|---|:---:|
+| Trained | none |
+| Expert | none |
+| Specialized | none |
 
 ## Priest
 
@@ -177,3 +244,8 @@ Progression:
 | 8 |  | 16 |
 | 9 |  | 18 |
 | 10 |  | 20 |
+
+<!-- ## Necromancer/Minionmancer
+the idea is class that can controll multiple (as many as possible) minions while still keeping action economy clean and doesn't create too much book keeping.  
+Probably gonna make something between true minionmancer and summoner from PF2 cross-breed with 5e Warlock
+-->

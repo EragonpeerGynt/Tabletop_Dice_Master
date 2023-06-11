@@ -2,7 +2,7 @@
 
 ### Skill check:
 
-action of rolling 2d6 (modified by advantage and disadvantage) and comparing it to their skill gate. If result is equal or lower check succeeds.
+action of rolling 2d6 (modified by Gate tyranny and oppression) and comparing it to their skill gate. If result is equal or lower check succeeds.
 
 ### Skill gate:
 
@@ -54,4 +54,8 @@ player makes Dodge action against attack. On failiure player takes damage and lo
 
 ### Attack action (Strength check)
 
-Strength check in attack action can be replaced by specific weapon check if it is higher than baseline check.
+strength check in attack action can be replaced by specific weapon check if it is higher than baseline check.
+
+### Accurate strike
+
+accurate strike is special attack that can happen once per turn when enemy isn't giving your attack their full attention. Most common exmple is having Gate tyranny on Attack action or if there is a nerby ally (in melee range of the enemy). This can also be granted by GM in special situations
