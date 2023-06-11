@@ -25,7 +25,7 @@ Players can apply modifiers to their weapons that change how weapon behaves in c
 | Polearm | Can strike foes one (1) map unit farther away | Weapon deals one (-1) less damage |
 | Ranged | Weapon gains Agile modifier and can strike targets at range | Weapon looses any damage scaling and deals two (-2) less damage |
 | Thrown | Weapon can strike targets at half range | Weapon deals one (-1) less damage |
-| Light | If wielding two light weapons you can strike with second one once per turn after Attack action with same gate penalty as original attack | Weapon deals one (-1) less damage |
+| Light | If wielding light weapon in off-hand you can strike with it once per turn after Attack action with same gate penalty as original attack | Weapon deals one (-1) less damage |
 
 ### Calculating weapon damage
 

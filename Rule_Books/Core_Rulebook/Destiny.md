@@ -23,6 +23,12 @@ Progression:
 | 9 | Stat increase |
 | 10 | Battle feat |
 
+Proficiencies:  
+- Weapons: any
+- Armor: any
+- Skills: INT + 2 (min 2)
+- Language: one of their choice with partial understanding of another one
+
 ## Brigand
 
 Primary stat: AGI  
@@ -157,7 +163,7 @@ Optional increase: STR or CON
 Durability: 1d6+1
 
 Progression:  
-| Level | Feature | Commands |
+| Level | Feature | Command tokens |
 |---|---|:---:|
 | 1 |  | 2 |
 | 2 |  | 4 |

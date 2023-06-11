@@ -1,6 +1,6 @@
 # Gameplay
 
-Every skill check is resolved by rolling two (2) six (6) sided die (2d6) and substracting 2 (this gives us range of 0-10 with Gauss like graph of variability). Exceptions to this rule are advantage where you roll 3d6 and take higher 2 and disadvantage where you roll 3d6 and take lower 2. It is rool under system, where default success is to roll 5 or under, with player modifiers being able to increase range of this possibility.  
+Every skill check is resolved by rolling two (2) six (6) sided die (2d6) and substracting 2 (this gives us range of 0-10 with Gauss like graph of variability). Exceptions to this rule are advantage where you roll 3d6 and take higher 2 and disadvantage where you roll 3d6 and take lower 2. It is roll under system, where default success is to roll 5 or under, with player modifiers being able to increase range of this possibility.  
 Also important is that this system is GM light, where GM can and should put all his energy into telling stories (either trough combat or social interactions) without having to slow down to roll. This is why all rolls are made by the player.  
 
 ## Combat actions

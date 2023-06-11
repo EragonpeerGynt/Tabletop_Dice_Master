@@ -20,7 +20,7 @@ Static increase: Intelegence
 Free increase: any one (1) of: Agility, Willpower  
 Mobility: 6  
 Vitality: 1d6-1  
-Passive: they gain 1 additional speel slot for each level of available spells
+Passive: they gain 1 additional spell slot for each level of available spells up to and including 6th level slots
 
 ### Eldyr - Half
 

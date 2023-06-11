@@ -28,12 +28,19 @@ In world of <inset name> each person is represented by 6 stats. These being
 
 Everyone can attempt to do anything they want, but not everyone will be as good at it as others.
 
+| Skill level | Skill bonus |
+|---|:---:|
+| Natural | -1 |
+| Trained | 0 |
+| Expert | +1 |
+| Specialized | +2 |
+
 Skills:  
 | Stat | Skill | Explanation |
 |:---:|---|---|
-| STR |  |  |
+| STR | Attack |  |
 | INT |  |  |
-| AGI |  |  |
+| AGI | Dodge |  |
 | WIS |  |  |
 | CON |  |  |
 | WIL |  |  |

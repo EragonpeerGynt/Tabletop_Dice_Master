@@ -6,7 +6,7 @@ action of rolling 2d6 (modified by advantage and disadvantage) and comparing it 
 
 ### Skill gate:
 
-value of five (5) modified by all affecting modifiers (proficiencies) and stat scores.
+value of five (5) modified by all affecting modifiers (proficiencies) and stat scores. Stat scores are added only if you are at least trained in that check.
 
 ### Critical skill:
 
@@ -27,3 +27,31 @@ how much can player wield on their person (armor + weapons) while still being ef
 ### Gate penalty:
 
 some repeated action impose lower Skill gate after initial one.
+
+### Gate tyranny:
+
+when doing skill check you roll 3d6 and drop the lowest roll
+
+### Gate oppression:
+
+when doing skill check you roll 3d6 and drop the highest roll
+
+### Command token:
+
+poll used by fighting classes that is used for special actions
+
+### Disarm
+
+target of this status is unable to attack with weapon
+
+### Coup De Grace (player)
+
+player makes Attack action against target. On success enemy takes damage and looses action it tried to preform (with all associated action costs).
+
+### Coup De Grace (enemy)
+
+player makes Dodge action against attack. On failiure player takes damage and looses action it tried to preform (with all associated action costs).
+
+### Attack action (Strength check)
+
+Strength check in attack action can be replaced by specific weapon check if it is higher than baseline check.
