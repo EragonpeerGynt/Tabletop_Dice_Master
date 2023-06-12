@@ -24,7 +24,7 @@ Skills:
 |  | Manipulation | Ability to force people to do your bidding thinking they are doing it by free will |
 |  |  |  |
 | AGI | Dodge | Ability to dodge hits in battle |
-|  | Acrobatics | Ability to preform moves not usually possible by humans |
+|  | Parkour | Ability to preform moves not usually possible by humans |
 |  | Cutpurse | Ability to pickpocket items, steal them from plain view, etc. |
 |  | Lockpicking | Ability to unlock mechanical locks |
 |  |  |  |
@@ -55,3 +55,4 @@ Specialized skills (can only be increased with special feats and/or character pr
 | Weapon (any) | Ability to wield specific type of weapon |
 | Armor (any) | Ability to wear specific type of armor |
 | Spellcasting (any) | Ability to cast specific magic |
+| Guard | Ability to not break shield on successfull guard |

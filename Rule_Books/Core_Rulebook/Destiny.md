@@ -26,6 +26,7 @@ Progression:
 Proficiencies:  
 - Weapons: all weapons as trained
 - Armor: all armors as trained
+- Shield: all shields as trained
 - Skills: INT + 2 (min 2)
 - Language: one (1) of their choice with partial understanding of another one (1)
 

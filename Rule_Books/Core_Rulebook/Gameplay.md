@@ -11,6 +11,10 @@ Combat action are any actions player can preform while in combat. Each player ca
 
 Players can use their action to move up to their mobility. Each time player uses this in one turn they reduce their mobility by one (for this turn). Leftover movement from one action cannot be transfered to next one since each action gets resolved by itself.
 
+### Long move (Dash action)
+
+You can use 2 of your actions to preform long move which is equal to 2x your mobility x 2 + 1 but it must be used all at once.
+
 ### Making an attack (Attack action)
 
 Player rolls skill check against their skill gate for attack action (Attack gate). If they succeed they then roll their weapon's damage that DM then substracts from target's life (after applying armor reduction to it).  
@@ -28,6 +32,14 @@ Base Strength gate of multiple attacks:
 ### Preparing for next turn (Overwatch action)
 
 You can burn one of your actions to gain Gate tyranny on all Dodge actions untill your next turn.
+
+### Using item (Interaction action) 
+
+You can use your action to also interact with any object close enough to you or in your inventory. For some items GM may call for Skill gate.
+
+### Guarding (Raise shield action)
+
+If you are at least trained in shields you can use your action to raise the shield and brace for impact. All attack untill your next turn will have to get trough it to deal you damage. You increase your damage reduction by your shield's value, but if you still take damage you need to throw guard gate. if you fail your shield looses it's effectiveness till the end of encounter and you cannot use guard action any more. After encounter you can repair it for free.
 
 ### Getting attacked (Dodge action)
 

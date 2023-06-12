@@ -52,10 +52,10 @@ player makes Attack action against target. On success enemy takes damage and loo
 
 player makes Dodge action against attack. On failiure player takes damage and looses action it tried to preform (with all associated action costs).
 
-### Attack action (Strength check)
+### Attack action (Attack gate)
 
-strength check in attack action can be replaced by specific weapon check if it is higher than baseline check.
+You can replace Weapon gate by STR gate if it has higher skill level than weapon gate but only if you are at least trained in that weapon type.
 
 ### Accurate strike
 
-accurate strike is special attack that can happen once per turn when enemy isn't giving your attack their full attention. Most common exmple is having Gate tyranny on Attack action or if there is a nerby ally (in melee range of the enemy). This can also be granted by GM in special situations
+accurate strike is special attack that can happen once per turn when enemy isn't giving your attack their full attention. Most common exmple is having Gate tyranny on Attack action or if there is a nerby ally (in melee range of the enemy). This can also be granted by GM in special situations. Attack must be made using AGI in Weapon gate calculation.
