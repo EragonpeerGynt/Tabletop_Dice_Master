@@ -1,6 +1,6 @@
 # Destiny
 
-Destiny describes what player wants to achieve in this life. It sets the path he will take and try to reach goals he set for himself
+Destiny describes what player wants to achieve in this life. It sets the path he will take and try to reach goals he set for himself.
 
 ## Warrior
 
