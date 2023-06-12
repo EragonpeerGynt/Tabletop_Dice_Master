@@ -8,7 +8,7 @@ Static increase: none
 Free increase: any two (2)  
 Mobility: 6  
 Vitality: 1d6  
-Passive: When calculating number of gained skill proficiencies (trained and expert) calculate it as them having one (1) higher intelegence
+Passive: When calculating number of gained skill proficiencies (trained and expert) calculate it as them having one (1) higher intelligence
 
 ## Eldyr
 
