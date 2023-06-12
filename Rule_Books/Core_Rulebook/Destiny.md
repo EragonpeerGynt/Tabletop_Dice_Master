@@ -159,7 +159,7 @@ Proficiencies:
 - Spells: Divine Spell gate as trained
 - Spells capacity: WIS x 3 + level
 
-### 1
+### Level 1
 
 Spell preparation: each morning you can prepare number of spells equal to your Spell capacity that you will use in the following day. Spells need to be from Divine spell list, but can be of any level you can cast.
 
