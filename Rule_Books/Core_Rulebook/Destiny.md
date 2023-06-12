@@ -161,7 +161,7 @@ Proficiencies:
 
 ### 1
 
-Spell preparation
+Spell preparation: each morning you can prepare number of spells equal to your Spell capacity that you will use in the following day. Spells need to be from Divine spell list, but can be of any level you can cast.
 
 ### Level 5
 
@@ -187,16 +187,57 @@ Durability: 1d6+1
 Progression:  
 | Level | Feature | Spells known | 1 | 2 | 3 | 4 | 5 |
 |---|---|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 |  | 1 | 2 |
-| 2 |  | 2 | 2 |
+| 1 | Condemnation, Spell preparation | 1 | 2 |
+| 2 | Battle feat | 2 | 2 |
 | 3 | Stat increase | 3 | 3 | 2 |
-| 4 |  | 4 | 3 | 2 |
-| 5 |  | 5 | 3 | 3 | 1 |
+| 4 | General feat | 4 | 3 | 2 |
+| 5 | Battle feat | 5 | 3 | 3 | 1 |
 | 6 | Stat increase | 6 | 3 | 3 | 1 |
-| 7 |  | 7 | 3 | 3 | 2 | 1 |
-| 8 |  | 8 | 3 | 3 | 2 | 1 |
+| 7 | General feat | 7 | 3 | 3 | 2 | 1 |
+| 8 | Battle feat | 8 | 3 | 3 | 2 | 1 |
 | 9 | Stat increase | 9 | 3 | 3 | 2 | 2 | 1 |
-| 10 |  | 10 | 3 | 3 | 2 | 2 | 1 |
+| 10 | General feat, God's favoured | 10 | 3 | 3 | 2 | 2 | 1 |
+
+Proficiencies:  
+- Weapons: all weapons as trained (cannot use ranged modifier)
+- Armor: Light and Half armors as trained
+- Shield: all shields as trained
+- Skills: INT + 2 (min 2)
+- Language: two (2) of their choice with partial understanding of another one (1)
+- Spells: Divine Spell gate as trained
+- Spells capacity: WIS x 3 + level
+
+### Level 1
+
+Condemnation: After you hit enemy with attack (doesn't matter if you delt any damage) you can choose to condemn the target. You deal additional Condemnation damage to it, that completly ignores Armor reduction.
+
+Condemnation damage: Damage is calculated as (WIL+2)d6 damage and all die are Exploding dice.
+
+Condemnation uses: this feature can be used once per round. Crusader gets WIS + 2 use tokens and one (1) is used each time you use Condemnation. They refresh each morning when you are reciting your thesis. After you burn trough these tokens you can still use your spell slots instead of them, but if you use slot of a level lower than your current max spell slot level you deal (max spell slot level) - (used spell slot level) per damage die damage less but never less than one (1).  
+*Example, you use spell slot of 2nd level spell slot when you can already use spell slot of 4th level. In this case difference between 4 and 2 is 2 so you will deal 2 less damage per damage die, but never less than one*
+
+Spell preparation: you regain all expanded spell slots each morning when you are reciting your thesis.
+
+### Level 3
+
+Increase one (1) weapon type (Simple, Status, War) skill level to expert.  
+You gain Expert level Guard gate.
+
+### Level 6
+
+You gain one (1) weapon skill level increases. You can use them on any weapon type (Simple, Status, War).
+You gain one (1) armor skill level increases. You can use them on Light of Half armor type but only to increase it to expert.  
+You gain Specialized level Guard gate.  
+You gain Exper level Divine Spell gate.
+
+### Level 9 
+
+You gain one (1) weapon skill level increases. You can use them on any weapon type (Simple, Status, War).  
+You gain one (1) armor skill level increases. You can use them on Light of Half armor type.
+
+### Level 10
+
+God's favoured: Crusader now gets WIS + WIL + 2 use tokens for Condemnation per day. You can use then instead to completly ignore damage you would recieve (you can do this only with Condemnation tokens and not with spell slots)
 
 ## Scholar
 
@@ -284,5 +325,6 @@ Progression:
 
 <!-- ## Necromancer/Minionmancer
 the idea is class that can controll multiple (as many as possible) minions while still keeping action economy clean and doesn't create too much book keeping.  
-Probably gonna make something between true minionmancer and summoner from PF2 cross-breed with 5e Warlock
+Probably gonna make something between true minionmancer and summoner from PF2 cross-breed with 5e Warlock  
+Maybe something in direction of Spirit caller?
 -->
