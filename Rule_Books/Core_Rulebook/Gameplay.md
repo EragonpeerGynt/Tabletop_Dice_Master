@@ -13,27 +13,31 @@ Players can use their action to move up to their mobility. Each time player uses
 
 ### Making an attack (Attack action)
 
-Player rolls skill check against their skill gate for attack action (Strength gate). If they succeed they then roll their weapon's damage that DM then substracts from target's life (after applying armor reduction to it).  
+Player rolls skill check against their skill gate for attack action (Attack gate). If they succeed they then roll their weapon's damage that DM then substracts from target's life (after applying armor reduction to it).  
 In case of Critical skill all weapon's damage die are maxed and then rolled another time.  
 Each attack action after the first one in a turn has reduced chances of hitting enemy. This means that each attack after first one in a turn gets stacking Gate penalty of two (-2)
 
 Base Strength gate of multiple attacks:  
-| Attack number (in a turn) | Strength gate |
+| Attack number (in a turn) | Attack gate |
 |:---:|:---:|
 | 1 | 5 |
 | 2 | 3 |
 | 3 | 1 |
 | 4 | -1 |
 
+### Preparing for next turn (Overwatch action)
+
+You can burn one of your actions to gain Gate tyranny on all Dodge actions untill your next turn.
+
 ### Getting attacked (Dodge action)
 
-When player gets attacked by normal enemy attack player rolls skill check against their skill gate for dodge action (Agility gate). If they succeed they take no damage. If they fail they reduce enemy's damage by their armor reduction and take remaining damage.  
+When player gets attacked by normal enemy attack player rolls skill check against their skill gate for dodge action (Dodge gate). If they succeed they take no damage. If they fail they reduce enemy's damage by their armor reduction and take remaining damage.  
 In case of Catastrophic skill players don't reduce damage by their armor reduction.  
 Each attack action after the first one in a turn has reduced chances of hitting enemy. This means that each attack after first one in a turn gets stacking Gate penalty of two (-2)  
 In case of Critical skill player doesn't gain Gate penalty.
 
 Base Agility gate of multiple dodges:  
-| Dodge number (in a turn) | Agility gate |
+| Dodge number (in a turn) | Dodge gate |
 |:---:|:---:|
 | 1 | 5 |
 | 2 | 3 |

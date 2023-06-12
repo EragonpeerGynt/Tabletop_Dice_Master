@@ -32,18 +32,21 @@ Proficiencies:
 ### Level 3
 
 Increase one (1) weapon type (Simple, Status, War) skill level to expert.  
-You gain two (2) armor skill level increases. You can use them on any armor type (Cloth, Light, Half, Full) but only to increase it to exper.
+You gain two (2) armor skill level increases. You can use them on any armor type (Cloth, Light, Half, Full) but only to increase it to expert.  
+You gain skill level of expert in static and optional gate (same stats as chosen at character creation).
 
 ### Level 6
 
 You gain one (1) weapon skill level increases. You can use them on any weapon type (Simple, Status, War).  
-You gain one (1) armor skill level increases. You can use them on any armor type (Cloth, Light, Half, Full).
+You gain one (1) armor skill level increases. You can use them on any armor type (Cloth, Light, Half, Full).  
+You gain skill level of specialized in optional gate (same stats as chosen at character creation).
 
 ### Level 9
 
 You gain one (1) weapon skill level increases. You can use them on any weapon type (Simple, Status, War).  
 You gain one (1) armor skill level increases. You can use them on any armor type (Cloth, Light, Half, Full).  
-Your carry capacity is increased by two (2)
+Your carry capacity is increased by two (2)  
+You gain skill level of specialized in static gate and increase skill level by one for skill gate of WIS and WIL.
 
 
 ## Brigand
@@ -96,8 +99,9 @@ You have next limit on skill level (from skill traing feature only)
 | Specialized | 1 |
 
 ### Level 5
-You gain 1 weapon skill level increases. You can use them on any weapon type (Simple, Status, War).  
-You gain 1 armor skill level increases. You can use them on any armor type (Cloth, Light, Half, Full).
+You gain 1 weapon skill level increases. You can use them on weapon types Simple or Status.  
+You gain 1 armor skill level increases. You can use them on armor type Cloth, Light, or Half.  
+You gain skill level of expert in skill gate of AGI and INT.
 
 ### Level 7
 
@@ -108,6 +112,11 @@ You have next limit on skill level (from skill traing feature only)
 | Trained | none |
 | Expert | none |
 | Specialized | 2 |
+
+### Level 9
+
+You gain 2 weapon skill level increases. You can use them on weapon types Simple or Status.  
+You gain skill level of specialized in skill gate of AGI and INT. You gain one skill level in WIS gate
 
 ### Level 10
 
@@ -169,18 +178,18 @@ Optional increase: STR or CON
 Durability: 1d6
 
 Progression:  
-| Level | Feature | 1 | 2 | 3 | 4 | 5 |
-|---|---|:---:|:---:|:---:|:---:|:---:|
-| 1 |  | 2 |
-| 2 |  | 2 |
-| 3 |  | 3 | 2 |
-| 4 |  | 3 | 2 |
-| 5 |  | 3 | 3 | 1 |
-| 6 |  | 3 | 3 | 1 |
-| 7 |  | 3 | 3 | 2 | 1 |
-| 8 |  | 3 | 3 | 2 | 1 |
-| 9 |  | 3 | 3 | 2 | 2 | 1 |
-| 10 |  | 3 | 3 | 2 | 2 | 1 |
+| Level | Feature | Spells known | 1 | 2 | 3 | 4 | 5 |
+|---|---|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 |  | 1 | 2 |
+| 2 |  | 2 | 2 |
+| 3 |  | 3 | 3 | 2 |
+| 4 |  | 4 | 3 | 2 |
+| 5 |  | 5 | 3 | 3 | 1 |
+| 6 |  | 6 | 3 | 3 | 1 |
+| 7 |  | 7 | 3 | 3 | 2 | 1 |
+| 8 |  | 8 | 3 | 3 | 2 | 1 |
+| 9 |  | 9 | 3 | 3 | 2 | 2 | 1 |
+| 10 |  | 10 | 3 | 3 | 2 | 2 | 1 |
 
 ## Alchemist
 
@@ -190,18 +199,18 @@ Optional increase: INT or CON
 Durability: 1d6-1
 
 Progression:  
-| Level | Feature | 1 | 2 | 3 | 4 | 5 |
-|---|---|:---:|:---:|:---:|:---:|:---:|
-| 1 |  | 2 |
-| 2 |  | 2 |
-| 3 |  | 3 | 2 |
-| 4 |  | 3 | 2 |
-| 5 |  | 3 | 3 | 1 |
-| 6 |  | 3 | 3 | 1 |
-| 7 |  | 3 | 3 | 2 | 1 |
-| 8 |  | 3 | 3 | 2 | 1 |
-| 9 |  | 3 | 3 | 2 | 2 | 1 |
-| 10 |  | 3 | 3 | 2 | 2 | 1 |
+| Level | Feature | Spells known | 1 | 2 | 3 | 4 | 5 |
+|---|---|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 |  | 1 | 2 |
+| 2 |  | 2 | 2 |
+| 3 |  | 3 | 3 | 2 |
+| 4 |  | 4 | 3 | 2 |
+| 5 |  | 5 | 3 | 3 | 1 |
+| 6 |  | 6 | 3 | 3 | 1 |
+| 7 |  | 7 | 3 | 3 | 2 | 1 |
+| 8 |  | 8 | 3 | 3 | 2 | 1 |
+| 9 |  | 9 | 3 | 3 | 2 | 2 | 1 |
+| 10 |  | 10 |  3 | 3 | 2 | 2 | 1 |
 
 ## Sorcerer
 
@@ -211,18 +220,18 @@ Optional increase: none
 Durability: 1d6-1
 
 Progression:  
-| Level | Feature | Surge points | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 |  | 2 | 1 |  |  |  |  |  |  |  |  |
-| 2 |  | 4 | 2 | 1 |  |  |  |  |  |  |  |
-| 3 |  | 6 | 2 | 2 | 1 |  |  |  |  |  |  |
-| 4 |  | 8 | 3 | 2 | 1 | 1 |  |  |  |  |  |
-| 5 |  | 10 | 3 | 2 | 2 | 1 | 1 |  |  |  |  |
-| 6 |  | 12 | 3 | 2 | 2 | 2 | 1 | 1 |  |  |  |
-| 7 |  | 14 | 3 | 3 | 2 | 2 | 2 | 1 | 1 |  |  |
-| 8 |  | 16 | 3 | 3 | 3 | 2 | 2 | 2 | 1 | 1 |  |
-| 9 |  | 18 | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 1 | 1 |
-| 10 |  | 20 | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 1 |
+| Level | Feature | Surge points | Spells known | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 |  | 2 | 3 | 1 |  |  |  |  |  |  |  |  |
+| 2 |  | 4 | 5 | 2 | 1 |  |  |  |  |  |  |  |
+| 3 |  | 6 | 7 | 2 | 2 | 1 |  |  |  |  |  |  |
+| 4 |  | 8 | 9 | 3 | 2 | 1 | 1 |  |  |  |  |  |
+| 5 |  | 10 | 11 | 3 | 2 | 2 | 1 | 1 |  |  |  |  |
+| 6 |  | 12 | 13 | 3 | 2 | 2 | 2 | 1 | 1 |  |  |  |
+| 7 |  | 14 | 15 | 3 | 3 | 2 | 2 | 2 | 1 | 1 |  |  |
+| 8 |  | 16 | 17 | 3 | 3 | 3 | 2 | 2 | 2 | 1 | 1 |  |
+| 9 |  | 18 | 19 | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 1 | 1 |
+| 10 |  | 20 | 21 | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 1 |
 
 ## Warmaster
 
