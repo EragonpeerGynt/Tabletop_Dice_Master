@@ -3,11 +3,11 @@
 In combat we have 3 types of timing slices.  
 1. **Round**: Time required for all entities in combat to take turn.
 2. **Turn**: Time required for one entity to make all it's actions.
-3. **Action**: Most basic unit of time in combat. You can do only one thing no matter how simple per action (some things require more than one action)
+3. **Action**: Most basic unit of time in combat. You can do only one thing no matter how simple per action (some things require more than one action).
 
 ## Your turn
 
-On your turn you will (usually) gain three (3) action tokens. You can use action token to make any action. There are some exceptions with spells and feats where some actions might cost multiple action tokens
+On your turn you will (usually) gain three (3) action tokens. You can use action token to make any action. There are some exceptions with spells and feats where some actions might cost multiple action tokens.
 
 Possible actions (GM can add others):  
 | Action | Cost | Requires feat |
