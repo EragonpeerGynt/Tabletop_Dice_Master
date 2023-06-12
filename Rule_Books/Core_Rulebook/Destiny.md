@@ -223,12 +223,15 @@ Spell preparation: you regain all expanded spell slots each morning when you are
 Increase one (1) weapon type (Simple, Status, War) skill level to expert.  
 You gain Expert level Guard gate.
 
+### Level 5
+
+You gain Expert level Divine Spell gate.  
+
 ### Level 6
 
 You gain one (1) weapon skill level increases. You can use them on any weapon type (Simple, Status, War).
 You gain one (1) armor skill level increases. You can use them on Light of Half armor type but only to increase it to expert.  
 You gain Specialized level Guard gate.  
-You gain Exper level Divine Spell gate.
 
 ### Level 9 
 
