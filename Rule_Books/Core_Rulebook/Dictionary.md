@@ -2,11 +2,11 @@
 
 ### Skill check:
 
-action of rolling 2d6 (modified by Gate tyranny and oppression) and comparing it to their skill gate. If result is equal or lower check succeeds.
+action of rolling 2d6 (modified by Gate tyranny and oppression) and comparing it to their skill gate. If result is lower check succeeds.
 
 ### Skill gate:
 
-value of five (5) modified by all affecting modifiers (proficiencies) and stat scores. Stat scores are added only if you are at least trained in that check.
+value of five (5) modified by all affecting modifiers (proficiencies) and stat scores.
 
 ### Critical skill:
 

@@ -140,7 +140,7 @@ Durability: 1d6
 Progression:  
 | Level | Feature | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 |  | 2 |  |  |  |  |  |  |  |  |
+| 1 | Spell preparation | 2 |  |  |  |  |  |  |  |  |
 | 2 |  | 3 | 2 |  |  |  |  |  |  |  |
 | 3 | Stat increase | 3 | 3 | 1 |  |  |  |  |  |  |
 | 4 | General feat | 3 | 3 | 2 | 1 |  |  |  |  |  |
@@ -149,7 +149,7 @@ Progression:
 | 7 | General feat | 4 | 3 | 3 | 2 | 2 | 2 | 1 |  |  |
 | 8 |  | 4 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |  |
 | 9 | Stat increase | 4 | 3 | 3 | 3 | 2 | 2 | 2 | 1 | 1 |
-| 10 | General feat | 4 | 4 | 3 | 3 | 3 | 2 | 2 | 2 | 1 |
+| 10 | General feat, Call of the divine | 4 | 4 | 3 | 3 | 3 | 2 | 2 | 2 | 1 |
 
 Proficiencies:
 - Weapons: Simple weapons as Trained
@@ -157,6 +157,11 @@ Proficiencies:
 - Skills: INT + 4 (min 3)
 - Language: four (4) of their choice
 - Spells: Divine Spell gate as trained
+- Spells capacity: WIS x 3 + level
+
+### 1
+
+Spell preparation
 
 ### Level 5
 
@@ -167,6 +172,10 @@ You gain Expert level Divine Spell gate.
 
 You gain one (1) armor gate increase. You can use it on Cloth or Light Armor gate. 
 You gain Specialized level Divine Spell gate.
+
+### Level 10
+
+Call of the divine. You can attempt to plea and/or pray to your deity. You use Divine Spell gate and on success deity will try to accommodate your request or at least something similar. It will not break it's domain or aligment. If you failed you cannot use this feature untill next morning prayer and if you succeeded you cannot use this feature until seven (7) days have passed.
 
 ## Crusader
 
