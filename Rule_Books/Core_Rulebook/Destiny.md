@@ -100,6 +100,7 @@ You have next limit on skill level (from skill traing feature only)
 | Specialized | 1 |
 
 ### Level 5
+
 You gain 1 weapon skill level increases. You can use them on weapon types Simple or Status.  
 You gain 1 armor skill level increases. You can use them on armor type Cloth, Light, or Half.  
 You gain skill level of expert in skill gate of AGI and INT.
@@ -141,14 +142,52 @@ Progression:
 |---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 |  | 2 |  |  |  |  |  |  |  |  |
 | 2 |  | 3 | 2 |  |  |  |  |  |  |  |
-| 3 |  | 3 | 3 | 1 |  |  |  |  |  |  |
-| 4 |  | 3 | 3 | 2 | 1 |  |  |  |  |  |
+| 3 | Stat increase | 3 | 3 | 1 |  |  |  |  |  |  |
+| 4 | General feat | 3 | 3 | 2 | 1 |  |  |  |  |  |
 | 5 |  | 3 | 3 | 2 | 2 | 1 |  |  |  |  |
-| 6 |  | 4 | 3 | 2 | 2 | 2 | 1 |  |  |  |
-| 7 |  | 4 | 3 | 3 | 2 | 2 | 2 | 1 |  |  |
+| 6 | Stat increase | 4 | 3 | 2 | 2 | 2 | 1 |  |  |  |
+| 7 | General feat | 4 | 3 | 3 | 2 | 2 | 2 | 1 |  |  |
 | 8 |  | 4 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |  |
-| 9 |  | 4 | 3 | 3 | 3 | 2 | 2 | 2 | 1 | 1 |
-| 10 |  | 4 | 4 | 3 | 3 | 3 | 2 | 2 | 2 | 1 |
+| 9 | Stat increase | 4 | 3 | 3 | 3 | 2 | 2 | 2 | 1 | 1 |
+| 10 | General feat | 4 | 4 | 3 | 3 | 3 | 2 | 2 | 2 | 1 |
+
+Proficiencies:
+- Weapons: Simple weapons as Trained
+- Armor: Cloth and Half armor as Trained
+- Skills: INT + 4 (min 3)
+- Language: four (4) of their choice
+- Spells: Divine Spell gate as trained
+
+### Level 5
+
+You gain Expert level Weapons (Simple) gate.
+You gain Expert level Divine Spell gate.
+
+### Level 8
+
+You gain one (1) armor gate increase. You can use it on Cloth or Light Armor gate. 
+You gain Specialized level Divine Spell gate.
+
+## Crusader
+
+Primary stat: STR, WIS, and WIL
+Static increase: WIS   
+Optional increase: STR, CON, or WIL
+Durability: 1d6+1
+
+Progression:  
+| Level | Feature | Spells known | 1 | 2 | 3 | 4 | 5 |
+|---|---|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 |  | 1 | 2 |
+| 2 |  | 2 | 2 |
+| 3 | Stat increase | 3 | 3 | 2 |
+| 4 |  | 4 | 3 | 2 |
+| 5 |  | 5 | 3 | 3 | 1 |
+| 6 | Stat increase | 6 | 3 | 3 | 1 |
+| 7 |  | 7 | 3 | 3 | 2 | 1 |
+| 8 |  | 8 | 3 | 3 | 2 | 1 |
+| 9 | Stat increase | 9 | 3 | 3 | 2 | 2 | 1 |
+| 10 |  | 10 | 3 | 3 | 2 | 2 | 1 |
 
 ## Scholar
 
@@ -170,27 +209,6 @@ Progression:
 | 8 |  | 4 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |  |
 | 9 |  | 4 | 3 | 3 | 3 | 2 | 2 | 2 | 1 | 1 |
 | 10 |  | 4 | 4 | 3 | 3 | 3 | 2 | 2 | 2 | 1 |
-
-## Crusader
-
-Primary stat: STR and WIS  
-Static increase: WIS   
-Optional increase: STR or CON  
-Durability: 1d6
-
-Progression:  
-| Level | Feature | Spells known | 1 | 2 | 3 | 4 | 5 |
-|---|---|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 |  | 1 | 2 |
-| 2 |  | 2 | 2 |
-| 3 |  | 3 | 3 | 2 |
-| 4 |  | 4 | 3 | 2 |
-| 5 |  | 5 | 3 | 3 | 1 |
-| 6 |  | 6 | 3 | 3 | 1 |
-| 7 |  | 7 | 3 | 3 | 2 | 1 |
-| 8 |  | 8 | 3 | 3 | 2 | 1 |
-| 9 |  | 9 | 3 | 3 | 2 | 2 | 1 |
-| 10 |  | 10 | 3 | 3 | 2 | 2 | 1 |
 
 ## Alchemist
 

@@ -59,3 +59,9 @@ You can replace Weapon gate by STR gate if it has higher skill level than weapon
 ### Accurate strike
 
 accurate strike is special attack that can happen once per turn when enemy isn't giving your attack their full attention. Most common exmple is having Gate tyranny on Attack action or if there is a nerby ally (in melee range of the enemy). This can also be granted by GM in special situations. Attack must be made using AGI in Weapon gate calculation.
+
+### Exploding dice
+
+Exploding dice is special status that makes you reroll any dice that falls onto six and keep both results. Second throw also keeps Exploding dice property. Any additional modifiers get resolved as following:
+- per dice modifiers get added or substracted from each die that Exploding dice provided
+- per damage modifiers get added or substracted in the end when you finish all the rolling

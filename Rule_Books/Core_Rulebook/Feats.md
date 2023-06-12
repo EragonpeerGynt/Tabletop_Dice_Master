@@ -6,7 +6,7 @@
 
 | Feat | Effect | Requirement |
 |---|---|---|
-| Skilled | Gain INT + 2 (min 2) additional skill level (up to trained). If taken after level 5 you can increase skill of level trained to expert |
+| Skilled | Gain INT + 2 (min 2) additional skill levels (up to trained). If taken after level 5 you can increase skill of level trained to expert |
 | Soldier | Gain skill level of trained in all status weapons | Skill level trained in Simple weapons |
 | Exotic fighter | Gain skill level of trained in all War weapons | Skill level trained in status weapons |
 | Guardsman | Gain skill level of trained in Half armor | Skill level trained in Light armor |
