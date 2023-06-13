@@ -140,18 +140,18 @@ Optional increase: CON or INT
 Durability: 1d6
 
 Progression:  
-| Level | Feature | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | Spell preparation, Healing savant | 2 |  |  |  |  |  |  |  |  |
-| 2 |  | 3 | 2 |  |  |  |  |  |  |  |
-| 3 | Stat increase | 3 | 3 | 1 |  |  |  |  |  |  |
-| 4 | General feat | 3 | 3 | 2 | 1 |  |  |  |  |  |
-| 5 |  | 3 | 3 | 2 | 2 | 1 |  |  |  |  |
-| 6 | Stat increase | 4 | 3 | 2 | 2 | 2 | 1 |  |  |  |
-| 7 | General feat | 4 | 3 | 3 | 2 | 2 | 2 | 1 |  |  |
-| 8 |  | 4 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |  |
-| 9 | Stat increase | 4 | 3 | 3 | 3 | 2 | 2 | 2 | 1 | 1 |
-| 10 | General feat, Call of the divine | 4 | 4 | 3 | 3 | 3 | 2 | 2 | 2 | 1 |
+| Level | Feature | 1 | 2 | 3 | 4 | 5 |
+|---|---|:---:|:---:|:---:|:---:|:---:|
+| 1 | Spell preparation, Healing savant | 2 |
+| 2 |  | 3 |
+| 3 | Stat increase | 3 | 1 |
+| 4 | General feat | 3 | 2 |
+| 5 |  | 3 | 2 | 1 |
+| 6 | Stat increase | 3 | 2 | 2 |
+| 7 | General feat | 4 | 3 | 2 | 1 |
+| 8 |  | 4 | 3 | 2 | 2 |
+| 9 | Stat increase | 4 | 3 | 2 | 2 | 1 |
+| 10 | General feat, Call of the divine | 4 | 3 | 3 | 2 | 2 |
 
 Proficiencies:
 - Weapons: Simple weapons as Trained
@@ -194,18 +194,18 @@ Optional increase: STR, CON, or WIL
 Durability: 1d6+1
 
 Progression:  
-| Level | Feature | Spells known | 1 | 2 | 3 | 4 | 5 |
-|---|---|:---:|:---:|:---:|:---:|:---:|:---:|
+| Level | Feature | Spells known | 1 | 2 | 3 |
+|---|---|:---:|:---:|:---:|:---:|
 | 1 | Condemnation, Spell preparation | 1 | 2 |
-| 2 | Battle feat | 2 | 2 |
-| 3 | Stat increase | 3 | 3 | 2 |
-| 4 | General feat | 4 | 3 | 2 |
-| 5 | Battle feat | 5 | 3 | 3 | 1 |
-| 6 | Stat increase | 6 | 3 | 3 | 1 |
-| 7 | General feat | 7 | 3 | 3 | 2 | 1 |
-| 8 | Battle feat | 8 | 3 | 3 | 2 | 1 |
-| 9 | Stat increase | 9 | 3 | 3 | 2 | 2 | 1 |
-| 10 | General feat, God's favoured | 10 | 3 | 3 | 2 | 2 | 1 |
+| 2 | Battle feat | 2 | 3 |
+| 3 | Stat increase | 3 | 3 |
+| 4 | General feat | 4 | 3 | 1 |
+| 5 | Battle feat | 5 | 3 | 1 |
+| 6 | Stat increase | 6 | 3 | 2 |
+| 7 | General feat | 7 | 3 | 2 |
+| 8 | Battle feat | 8 | 3 | 2 | 1 |
+| 9 | Stat increase | 9 | 3 | 2 | 1 |
+| 10 | General feat, God's favoured | 10 | 3 | 3 | 2 |
 
 Proficiencies:  
 - Weapons: all weapons as trained (cannot use ranged modifier)
@@ -222,8 +222,8 @@ Condemnation: After you hit enemy with attack (doesn't matter if you delt any da
 
 Condemnation damage: Damage is calculated as (WIL+2)d6 damage and all die are Exploding dice.
 
-Condemnation uses: this feature can be used once per round. Crusader gets WIS + 2 use tokens and one (1) is used each time you use Condemnation. They refresh each morning when you are reciting your thesis. After you burn trough these tokens you can still use your spell slots instead of them, but if you use slot of a level lower than your current max spell slot level you deal (max spell slot level) - (used spell slot level) per damage die damage less but never less than one (1).  
-*Example, you use spell slot of 2nd level spell slot when you can already use spell slot of 4th level. In this case difference between 4 and 2 is 2 so you will deal 2 less damage per damage die, but never less than one*
+Condemnation uses: this feature can be used once per round. Crusader gets WIS + 2 use tokens and one (1) is used each time you use Condemnation. They refresh each morning when you are reciting your thesis. After you burn trough these tokens you can still use your spell slots instead of them, but if you use slot you deal (max spell slot level) + 1 - (used spell slot level) per damage die damage less but never less than one (1).  
+*Example, you use spell slot of 2nd level spell slot when you can already use spell slot of 4th level. In this case difference between 4 and 2 is 2  to which you add 1 so you will deal 3 less damage per damage die, but never less than one*
 
 Spell preparation: Whenever you gain level in this destiny you can forget one spell known and gain as many spells from Divine spell list as required to reach Spells known limit and of level you are capable of casting. You regain all expanded spell slots each morning when you are reciting your thesis.
 
@@ -265,16 +265,16 @@ Durability: 1d6-2
 Progression:  
 | Level | Feature | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | Spell preparation | 2 |  |  |  |  |  |  |  |  |
-| 2 | Spell fluidity | 3 | 2 |  |  |  |  |  |  |  |
-| 3 | Stat increase | 3 | 3 | 1 |  |  |  |  |  |  |
-| 4 | General feat | 3 | 3 | 2 | 1 |  |  |  |  |  |
-| 5 |  | 3 | 3 | 2 | 2 | 1 |  |  |  |  |
-| 6 | Stat increase | 4 | 3 | 2 | 2 | 2 | 1 |  |  |  |
-| 7 | General feat | 4 | 3 | 3 | 2 | 2 | 2 | 1 |  |  |
-| 8 |  | 4 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |  |
-| 9 | Stat increase | 4 | 3 | 3 | 3 | 2 | 2 | 2 | 1 | 1 |
-| 10 | General feat, Magnum opus | 4 | 4 | 3 | 3 | 3 | 2 | 2 | 2 | 1 |
+| 1 | Spell preparation | 2 |
+| 2 | Spell fluidity | 3 |
+| 3 | Stat increase | 3 | 1 |
+| 4 | General feat | 3 | 2 |
+| 5 |  | 3 | 2 | 1 |
+| 6 | Stat increase | 3 | 2 | 2 |
+| 7 | General feat | 4 | 3 | 2 | 1 |
+| 8 |  | 4 | 3 | 2 | 2 |
+| 9 | Stat increase | 4 | 3 | 2 | 2 | 1 |
+| 10 | General feat, Magnum opus | 4 | 3 | 3 | 2 | 2 |
 
 Proficiencies:
 - Weapons: Simple weapons as Trained
@@ -296,7 +296,7 @@ If you find any spell scrolls that contain spell from Arcane spell list you can 
 
 Spell fluidity: You have deep connection to arcane of the world. This means you can:  
 - INT ammount of times a day change one prepared spell for another you haven't prepared but is contained in your Arcane philactery.
-- You can regenerate up to your level spell slots once per day when you are out of combat (all spell levels summed must be of lower or equal value compared to your level).
+- You can regenerate up to half your level (rounded up) spell slots once per day when you are out of combat (all spell levels summed must be of lower or equal value compared to your level).
 
 ### Level 5
 
@@ -325,18 +325,18 @@ Optional increase: INT or CON
 Durability: 1d6-1
 
 Progression:  
-| Level | Feature | Flux damage | Spells known | 1 | 2 | 3 | 4 | 5 |
-|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Level | Feature | Flux damage | Spells known | 1 | 2 | 3 |
+|---|---|:---:|:---:|:---:|:---:|:---:|
 | 1 | Improvised granades, Spell preparation | 1d6 | 1 | 2 |
-| 2 |  | 1d6 | 2 | 2 |
-| 3 | Stat increase | 1d6 | 3 | 3 | 2 |
-| 4 | General feat | 2d6 | 4 | 3 | 2 |
-| 5 |  | 2d6 | 5 | 3 | 3 | 1 |
-| 6 | Stat increase | 2d6 | 6 | 3 | 3 | 1 |
-| 7 | General feat | 3d6 | 7 | 3 | 3 | 2 | 1 |
-| 8 |  | 3d6 | 8 | 3 | 3 | 2 | 1 |
-| 9 | Stat increase | 3d6 | 9 | 3 | 3 | 2 | 2 | 1 |
-| 10 | General feat, Quick thinking | 3d6 | 10 |  3 | 3 | 2 | 2 | 1 |
+| 2 |  | 1d6 | 2 | 3 |
+| 3 | Stat increase | 1d6 | 3 | 3 |
+| 4 | General feat | 2d6 | 4 | 3 | 1 |
+| 5 |  | 2d6 | 5 | 3 | 1 |
+| 6 | Stat increase | 2d6 | 6 | 3 | 2 |
+| 7 | General feat | 3d6 | 7 | 3 | 2 |
+| 8 |  | 3d6 | 8 | 3 | 2 | 1 |
+| 9 | Stat increase | 3d6 | 9 | 3 | 2 | 1 |
+| 10 | General feat, Quick thinking | 3d6 | 10 | 3 | 3 | 2 |
 
 Proficiencies:  
 - Weapons: Simple weapons and any thrown weapons as trained
@@ -375,18 +375,18 @@ Optional increase: none
 Durability: 1d6-1
 
 Progression:  
-| Level | Feature | Surge points | Spells known | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | Spell preparation | 2 | 3 | 1 |  |  |  |  |  |  |  |  |
-| 2 |  | 4 | 5 | 2 | 1 |  |  |  |  |  |  |  |
-| 3 | Stat increase | 6 | 7 | 2 | 2 | 1 |  |  |  |  |  |  |
-| 4 | General feat | 8 | 9 | 3 | 2 | 1 | 1 |  |  |  |  |  |
-| 5 |  | 10 | 11 | 3 | 2 | 2 | 1 | 1 |  |  |  |  |
-| 6 | Stat increase | 12 | 13 | 3 | 2 | 2 | 2 | 1 | 1 |  |  |  |
-| 7 | General feat | 14 | 15 | 3 | 3 | 2 | 2 | 2 | 1 | 1 |  |  |
-| 8 |  | 16 | 17 | 3 | 3 | 3 | 2 | 2 | 2 | 1 | 1 |  |
-| 9 | Stat increase | 18 | 19 | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 1 | 1 |
-| 10 | General feat | 20 | 21 | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 1 |
+| Level | Feature | Surge points | Spells known | 1 | 2 | 3 | 4 | 5 |
+|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 | Spell preparation | 2 | 3 | 1 |
+| 2 |  | 4 | 5 | 2 |
+| 3 | Stat increase | 6 | 7 | 2 | 1 |
+| 4 | General feat | 8 | 9 | 2 | 2 |
+| 5 |  | 10 | 11 | 2 | 2 | 1 |
+| 6 | Stat increase | 12 | 13 | 3 | 2 | 1 |
+| 7 | General feat | 14 | 15 | 3 | 2 | 2 | 1 |
+| 8 |  | 16 | 17 | 3 | 3 | 2 | 1 |
+| 9 | Stat increase | 18 | 19 | 3 | 3 | 2 | 1 | 1 |
+| 10 | General feat | 20 | 21 | 3 | 3 | 2 | 2 | 1 |
 
 ## Warmaster
 
