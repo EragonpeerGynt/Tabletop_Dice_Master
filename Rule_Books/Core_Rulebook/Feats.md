@@ -38,7 +38,7 @@
 |---|---|
 | Claw strike | You can use dual wield feature twice per turn |
 | Cleave | You strike all enemies around you (single Attack action). You deal damage to everyone without strength modifier unless it's negative. Uses two (2) actions.
-| Trip | You can use your Attack action and one (1) Command token to give Gate tyranny to target until the start of it's turn instead of doing damage. You add two (2) tokens to your command pool. |
+| Trip | You can use your Attack action and one (1) Command token to give Marked 1 to target instead of doing damage. You add two (2) tokens to your command pool. |
 | All out | You can use one (1) Command token and use your action to make Attack action against enemy. On hit you deal double (2x) maximum possible damage. You add two (2) tokens to your command pool |
 | Disarm | You can use one (1) Command token to try to disarm target till the start of your next turn. You add two (2) tokens to your command pool. Uses two (2) actions. |
 | Precise strikes | Changes Gate penalty on attack from two (-2) to one (-1) for first attack of the round |

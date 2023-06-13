@@ -65,3 +65,8 @@ accurate strike is special attack that can happen once per turn when enemy isn't
 Exploding dice is special status that makes you reroll any dice that falls onto six and keep both results. Second throw also keeps Exploding dice property. Any additional modifiers get resolved as following:
 - per dice modifiers get added or substracted from each die that Exploding dice provided
 - per damage modifiers get added or substracted in the end when you finish all the rolling
+
+### Status effect step
+
+If status effect contains number after it's name it's long lasting effect. Each time target that has this effect ends it's turn the effect is lowered by one step. When the step number would reach 0 effect ends.  
+*Example*: If you are Slowed 3 this condition changes to Slowed 2 after your turn is finished.

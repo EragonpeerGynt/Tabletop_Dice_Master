@@ -160,7 +160,7 @@ Proficiencies:
 - Skills: INT + 4 (min 3)
 - Stat skill gates: WIS and INT as trained
 - Language: four (4) of their choice
-- Spells: Divine Spell gate as trained
+- Spells: Divine (WIS) Spell gate as trained
 - Spells capacity: WIS x 3 + level / 2
 
 ### Level 1
@@ -214,7 +214,7 @@ Proficiencies:
 - Skills: INT + 2 (min 2)
 - Stat skill gates: STR and WIL as trained
 - Language: two (2) of their choice with partial understanding of another one (1)
-- Spells: Divine Spell gate as trained
+- Spells: Divine (WIS) Spell gate as trained
 
 ### Level 1
 
@@ -282,7 +282,7 @@ Proficiencies:
 - Skills: INT + 3 (min 3)
 - Stat skill gates: INT and WIL as trained
 - Language: six (6) of their choice
-- Spells: Arcane Spell gate as trained
+- Spells: Arcane (INT) Spell gate as trained
 - Spells capacity: INT x 2 + level / 2
 
 ### Level 1
@@ -309,7 +309,7 @@ You gain skill level of trained in skill gate of WIS.
 ### Level 8
 
 You gain specialized level Cloth armor.  
-You gain specialized level Arcane Spell gate.  
+You gain expert level Arcane Spell gate.  
 You gain skill level of specialized in skill gate of INT.  
 You gain skill level of expert in skill gate of WIL.  
 
@@ -344,17 +344,18 @@ Proficiencies:
 - Skills: INT x 2 + 4 (min 4)
 - Stat skill gates: AGI and INT as trained
 - Language: two (3) of their choice
-- Spells: Arcane Spell gate as trained
+- Spells: Arcane (INT) Spell gate as trained
 
 ### Level 1
 
 Improvised granades: Special action that costs one (1) action token. When you use it you produce single alchemical granade. Alchemical granade counts as Simple weapon that has Agile and Thrown modifiers without any of their Detriments. Whenever you hit enemy with alchemical granade you deal additional Flux damage.
 
-Spell preparation: Whenever you gain level in this destiny you can forget one spell known and gain as many spells from Arcanee spell list as required to reach Spells known limit and of level you are capable of casting. You regain all expanded spell slots each morning.
+Spell preparation: Whenever you gain level in this destiny you can forget one spell known and gain as many spells from Arcane spell list as required to reach Spells known limit and of level you are capable of casting. You regain all expanded spell slots each morning.
 
 ### Level 5
 
 You gain skill level of expert in skill gate of Simple weapons and any thrown weapons.  
+You fain skill level of expert in Light armor.  
 You gain skill level of expert in skill gate of INT and AGI
 
 ### Level 8
@@ -372,42 +373,145 @@ Quick thinking: your improvised granades action no longer costs action token. Yo
 Primary stat: WIL or CON  
 Static increase: WIL and CON   
 Optional increase: none  
-Durability: 1d6-1
+Durability: 1d6-2
 
 Progression:  
-| Level | Feature | Surge points | Spells known | 1 | 2 | 3 | 4 | 5 |
-|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | Spell preparation | 2 | 1 | 1 |
-| 2 |  | 4 | 3 | 2 |
-| 3 | Stat increase | 6 | 5 | 2 | 1 |
-| 4 | General feat | 8 | 7 | 2 | 2 |
-| 5 |  | 10 | 9 | 2 | 2 | 1 |
-| 6 | Stat increase | 12 | 11 | 3 | 2 | 1 |
-| 7 | General feat | 14 | 13 | 3 | 2 | 2 | 1 |
-| 8 |  | 16 | 15 | 3 | 3 | 2 | 1 |
-| 9 | Stat increase | 18 | 17 | 3 | 3 | 2 | 1 | 1 |
-| 10 | General feat | 20 | 19 | 3 | 3 | 2 | 2 | 1 |
+| Level | Feature | Base Surge points | Known floods | Spells known | 1 | 2 | 3 | 4 | 5 |
+|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 | Spell preparation, Surge conversion, Occult wildfire | 2 | 0 | 1 | 1 |
+| 2 | Surge flood | 4 | 2 | 3 | 2 |
+| 3 | Stat increase | 6 | 2 | 5 | 2 | 1 |
+| 4 | General feat | 8 | 2 | 7 | 2 | 2 |
+| 5 |  | 10 | 2 | 9 | 2 | 2 | 1 |
+| 6 | Stat increase | 12 | 3 | 11 | 3 | 2 | 1 |
+| 7 | General feat | 14 | 3 | 13 | 3 | 2 | 2 | 1 |
+| 8 |  | 16 | 3 | 15 | 3 | 3 | 2 | 1 |
+| 9 | Stat increase | 18 | 3 | 17 | 3 | 3 | 2 | 1 | 1 |
+| 10 | General feat, Improved wildfire | 20 | 4 | 19 | 3 | 3 | 2 | 2 | 1 |
+
+Proficiencies:
+- Weapons: Simple weapons as Trained
+- Armor: Cloth armor as Trained
+- Skills: INT + 2 (min 1)
+- Stat skill gates: CON and WIL as trained
+- Language: six (2) of their choice
+- Spells: Occult (CON) Spell gate as trained
+
+### Level 1
+
+Spell preparation: Whenever you gain level in this destiny you can forget one spell known and gain as many spells from Occult spell list as required to reach Spells known limit and of level you are capable of casting. You regain all expanded spell slots and Surge points after you take longer rest.
+
+Surge points: Their number is calculated as WIL x 2 + (Base Surge points).
+
+Surge conversion: You can regenerate spell slots by using one (1) action toke and as many Surge points as the slot level regenerated. You can regenerate only Sorcerer spell slots with this and they must be of level you have access to and you cannot have more spell slots at any moment than your maximum spell slots defined in spell slot table.
+
+Occult wildfire: Any time you deal damage with spells you deal additional damage equal to your WIL.
+
+### Level 2
+
+Surge flood: You open yourself to torrents of your innate magic. This gives you ability to modify your spell weaving in any way you see fit for current situation.
+
+Surge flood list:  
+
+| Flood | Surge point cost | Effect |
+|---|:---:|---|
+| Extend | 1 | If your spell uses any status effect it is increased by 1 step |
+| Hawk | 1 | You can double spell's range |
+| Relative | S + 2 | You can exclude any allys caught in spell |
+| Quick | S | You can cast spell with one (1) action token less but only if it requires more than one (1) action token |
+| Hidden | 2 | You cast this spell so it's completely undetectable |
+| Elemental | 1 | You can change damage type to any element you want |
+| Mirror | S | When you cast spell that targets one target you may specify second target |
+
+*S: This means spell level.
+
+### Level 5
+
+You gain expert level Cloth armor.  
+You gain expert level Occult Spell gate.  
+You gain skill level of expert in skill gate of CON and WIL.  
+You gain skill level of trained in skill gate of STR. 
+
+### Level 8
+
+You gain specialized level Cloth armor.  
+You gain expert level Occult Spell gate.  
+You gain skill level of specialized in skill gate of CON and WIL.  
+You gain skill level of expert in skill gate of STR.  
+
+### Level 10
+
+Improved wildfire: Any time you modify spell with Surge flood you don't increase spell damage with normal Occult wildfire but instead add Occult wildfire's bonus to each damage dice thrown.
 
 ## Warmaster
 
 Primary stat: WIL and STR  
 Static increase: WIL   
 Optional increase: STR or CON  
-Durability: 1d6+1
+Durability: 1d6-1
 
 Progression:  
-| Level | Feature | Command tokens | Commands known |
+| Level | Feature | Command tokens | Advanced Commands known |
 |---|---|:---:|:---:|
-| 1 |  | 2 |  |
-| 2 |  | 4 |  |
-| 3 | Stat increase | 6 |  |
-| 4 | General feat | 8 |  |
-| 5 |  | 10 |  |
-| 6 | Stat increase | 12 |  |
-| 7 | General feat | 14 |  |
-| 8 |  | 16 |  |
-| 9 | Stat increase | 18 |  |
-| 10 | General feat | 20 |  |
+| 1 | Martial law, Battle law | 2 | 2 |
+| 2 |  | 4 | 2 |
+| 3 | Stat increase | 6 | 3 |
+| 4 | General feat | 8 | 3 |
+| 5 |  | 10 | 4 |
+| 6 | Stat increase | 12 | 4 |
+| 7 | General feat | 14 | 5 |
+| 8 |  | 16 | 5 |
+| 9 | Stat increase | 18 | 6 |
+| 10 | General feat, Master of war | 20 | 6 |
+
+Proficiencies:  
+- Weapons: simple and status weapons as trained
+- Armor: Cloth, Light, and Half armor as trained
+- Skills: (INT + WIL) x 2 + 4 (min 3)
+- Stat skill gates: WIL and STR as trained
+- Language: six (6) of their choice and can learn up to three (3) additional languages on travels
+
+### Level 1
+
+Martial law: enables you to command your teammates to take actions instead of you.
+
+Battle law: you were trained by greatest masters of combat. You know every dirty secret and move possible and you will use them agains enemies.
+
+List of Martial laws and Battle laws:  
+| Name | Law type | Command cost | Action cost | Default | Description |
+|---|---|:---:|:---:|:---:|---|
+| Attack | Martial | 1 | 1 | &#9744; | You command ally to attack your target. Ally attacks at your Gate penalty. This attack action increases your Gate penalty as if you took the attack action |
+| Move | Martial | 1 | 1 | &#9744; | You command ally to move up to it's speed modified by your movement penalty. This move action increases your movement penalty as if you took the move action |
+| Swap | Martial | 2 | 2 | &#9745; | You command ally to swap places with you or another ally as long as they are close enough to reach each other in one move action. This does not provoke Coup De Grace. |
+| Guard | Martial | 1 | 1 | &#9745; | You command your ally to take guard action. Ally needs to be capable of taking guard action and have shield equiped |
+| Overwatch | Martial | 1 | 1 | &#9745; | You command your ally to take overwatch action |
+| Interaction | Martial | 1 | 1 | &#9745; | You command your ally to interact with environment or to use item he has in range |
+| Pocket sand | Battle | 1 | 1 | &#9745; | You take some of the sand from the ground or pouch that you try to throw into targets eyes. On successfull WIL gate target gets slowness 1 |
+| Caltrops | Martial | 1 | 1 | &#9745; | You scatter pouch of caltrops under target's feet. On successfull WIL gate target gets crippled 2 |
+| Trip | Martial | 1 | 1 | &#9745; | You attempt to trip enemy. On successfull WIL gate target gets prone 1 |
+| Disarm | Martial | 2 | 2 | &#9745; | You attempt to disarm enemy. On successfull WIL gate target becomes disarmed |
+
+### Level 3
+
+Increase one (1) weapon type (Simple, Status) skill level to expert.  
+You gain skill level of expert in skill gate of WIL.
+
+### Level 5
+
+Increase one (1) weapon type (Simple, Status) skill level.  
+You gain two (2) armor skill level increases. You can use them on Cloth, Light, or Half armor type but only to increase it to expert.  
+You gain skill level of expert in skill gate of STR and CON.
+
+### Level 8
+
+Increase one (1) weapon type (Simple, Status) skill level.  
+You gain two (2) armor skill level increases. You can use them on Cloth, Light, or Half armor type.  
+You gain skill level of Specialized in skill gate of WIL.  
+You gain skill level of Specialized in skill gate of STR.
+
+### Level 10
+
+Master of war: You revel in tides of war and playing personal god on the battlefield. You gain two (2) additional action token that you can use each turn. Bonus is increased by one on the first round of combat.
 
 <!-- ## Necromancer/Minionmancer
 the idea is class that can controll multiple (as many as possible) minions while still keeping action economy clean and doesn't create too much book keeping.  
