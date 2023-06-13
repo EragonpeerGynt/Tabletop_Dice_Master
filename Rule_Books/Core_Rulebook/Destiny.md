@@ -343,7 +343,7 @@ Proficiencies:
 - Armor: Light armor as trained
 - Skills: INT x 2 + 4 (min 4)
 - Stat skill gates: AGI and INT as trained
-- Language: two (3) of their choice
+- Language: three (3) of their choice
 - Spells: Arcane (INT) Spell gate as trained
 
 ### Level 1
@@ -394,7 +394,7 @@ Proficiencies:
 - Armor: Cloth armor as Trained
 - Skills: INT + 2 (min 1)
 - Stat skill gates: CON and WIL as trained
-- Language: six (2) of their choice
+- Language: two (2) of their choice
 - Spells: Occult (CON) Spell gate as trained
 
 ### Level 1
