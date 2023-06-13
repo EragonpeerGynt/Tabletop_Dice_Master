@@ -263,8 +263,8 @@ Optional increase: WIL or DEX
 Durability: 1d6-2
 
 Progression:  
-| Level | Feature | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Level | Feature | 1 | 2 | 3 | 4 | 5 |
+|---|---|:---:|:---:|:---:|:---:|:---:|
 | 1 | Spell preparation | 2 |
 | 2 | Spell fluidity | 3 |
 | 3 | Stat increase | 3 | 1 |
