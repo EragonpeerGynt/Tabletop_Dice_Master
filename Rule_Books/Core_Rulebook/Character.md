@@ -22,7 +22,7 @@ In world of Eldyres each person is represented by 6 stats. Their max value witho
 | Stat | Short name | Short description |
 |---|:---:|---|
 | Strength | STR | Physical brute force |
-| Intelegence | INT | Mental brute force |
+| Intelligence | INT | Mental brute force |
 | Agility | AGI | Physical reflexes |
 | Wisdom | WIS | Mental reflexes |
 | Constitution | CON | Physical durability |
