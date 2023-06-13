@@ -16,6 +16,7 @@
 | Defensive casting | Gain Gate tyranny when getting targeted by Coup De Grace because of spell cast. You cannot get targeted by Coup De Grace if your spell is targeting the enemy with ability to do it |
 | Quick thinking | Your actions and spells cannot be stopped by Coup De Grace and your actions and spells fire before they get a hit on you but you take automatic Catastrophic skill if you fail your dodge action |
 | Unphased | Your first dodge action of the turn doesn't increase Gate penalty. On any failed Dodge gate you also don't increase Gate penalty |
+| Tunel vanguard | You increase your Guard gate by one (1) |
 
 ## Racial feats
 
@@ -46,4 +47,5 @@
 | Phalanx | Gives Coup De Grace when enemy tries to enter your melee or polearm range |
 | Mage slayer | Gives Coup De Grace when enemy tries to cast spell in your range (even if you are using ranged weapon) |
 | Savage attacker | After declaring use of this feature all your attacks for this turn gain Gate tyranny, but you have Gate oppresion on all other skill gates till begining of your next turn |
+| Ogre strength | You can wield 2 handed weapons in 1 hand but 2 handed bonus gets lowered from +2 per dice to +1 per dice |
 

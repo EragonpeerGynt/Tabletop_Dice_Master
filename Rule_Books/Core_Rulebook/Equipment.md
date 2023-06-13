@@ -23,17 +23,19 @@ Players can apply modifiers to their weapons that change how weapon behaves in c
 | Two-handed | Adds one (+2) to damage for each base damage die |
 | Versetile | Adds one (+2) to damage when Two-handing the weapon |
 | Polearm | Can strike foes one (1) map unit farther away | Weapon deals one (-1) less damage |
-| Ranged | Weapon gains Agile modifier and can strike targets at range | Weapon looses any damage scaling and deals two (-2) less damage |
+| Ranged | Weapon gains Agile modifier and can strike targets at range | Weapon looses any damage scaling and deals two (-2) less damage and you cannot use it if somebody is in your melee range |
 | Thrown | Weapon can strike targets at half range | Weapon deals one (-1) less damage |
 | Light | If wielding light weapon in off-hand you can strike with it once per turn after Attack action with same gate penalty as original attack | Weapon deals one (-1) less damage |
 
 ### Calculating weapon damage
 
 When calculating how much damage you did on succesfull Attack action you calculate it as following:  
-1. Roll weapon Base damage
+1. Roll weapon Base damage and apply per dice effects
 2. Add any modifiers if they apply
 3. Add any runes if they apply
 4. Add Strength stat
+
+Minimum damage single dice can provide is one (1) even if you have modifiers that would put dice roll into negatives it stays at 1 damage. This is after all the per dice effects are applied. Modifiers and stats can lower total damage down to zero (0) if they are so low.
 
 ## Armor
 
