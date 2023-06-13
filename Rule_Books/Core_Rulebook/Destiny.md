@@ -377,7 +377,7 @@ Durability: 1d6-1
 Progression:  
 | Level | Feature | Surge points | Spells known | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 |  | 2 | 3 | 1 |  |  |  |  |  |  |  |  |
+| 1 | Spell preparation | 2 | 3 | 1 |  |  |  |  |  |  |  |  |
 | 2 |  | 4 | 5 | 2 | 1 |  |  |  |  |  |  |  |
 | 3 | Stat increase | 6 | 7 | 2 | 2 | 1 |  |  |  |  |  |  |
 | 4 | General feat | 8 | 9 | 3 | 2 | 1 | 1 |  |  |  |  |  |
@@ -396,18 +396,18 @@ Optional increase: STR or CON
 Durability: 1d6+1
 
 Progression:  
-| Level | Feature | Command tokens |
-|---|---|:---:|
-| 1 |  | 2 |
-| 2 |  | 4 |
-| 3 | Stat increase | 6 |
-| 4 | General feat | 8 |
-| 5 |  | 10 |
-| 6 | Stat increase | 12 |
-| 7 | General feat | 14 |
-| 8 |  | 16 |
-| 9 | Stat increase | 18 |
-| 10 | General feat | 20 |
+| Level | Feature | Command tokens | Commands known |
+|---|---|:---:|:---:|
+| 1 |  | 2 |  |
+| 2 |  | 4 |  |
+| 3 | Stat increase | 6 |  |
+| 4 | General feat | 8 |  |
+| 5 |  | 10 |  |
+| 6 | Stat increase | 12 |  |
+| 7 | General feat | 14 |  |
+| 8 |  | 16 |  |
+| 9 | Stat increase | 18 |  |
+| 10 | General feat | 20 |  |
 
 <!-- ## Necromancer/Minionmancer
 the idea is class that can controll multiple (as many as possible) minions while still keeping action economy clean and doesn't create too much book keeping.  
