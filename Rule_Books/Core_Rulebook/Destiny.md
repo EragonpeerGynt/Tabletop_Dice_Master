@@ -140,7 +140,7 @@ Durability: 1d6
 Progression:  
 | Level | Feature | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | Spell preparation | 2 |  |  |  |  |  |  |  |  |
+| 1 | Spell preparation, Healing savant | 2 |  |  |  |  |  |  |  |  |
 | 2 |  | 3 | 2 |  |  |  |  |  |  |  |
 | 3 | Stat increase | 3 | 3 | 1 |  |  |  |  |  |  |
 | 4 | General feat | 3 | 3 | 2 | 1 |  |  |  |  |  |
@@ -161,7 +161,9 @@ Proficiencies:
 
 ### Level 1
 
-Spell preparation: each morning you can prepare number of spells equal to your Spell capacity that you will use in the following day. Spells need to be from Divine spell list, but can be of any level you can cast.
+Spell preparation: each morning after prayer you can prepare number of spells equal to your Spell capacity that you will use in the following day. Spells need to be from Divine spell list, but can be of any level you can cast.
+
+Healing savant: each morning you ayter prayer you gain Level / 2 + WIS Healing savant tokens. You can expend one (1) token and one (1) action to heal yourself or target of your choosing. This will heal target for 1d6 health but it can be increased by using more actions where each additional action heals for 1d6 more up to a maximum of 3d6. Healing savant progresses your Gate penalty for attacking by number of steps equal to actions used.
 
 ### Level 5
 
