@@ -161,7 +161,7 @@ Proficiencies:
 - Stat skill gates: WIS and INT as trained
 - Language: four (4) of their choice
 - Spells: Divine Spell gate as trained
-- Spells capacity: WIS x 3 + level
+- Spells capacity: WIS x 3 + level / 2
 
 ### Level 1
 
@@ -283,7 +283,7 @@ Proficiencies:
 - Stat skill gates: INT and WIL as trained
 - Language: six (6) of their choice
 - Spells: Arcane Spell gate as trained
-- Spells capacity: INT x 2 + level
+- Spells capacity: INT x 2 + level / 2
 
 ### Level 1
 
@@ -377,16 +377,16 @@ Durability: 1d6-1
 Progression:  
 | Level | Feature | Surge points | Spells known | 1 | 2 | 3 | 4 | 5 |
 |---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | Spell preparation | 2 | 3 | 1 |
-| 2 |  | 4 | 5 | 2 |
-| 3 | Stat increase | 6 | 7 | 2 | 1 |
-| 4 | General feat | 8 | 9 | 2 | 2 |
-| 5 |  | 10 | 11 | 2 | 2 | 1 |
-| 6 | Stat increase | 12 | 13 | 3 | 2 | 1 |
-| 7 | General feat | 14 | 15 | 3 | 2 | 2 | 1 |
-| 8 |  | 16 | 17 | 3 | 3 | 2 | 1 |
-| 9 | Stat increase | 18 | 19 | 3 | 3 | 2 | 1 | 1 |
-| 10 | General feat | 20 | 21 | 3 | 3 | 2 | 2 | 1 |
+| 1 | Spell preparation | 2 | 1 | 1 |
+| 2 |  | 4 | 3 | 2 |
+| 3 | Stat increase | 6 | 5 | 2 | 1 |
+| 4 | General feat | 8 | 7 | 2 | 2 |
+| 5 |  | 10 | 9 | 2 | 2 | 1 |
+| 6 | Stat increase | 12 | 11 | 3 | 2 | 1 |
+| 7 | General feat | 14 | 13 | 3 | 2 | 2 | 1 |
+| 8 |  | 16 | 15 | 3 | 3 | 2 | 1 |
+| 9 | Stat increase | 18 | 17 | 3 | 3 | 2 | 1 | 1 |
+| 10 | General feat | 20 | 19 | 3 | 3 | 2 | 2 | 1 |
 
 ## Warmaster
 
