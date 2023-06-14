@@ -9,9 +9,9 @@ To use weapon effectively you need to be proficient in their use. Characters can
 Weapons categories:
 | Weapon type | Weapon base damage | Weapon weight |
 |---|:---:|:---:|
-| Simple | 1d6 | 1 |
+| Simple | 1d6 +1 | 1 |
 | Status | 2d6 | 2 |
-| War | 3d6 | 3 |
+| War | 3d6 - 1 | 3 |
 
 ### Weapon modifiers
 
@@ -45,9 +45,9 @@ Armor categories:
 | Armor type | Armor base reduction | Armor weight |
 |---|:---:|:---:|
 | Cloth | none | 0 |
-| Light | 1d6 | 1 |
+| Light | 1d6 + 1 | 1 |
 | Half | 2d6 | 2 |
-| Full | 3d6 | 3 |
+| Full | 3d6 - 1 | 3 |
 
 ### Armor modifiers
 
