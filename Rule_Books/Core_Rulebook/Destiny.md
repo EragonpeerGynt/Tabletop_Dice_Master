@@ -4,6 +4,8 @@ Destiny describes what player wants to achieve in this life. It sets the path he
 
 ## Warrior
 
+TODO: level 1?
+
 Primary stat: STR or AGI  
 Static increase: CON  
 Optional increase: STR or AGI  
@@ -47,7 +49,7 @@ You gain skill level of specialized in optional gate (same stats as chosen at ch
 
 You gain one (1) weapon skill level increases. You can use them on any weapon type (Simple, Status, War).  
 You gain one (1) armor skill level increases. You can use them on any armor type (Cloth, Light, Half, Full).  
-Your carry capacity is increased by two (2)  
+Your carry capacity is increased by two (2).
 You gain skill level of specialized in static gate and increase skill level by one for skill gate of WIS and WIL.
 
 
@@ -81,9 +83,9 @@ Proficiencies:
 
 ### Level 1
 
-Skill training (feature) gives you INT tokens (min 1) to use on skill increases
+Skill training (feature) gives you INT tokens (min 1) to use on skill increases.
 
-You have next limit on skill level (from skill traing feature only)
+You have next limit on skill level (from skill traing feature only).
 
 | Skill level | Skill limit |
 |---|:---:|
@@ -93,7 +95,7 @@ You have next limit on skill level (from skill traing feature only)
 
 ### Level 4
 
-You have next limit on skill level (from skill traing feature only)
+You have next limit on skill level (from skill traing feature only).
 
 | Skill level | Skill limit |
 |---|:---:|
@@ -109,7 +111,7 @@ You gain skill level of expert in skill gate of AGI and INT.
 
 ### Level 7
 
-You have next limit on skill level (from skill traing feature only)
+You have next limit on skill level (from skill traing feature only).
 
 | Skill level | Skill limit |
 |---|:---:|
@@ -120,11 +122,11 @@ You have next limit on skill level (from skill traing feature only)
 ### Level 9
 
 You gain 2 weapon skill level increases. You can use them on weapon types Simple or Status.  
-You gain skill level of specialized in skill gate of AGI and INT. You gain one skill level in WIS gate
+You gain skill level of specialized in skill gate of AGI and INT. You gain one skill level in WIS gate.
 
 ### Level 10
 
-You have next limit on skill level (from skill traing feature only)
+You have next limit on skill level (from skill traing feature only).
 
 | Skill level | Skill limit |
 |---|:---:|
@@ -154,8 +156,8 @@ Progression:
 | 10 | General feat, Call of the divine | 4 | 3 | 3 | 2 | 2 |
 
 Proficiencies:
-- Weapons: Simple weapons as Trained
-- Armor: Cloth and Half armor as Trained
+- Weapons: Simple weapons as trained
+- Armor: Cloth and Half armor as trained
 - Shield: all shields as trained
 - Skills: INT + 4 (min 3)
 - Stat skill gates: WIS and INT as trained
@@ -167,7 +169,7 @@ Proficiencies:
 
 Spell preparation: each morning after prayer you can prepare number of spells equal to your Spell capacity that you will use in the following day. Spells need to be from Divine spell list, but can be of any level you can cast.
 
-Healing savant: each morning you ayter prayer you gain Level / 2 + WIS Healing savant tokens. You can expend one (1) token and one (1) action to heal yourself or target of your choosing. This will heal target for 1d6 health but it can be increased by using more actions where each additional action heals for 1d6 more up to a maximum of 3d6. Healing savant progresses your Gate penalty for attacking by number of steps equal to actions used.
+Healing savant: each morning you after prayer you gain Level / 2 + WIS Healing savant tokens. You can expend one (1) token and one (1) action to heal yourself or target of your choosing. This will heal target for 1d6 health but it can be increased by using more actions where each additional action heals for 1d6 more up to a maximum of 3d6. Healing savant progresses your Gate penalty for attacking by number of steps equal to actions used.
 
 ### Level 5
 
@@ -178,13 +180,13 @@ You gain Expert level Divine Spell gate.
 ### Level 8
 
 You gain one (1) armor gate increase. You can use it on Cloth or Light Armor gate.  
-You gain skill level of specialized in skill gate of WIS  
-You gain skill level of expert in skill gate of INT and WIL   
+You gain skill level of specialized in skill gate of WIS.
+You gain skill level of expert in skill gate of INT and WIL.  
 You gain Specialized level Divine Spell gate.
 
 ### Level 10
 
-Call of the divine. You can attempt to plea and/or pray to your deity. You use Divine Spell gate and on success deity will try to accommodate your request or at least something similar. It will not break it's domain or aligment. If you failed you cannot use this feature untill next morning prayer and if you succeeded you cannot use this feature until seven (7) days have passed.
+Call of the divine. You can attempt to plea and/or pray to your deity. You use Divine Spell gate and on success deity will try to accommodate your request or at least something similar. It will not break it's domain or alignment. If you failed you cannot use this feature until next morning prayer and if you succeeded you cannot use this feature until seven (7) days have passed.
 
 ## Crusader
 
@@ -218,12 +220,12 @@ Proficiencies:
 
 ### Level 1
 
-Condemnation: After you hit enemy with attack (doesn't matter if you delt any damage) you can choose to condemn the target. You deal additional Condemnation damage to it, that completly ignores Armor reduction.
+Condemnation: After you hit enemy with attack (doesn't matter if you dealt any damage) you can choose to condemn the target. You deal additional Condemnation damage to it, that completely ignores Armor reduction.
 
 Condemnation damage: Damage is calculated as (WIL+2)d6 damage and all die are Exploding dice.
 
 Condemnation uses: this feature can be used once per round. Crusader gets WIS + 2 use tokens and one (1) is used each time you use Condemnation. They refresh each morning when you are reciting your thesis. After you burn trough these tokens you can still use your spell slots instead of them, but if you use slot you deal (max spell slot level) + 1 - (used spell slot level) per damage die damage less but never less than one (1).  
-*Example, you use spell slot of 2nd level spell slot when you can already use spell slot of 4th level. In this case difference between 4 and 2 is 2  to which you add 1 so you will deal 3 less damage per damage die, but never less than one*
+*Example, you use spell slot of 2nd level when you can already use spell slot of 4th level. In this case, difference between 4 and 2 is 2  to which you add 1 so you will deal 3 less damage per damage die, but never less than one.*
 
 Spell preparation: Whenever you gain level in this destiny you can forget one spell known and gain as many spells from Divine spell list as required to reach Spells known limit and of level you are capable of casting. You regain all expanded spell slots each morning when you are reciting your thesis.
 
@@ -235,8 +237,8 @@ You gain Expert level Guard gate.
 ### Level 5
 
 You gain Expert level Divine Spell gate.  
-You gain skill level of expert in skill gate of STR and WIL  
-You gain skill level of trained in skill gate of WIS  
+You gain skill level of expert in skill gate of STR and WIL.  
+You gain skill level of trained in skill gate of WIS.  
 
 ### Level 6
 
@@ -248,12 +250,12 @@ You gain Specialized level Guard gate.
 
 You gain one (1) weapon skill level increases. You can use them on any weapon type (Simple, Status, War).  
 You gain one (1) armor skill level increases. You can use them on Light of Half armor type.  
-You gain skill level of specialized in skill gate of STR  
-You gain skill level of expert in skill gate of WIS  
+You gain skill level of specialized in skill gate of STR.  
+You gain skill level of expert in skill gate of WIS.  
 
 ### Level 10
 
-God's favoured: Crusader now gets WIS + WIL + 2 use tokens for Condemnation per day. You can use then instead to completly ignore damage you would recieve (you can do this only with Condemnation tokens and not with spell slots)
+God's favoured: Crusader now gets WIS + WIL + 2 use tokens for Condemnation per day. You can use them instead to completely ignore damage you would receive (you can do this only with Condemnation tokens and not with spell slots).
 
 ## Scholar
 
@@ -287,15 +289,15 @@ Proficiencies:
 
 ### Level 1
 
-Spell preparation: Each time you take longer rest you can change the spells you have prepared to any you have collected in your arcane philactery.  
+Spell preparation: Each time you take longer rest you can change the spells you have prepared to any you have collected in your arcane phylactery.  
 Each time you gain new level in this class you can learn any two (2) new spells from Arcane spell list that are at most of your highest spell slot level.  
-Arcane philactery can be anything you can write in/on. Most scholars choose to use tomes or tattoos for their Arcane philactery, but this is not required.  
-If you find any spell scrolls that contain spell from Arcane spell list you can copy it into your Arcane philactery and you can preprare it in the future.
+Arcane phylactery can be anything you can write in/on. Most scholars choose to use tomes or tattoos for their Arcane phylactery, but this is not required.  
+If you find any spell scrolls that contain spell from Arcane spell list you can copy it into your Arcane phylactery and you can prepare it in the future.
 
 ### Level 3
 
 Spell fluidity: You have deep connection to arcane of the world. This means you can:  
-- INT ammount of times a day change one prepared spell for another you haven't prepared but is contained in your Arcane philactery.
+- INT amount of times a day change one prepared spell for another you haven't prepared but is contained in your Arcane phylactery.
 - You can regenerate up to half your level (rounded up) spell slots once per day when you are out of combat (all spell levels summed must be of lower or equal value compared to your level).
 
 ### Level 5
@@ -327,7 +329,7 @@ Durability: 1d6-1
 Progression:  
 | Level | Feature | Flux damage | Spells known | 1 | 2 | 3 |
 |---|---|:---:|:---:|:---:|:---:|:---:|
-| 1 | Improvised granades, Spell preparation | 1d6 | 1 | 2 |
+| 1 | Improvised grenades, Spell preparation | 1d6 | 1 | 2 |
 | 2 |  | 1d6 | 2 | 3 |
 | 3 | Stat increase | 1d6 | 3 | 3 |
 | 4 | General feat | 2d6 | 4 | 3 | 1 |
@@ -348,7 +350,7 @@ Proficiencies:
 
 ### Level 1
 
-Improvised granades: Special action that costs one (1) action token. When you use it you produce single alchemical granade. Alchemical granade counts as Simple weapon that has Agile and Thrown modifiers without any of their Detriments. Whenever you hit enemy with alchemical granade you deal additional Flux damage.
+Improvised grenades: Special action that costs one (1) action token. When you use it you produce single alchemical grenade. Alchemical grenade counts as Simple weapon that has Agile and Thrown modifiers without any of their Detriments. Whenever you hit enemy with alchemical grenade you deal additional Flux damage.
 
 Spell preparation: Whenever you gain level in this destiny you can forget one spell known and gain as many spells from Arcane spell list as required to reach Spells known limit and of level you are capable of casting. You regain all expanded spell slots each morning.
 
@@ -366,7 +368,7 @@ You gain skill level of expert in skill gate of CON and WIL
 
 ### Level 10
 
-Quick thinking: your improvised granades action no longer costs action token. You add INT per flux damage dice bonus damage.
+Quick thinking: your improvised grenades action no longer costs action token. You add INT per flux damage dice bonus damage.
 
 ## Sorcerer
 
@@ -417,7 +419,7 @@ Surge flood list:
 |---|:---:|---|
 | Extend | 1 | If your spell uses any status effect it is increased by 1 step |
 | Hawk | 1 | You can double spell's range |
-| Relative | S + 2 | You can exclude any allys caught in spell |
+| Relative | S + 2 | You can exclude any allies caught in spell |
 | Quick | S | You can cast spell with one (1) action token less but only if it requires more than one (1) action token |
 | Hidden | 2 | You cast this spell so it's completely undetectable |
 | Elemental | 1 | You can change damage type to any element you want |
@@ -475,7 +477,7 @@ Proficiencies:
 
 Martial law: enables you to command your teammates to take actions instead of you.
 
-Battle law: you were trained by greatest masters of combat. You know every dirty secret and move possible and you will use them agains enemies.
+Battle law: you were trained by greatest masters of combat. You know every dirty secret and move possible and you will use them against enemies.
 
 List of Martial laws and Battle laws:  
 | Name | Law type | Command cost | Action cost | Default | Description |
@@ -483,13 +485,13 @@ List of Martial laws and Battle laws:
 | Attack | Martial | 1 | 1 | &#9744; | You command ally to attack your target. Ally attacks at your Gate penalty. This attack action increases your Gate penalty as if you took the attack action |
 | Move | Martial | 1 | 1 | &#9744; | You command ally to move up to it's speed modified by your movement penalty. This move action increases your movement penalty as if you took the move action |
 | Swap | Martial | 2 | 2 | &#9745; | You command ally to swap places with you or another ally as long as they are close enough to reach each other in one move action. This does not provoke Coup De Grace. |
-| Guard | Martial | 1 | 1 | &#9745; | You command your ally to take guard action. Ally needs to be capable of taking guard action and have shield equiped |
+| Guard | Martial | 1 | 1 | &#9745; | You command your ally to take guard action. Ally needs to be capable of taking guard action and have shield equipped |
 | Overwatch | Martial | 1 | 1 | &#9745; | You command your ally to take overwatch action |
 | Interaction | Martial | 1 | 1 | &#9745; | You command your ally to interact with environment or to use item he has in range |
-| Pocket sand | Battle | 1 | 1 | &#9745; | You take some of the sand from the ground or pouch that you try to throw into targets eyes. On successfull WIL gate target gets slowness 1 |
-| Caltrops | Martial | 1 | 1 | &#9745; | You scatter pouch of caltrops under target's feet. On successfull WIL gate target gets crippled 2 |
-| Trip | Martial | 1 | 1 | &#9745; | You attempt to trip enemy. On successfull WIL gate target gets prone 1 |
-| Disarm | Martial | 2 | 2 | &#9745; | You attempt to disarm enemy. On successfull WIL gate target becomes disarmed |
+| Pocket sand | Battle | 1 | 1 | &#9745; | You take some of the sand from the ground or pouch that you try to throw into targets eyes. On successful WIL gate target gets slowness 1 |
+| Caltrops | Martial | 1 | 1 | &#9745; | You scatter pouch of caltrops under target's feet. On successful WIL gate target gets crippled 2 |
+| Trip | Martial | 1 | 1 | &#9745; | You attempt to trip enemy. On successful WIL gate target gets prone 1 |
+| Disarm | Martial | 2 | 2 | &#9745; | You attempt to disarm enemy. On successful WIL gate target becomes disarmed |
 
 ### Level 3
 
