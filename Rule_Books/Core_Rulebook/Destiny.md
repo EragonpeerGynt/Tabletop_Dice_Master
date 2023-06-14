@@ -223,7 +223,7 @@ Condemnation: After you hit enemy with attack (doesn't matter if you delt any da
 Condemnation damage: Damage is calculated as (WIL+2)d6 damage and all die are Exploding dice.
 
 Condemnation uses: this feature can be used once per round. Crusader gets WIS + 2 use tokens and one (1) is used each time you use Condemnation. They refresh each morning when you are reciting your thesis. After you burn trough these tokens you can still use your spell slots instead of them, but if you use slot you deal (max spell slot level) + 1 - (used spell slot level) per damage die damage less but never less than one (1).  
-*Example, you use spell slot of 2nd level spell slot when you can already use spell slot of 4th level. In this case difference between 4 and 2 is 2  to which you add 1 so you will deal 3 less damage per damage die, but never less than one*
+*Example, you use spell slot of 1st level spell slot when you can already use spell slot of 3rd level. In this case difference between 3 and 1 is 2  to which you add 1 so you will deal 3 less damage per damage die, but never less than one*
 
 Spell preparation: Whenever you gain level in this destiny you can forget one spell known and gain as many spells from Divine spell list as required to reach Spells known limit and of level you are capable of casting. You regain all expanded spell slots each morning when you are reciting your thesis.
 
