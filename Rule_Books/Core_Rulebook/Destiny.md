@@ -188,9 +188,9 @@ Call of the divine. You can attempt to plea and/or pray to your deity. You use D
 
 ## Crusader
 
-Primary stat: STR, WIS, and WIL
+Primary stat: STR, WIS, and WIL  
 Static increase: WIS   
-Optional increase: STR, CON, or WIL
+Optional increase: STR, CON, or WIL  
 Durability: 1d6+1
 
 Progression:  
