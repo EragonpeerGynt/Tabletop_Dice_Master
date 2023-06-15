@@ -24,7 +24,7 @@ There are multiple ways of healing wounds like spells and potions but they all c
 
 | Level \\ Type | Full | Half | Low | Specialist |
 |----|:---:|:---:|:---:|:---:|
-|  1 | CON x 2 (min 1) + WIL (min 1) | CON x 2 (min 1) + WIL (min 1) | CON (min 1) + WIL (min 1) | CON (min 0) + WIL (min 1) |
+|  1 | CON (min 1) x 2 + WIL (min 1) | CON (min 1) x 2 + WIL (min 1) | CON (min 1) x 2 + WIL (min 1) | CON (min 1) x 2 + WIL (min 1) |
 |  2 | CON (min 1) | CON (min 0) |
 |  3 | WIL (min 1) | WIL (min 1) | CON (min 0) | CON (min 0) |
 |  4 | CON (min 1) | CON (min 0) |
