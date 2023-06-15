@@ -19,13 +19,14 @@ Players can apply modifiers to their weapons that change how weapon behaves in c
 
 | Modifier | Effect | Detriment |
 |---|---|---|
-| Agile | Player can use Agility gate instead of Strength gate when takin attack action with this weapon | Weapon deals one (-1) less damage |
-| Two-handed | Adds one (+2) to damage for each base damage die |
-| Versetile | Adds one (+2) to damage when Two-handing the weapon |
-| Polearm | Can strike foes one (1) map unit farther away | Weapon deals one (-1) less damage |
+| Agile | Player can use Agility gate instead of Strength gate when making attack action with this weapon |
+| Cantrip | Player can use their Spell gate instead of Strength gate when making attack action with this weapon | Weapon's damage check is done with Gate oppression |
+| Two-handed | Gain Gate tyranny and causes additional wound but requires Two-handing to use the weapon |
+| Versetile | Gain Gate tyranny when Two-handing the weapon |
+| Polearm | Can strike foes one (1) map unit farther away |
 | Ranged | Weapon gains Agile modifier and can strike targets at range | Weapon looses any damage scaling and deals two (-2) less damage and you cannot use it if somebody is in your melee range |
 | Thrown | Weapon can strike targets at half range | Weapon deals one (-1) less damage |
-| Light | If wielding light weapon in off-hand you can strike with it once per turn after Attack action with same gate penalty as original attack | Weapon deals one (-1) less damage |
+| Light | If wielding light weapon in off-hand you can strike with it once per turn after Attack action with same gate penalty as original attack | Weapon's damage check is done with Gate oppression |
 
 ### Calculating weapon damage
 
@@ -45,9 +46,9 @@ Armor categories:
 | Armor type | Armor base reduction | Armor weight |
 |---|:---:|:---:|
 | Cloth | none | 0 |
-| Light | 1d6 + 1 | 1 |
-| Half | 2d6 | 2 |
-| Full | 3d6 - 1 | 3 |
+| Light | Gate oppression | 1 |
+| Half | Standard gate | 2 |
+| Full | Gate tyranny | 3 |
 
 ### Armor modifiers
 
@@ -55,7 +56,7 @@ Players can apply modifiers to their armor that change how armor behaves in comb
 
 | Modifier | Effect | Detriment |
 |---|---|---|
-| Unmovable | Gate penalty on attack get's lower from two (-2) to one (1) | Player takes one (+1) more damage |
+| Unmovable | Gate penalty on attack gets lower from two (-2) to one (-1) | Player makes Armor reduction gate with oppression |
 | Sturdy | Player takes one (-1) less damage for each base armor die | Player looses one (-1) of their base mobility |
 
 ### Calculating damage taken
@@ -88,12 +89,12 @@ Runes are additional customizations for weapons and armor. They can be applied t
 Weapon runes:  
 | Rune | Effect | Rune slots |
 |---|---|:---:|
-| Striking | adds additional 1d6 damage to war or status weapon | 1 |
-| Demolision | adds additional 1d6 damage to war weapon | 1 |
-| Exploding | if you rool six (6) on a damage die you roll additional 1d6 for damage. You continue rolling this way as long as you keep getting sixes (6) | 1 |
+| Striking | causes additional wound on war or status weapons | 1 |
+| Demolision | causes additional wound on war weapons | 1 |
+| Exploding | if you roll one (1) on damage dice you can reroll higher of the remaining damage die. You repeat as long as you are rolling ones (1) or untill you run out of damage die to reroll | 1 |
 | Precision +1 | increases Skill gate when attacking by one (+1) | 1 |
 | Precision +2 | increases Skill gate when attacking by two (+2) only appliable on status and war weapons | 2 |
-| Chaneling | increases Skill gate when using spells by one (+1)  only appliable on status and war weapons | 1 |
+| Chaneling | increases Skill gate when using spells by one (+1) only appliable on status and war weapons | 1 |
 | Spell +n | gain one spell slot of each level that is lower or equal **n** | n |
 
 Armor runes:
@@ -102,11 +103,12 @@ Armor runes:
 | Protection +1 | increases Skill gate for Dodge action by one (+1) | 1 |
 | Protection +2 | increases Skill gate for Dodge action by two (+2) on half and full armors | 2 |
 | Protection +3 | increases Skill gate for Dodge action by three (+3) on full armors | 2 |
-| Guardian | first Dodge action of the turn doesn't increase Gate penalty | 1 |
+| Guardian | first Dodge action of the turn doesn't increase Evasive Gate penalty | 1 |
 
 Shield runes:
 | Rune | Effect | Rune slots |
 |---|---|:---:|
-| Hardness +1 | increase armor reduction of shield by one (+1) | 1 |
+<!--| Hardness +1 | increase armor reduction of shield by one (+1) | 1 |
 | Hardness +2 | increase armor reduction of shield by two (+2) | 2 |
 | Hardness +3 | increase armor reduction of shield by three (+3) | 3 |
+Rework required -->

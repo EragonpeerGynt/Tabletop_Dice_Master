@@ -13,7 +13,7 @@ Players can use their action to move up to their mobility. Each time player uses
 
 ### Long move (Dash action)
 
-You can use 2 of your actions to preform long move which is equal to 2x your mobility x 2 + 1 but it must be used all at once.
+You can use 2 of your actions to preform long move which is equal to 2x your mobility plus one (1) (mobility x 2 + 1) but it must be used all at once.
 
 ### Making an attack (Attack action)
 
