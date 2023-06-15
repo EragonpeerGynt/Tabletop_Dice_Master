@@ -17,8 +17,8 @@ You can use 2 of your actions to preform long move which is equal to 2x your mob
 
 ### Making an attack (Attack action)
 
-Player rolls skill check against their skill gate for attack action (Attack gate). If they succeed they then roll their weapon's damage that DM then substracts from target's life (after applying armor reduction to it).  
-In case of Critical skill all weapon's damage die are maxed and then rolled another time.  
+Player rolls skill check against their skill gate for attack action (Attack gate). If they succeed they then roll their weapon's damage and if that is higher than target's armor reduction GM increases target's wounds by one (1).  
+In case of Critical gate target takes one (1) wound even if damage doesn't penetrate Armor reduction (and further one (1) if it does penetrate Armor reduction)   
 Each attack action after the first one in a turn has reduced chances of hitting enemy. This means that each attack after first one in a turn gets stacking Gate penalty of two (-2)
 
 Base Strength gate of multiple attacks:  
@@ -43,8 +43,8 @@ If you are at least trained in shields you can use your action to raise the shie
 
 ### Getting attacked (Dodge action)
 
-When player gets attacked by normal enemy attack player rolls skill check against their skill gate for dodge action (Dodge gate). If they succeed they take no damage. If they fail they reduce enemy's damage by their armor reduction and take remaining damage.  
-In case of Catastrophic skill players don't reduce damage by their armor reduction.  
+When player gets attacked by normal enemy attack player rolls skill check against their skill gate for dodge action (Dodge gate). If they succeed they take no damage. If they fail they roll Armor reduction and if it is lower than attacker's damage they take one (1) wound.  
+In case of Catastrophic gate player automaticly takes one (1) wound and further one if they roll Armor reduction under enemy damage.   
 Each attack action after the first one in a turn has reduced chances of hitting enemy. This means that each attack after first one in a turn gets stacking Gate penalty of two (-2)  
 In case of Critical skill player doesn't gain Gate penalty.
 

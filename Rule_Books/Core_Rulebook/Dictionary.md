@@ -8,6 +8,10 @@ action of rolling 2d6 (modified by Gate tyranny and oppression) and comparing it
 
 value of five (5) modified by all affecting modifiers (proficiencies) and stat scores.
 
+### Unmodified check:
+
+Skill check without modifiers. You throw 2d6 and try to get value of less than five (5)
+
 ### Critical skill:
 
 when you roll at least 5 below skill gate you may expirience additional benefits.
@@ -26,15 +30,15 @@ how much can player wield on their person (armor + weapons) while still being ef
 
 ### Gate penalty:
 
-some repeated action impose lower Skill gate after initial one.
+some repeated action impose lower Skill gate after initial one. We have Offensive Gate penalty and Evasive Gate penalty that are each tracked by different counter.
 
 ### Gate tyranny:
 
-when doing skill check you roll 3d6 and drop the lowest roll
+when doing skill check you roll 3d6 and drop the highest roll
 
 ### Gate oppression:
 
-when doing skill check you roll 3d6 and drop the highest roll
+when doing skill check you roll 3d6 and drop the lowest roll
 
 ### Command token:
 
@@ -70,3 +74,19 @@ Exploding dice is special status that makes you reroll any dice that falls onto 
 
 If status effect contains number after it's name it's long lasting effect. Each time target that has this effect ends it's turn the effect is lowered by one step. When the step number would reach 0 effect ends.  
 *Example*: If you are Slowed 3 this condition changes to Slowed 2 after your turn is finished.
+
+### Vitality
+
+Character capacity to keep on fighting aftair sustaining injury.
+
+### Wound
+
+How serious characters injuries are currently.
+
+### Durability
+
+Characters ability to ignore physical and mental pain.
+
+### Stress
+
+How much pain character is in currently

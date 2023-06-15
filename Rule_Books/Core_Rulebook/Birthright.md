@@ -7,7 +7,7 @@ Most common birthright in Eldyres. They don't live for very long, but are very p
 Static increase: none  
 Free increase: any two (2)  
 Mobility: 6  
-Vitality: 1d6  
+Vitality: 3 + STR (min 1)  
 Passive: When calculating number of gained skill proficiencies (trained and expert) calculate it as them having one (1) higher intelligence.
 
 ## Eldyr
@@ -19,7 +19,7 @@ Birthright of the old world. Few remain and even fewer reach out to other birthr
 Static increase: Intelligence  
 Free increase: any one (1) of: Agility, Willpower  
 Mobility: 6  
-Vitality: 1d6-1  
+Vitality: 2 + STR (min 1)  
 Passive: They gain 1 additional spell slot for each level of available spells up to and including 6th level slots.
 
 ### Eldyr - Half
@@ -27,7 +27,7 @@ Passive: They gain 1 additional spell slot for each level of available spells up
 Static increase: Agility  
 Free increase: any two (2) of: Strength, Intelligence, Wisdom, Constitution, Willpower  
 Mobility: 6  
-Vitality: 1d6-1  
+Vitality: 2 + STR (min 1)  
 Passive: None.
 
 ### Eldyr - Dew
@@ -35,7 +35,7 @@ Passive: None.
 Static increase: Wisdom  
 Free increase: any one (1) of: Agility, Constitution   
 Mobility: 7  
-Vitality: 1d6-1  
+Vitality: 2 + STR (min 1)  
 Passive: They gain proficiency in 2d6 ranged weapons.
 
 ## Stonborne
@@ -47,7 +47,7 @@ For some life infused golems and for others living libraries of ages passed. One
 Static increase: Intelligence  
 Free increase: any one (1) of: Agility, Constitution  
 Mobility: 5  
-Vitality: 1d6+1  
+Vitality: 4 + STR (min 1)  
 Passive: They gain ability to wear any type of light or medium armor.
 
 ### Stoneborne - Forgotten
@@ -55,7 +55,7 @@ Passive: They gain ability to wear any type of light or medium armor.
 Static increase: Strength  
 Free increase: any one (1) of: Wisdom, Constitution  
 Mobility: 5  
-Vitality: 1d6+1  
+Vitality: 4 + STR (min 1)  
 Passive: They gain 1 additional hp per life die.
 
 ### Stoneborne - Cosmic
@@ -63,7 +63,7 @@ Passive: They gain 1 additional hp per life die.
 Static increase: Willpower  
 Free increase: Intelegence, Constitution  
 Mobility: 5  
-Vitality: 1d6+1  
+Vitality: 4 + STR (min 1)  
 Passive: They gain +1 luck bonus to any save vs spell.
 
 ## Forsaken

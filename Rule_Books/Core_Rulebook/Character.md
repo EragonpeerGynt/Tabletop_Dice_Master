@@ -27,8 +27,3 @@ In world of Eldyres each person is represented by 6 stats. Their max value witho
 | Wisdom | WIS | Mental reflexes |
 | Constitution | CON | Physical durability |
 | Willpower | WIL | Mental durability |
-
-## Health
-
-Maximum health is calculated as:  
-**Durability + STR + Level x (Vitality + CON)**

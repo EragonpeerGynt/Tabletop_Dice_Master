@@ -65,7 +65,7 @@ When calculating how much damage you take on failed Dodge action you calculate i
 2. Add any modifiers if they apply
 3. Add skill level for each Armor base reduction die
 4. Add any runes if they apply
-5. Lower damage by calculated value and lower your health by remaining ammount
+5. Lower damage by calculated value and lower your health by remaining amount
 
 ## Shield
 
