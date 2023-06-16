@@ -35,7 +35,7 @@ Surge points: Their number is calculated as WIL x 2 + (Base Surge points).
 
 Surge conversion: You can regenerate spell slots by using one (1) action toke and as many Surge points as the slot level regenerated. You can regenerate only Sorcerer spell slots with this and they must be of level you have access to and you cannot have more spell slots at any moment than your maximum spell slots defined in spell slot table.
 
-Occult wildfire: Any time you deal damage with spells you deal additional damage equal to your WIL.
+Occult wildfire: Any time you deal damage with spells you deal additional damage Wounds equal to your WIL (min 0).
 
 ## Level 2
 
@@ -71,4 +71,4 @@ You gain skill level of expert in skill gate of STR.
 
 ## Level 10
 
-Improved wildfire: Any time you modify spell with Surge flood you don't increase spell damage with normal Occult wildfire but instead add Occult wildfire's bonus to each damage dice thrown.
+Improved wildfire: Any time you modify spell with Surge flood you don't increase spell damage with normal Occult wildfire but instead add wounds equal to WIL + CON (min 0).
