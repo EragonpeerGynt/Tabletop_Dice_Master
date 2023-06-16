@@ -39,7 +39,7 @@ You can use your action to also interact with any object close enough to you or 
 
 ### Guarding (Raise shield action)
 
-If you are at least trained in shields you can use your action to raise the shield and brace for impact. All attack untill your next turn will have to get trough it to deal you damage. You increase your damage reduction by your shield's value, but if you still take damage you need to throw guard gate. if you fail your shield looses it's effectiveness till the end of encounter and you cannot use guard action any more. After encounter you can repair it for free.
+If you are at least trained in shields you can use your action to raise the shield and brace for impact. All attack untill your next turn will have to get trough it to deal you damage. If you would take damage you don't, raise shield action is finished, and you need to throw guard gate. If you fail your shield looses it's effectiveness till the end of encounter and you cannot use guard action any more. After encounter you can repair it for free.
 
 ### Getting attacked (Dodge action)
 
