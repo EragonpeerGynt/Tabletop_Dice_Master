@@ -2,6 +2,8 @@
 
 ## Character creation
 
+<!-- I need to clarify how increases work and probably tag them better in actual documents. That way players won't get confused what and by how much they should increase -->
+
 For character creation you need to follow 3 simple steps. You begin with all stats at -2. In each step you can boost specific stat **ONLY ONCE**
 
 1. Choose your **BIRTRIGHT** and select one (1) of the available stat boosts (you recieve static boost for "free")
