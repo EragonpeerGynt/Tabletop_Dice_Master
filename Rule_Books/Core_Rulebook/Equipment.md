@@ -9,9 +9,9 @@ To use weapon effectively you need to be proficient in their use. Characters can
 Weapons categories:
 | Weapon type | Weapon base damage | Weapon weight |
 |---|:---:|:---:|
-| Simple | 1d6 +1 | 1 |
-| Status | 2d6 | 2 |
-| War | 3d6 - 1 | 3 |
+| Simple | Gate oppression | 1 |
+| Status | Standart Gate | 2 |
+| War | Gate Tyrany | 3 |
 
 ### Weapon modifiers
 
@@ -45,7 +45,7 @@ To use armor effectively you need to be proficient in their use. Characters can 
 Armor categories:  
 | Armor type | Armor base reduction | Armor weight |
 |---|:---:|:---:|
-| Cloth | none | 0 |
+| Cloth | Double Gate oppression | 0 |
 | Light | Gate oppression | 1 |
 | Half | Standard gate | 2 |
 | Full | Gate tyranny | 3 |

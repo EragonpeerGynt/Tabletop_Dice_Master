@@ -2,7 +2,7 @@
 
 ### Skill check:
 
-action of rolling 2d6 (modified by Gate tyranny and oppression) and comparing it to their skill gate. If result is lower check succeeds.
+action of rolling 2d6 - 2 (modified by Gate tyranny and oppression) and comparing it to their skill gate. If result is lower check succeeds.
 
 ### Skill gate:
 
@@ -10,7 +10,7 @@ value of five (5) modified by all affecting modifiers (proficiencies) and stat s
 
 ### Unmodified check:
 
-Skill check without modifiers. You throw 2d6 and try to get value of less than five (5)
+Skill check without modifiers. You throw 2d6 - 2 and try to get value of less than five (5)
 
 ### Critical skill:
 
@@ -38,7 +38,11 @@ when doing skill check you roll 3d6 and drop the highest roll
 
 ### Gate oppression:
 
-when doing skill check you roll 3d6 and drop the lowest roll
+when doing skill check you roll 3d6 and drop the lowest roll  
+
+### Double Gate oppression:
+
+when doing skill check you roll 3d6 - 3
 
 ### Command token:
 
@@ -59,10 +63,6 @@ player makes Dodge action against attack. On failiure player takes damage and lo
 ### Attack action (Attack gate)
 
 You can replace Weapon gate by STR gate if it has higher skill level than weapon gate but only if you are at least trained in that weapon type.
-
-### Accurate strike
-
-accurate strike is special attack that can happen once per turn when enemy isn't giving your attack their full attention. Most common exmple is having Gate tyranny on Attack action or if there is a nerby ally (in melee range of the enemy). This can also be granted by GM in special situations. Attack must be made using AGI in Weapon gate calculation.
 
 ### Exploding dice
 

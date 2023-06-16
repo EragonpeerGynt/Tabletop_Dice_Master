@@ -17,7 +17,7 @@ You can use 2 of your actions to preform long move which is equal to 2x your mob
 
 ### Making an attack (Attack action)
 
-Player rolls skill check against their skill gate for attack action (Attack gate). If they succeed they then roll their weapon's damage and if that is higher than target's armor reduction GM increases target's wounds by one (1).  
+Player rolls skill check against their skill gate for attack action (Attack gate). If they succeed they then roll their weapon's damage gate and if that is successfull GM increases target's wounds by one (1).  
 In case of Critical gate target takes one (1) wound even if damage doesn't penetrate Armor reduction (and further one (1) if it does penetrate Armor reduction)   
 Each attack action after the first one in a turn has reduced chances of hitting enemy. This means that each attack after first one in a turn gets stacking Gate penalty of two (-2)
 

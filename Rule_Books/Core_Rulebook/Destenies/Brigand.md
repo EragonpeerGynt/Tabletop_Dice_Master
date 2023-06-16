@@ -8,16 +8,16 @@ Destiny type: Half
 Progression:  
 | Level | Feature | Accurate strike |
 |---|---|---|
-| 1 | Skill training | 1d6 |
-| 2 | Stat increase | 1d6 |
-| 3 | General feat | 2d6 |
-| 4 | Skill training | 2d6 |
-| 5 | Stat increase | 3d6 |
-| 6 | General feat | 3d6 |
-| 7 | Skill training | 4d6 |
-| 8 | Stat increase | 4d6 |
-| 9 | General feat | 5d6 |
-| 10 | Stat increase and Skill traing | 5d6 |
+| 1 | Skill training | 1 |
+| 2 | Stat increase | 1 |
+| 3 | General feat | 2 |
+| 4 | Skill training | 2 |
+| 5 | Stat increase | 3 |
+| 6 | General feat | 3 |
+| 7 | Skill training | 4 |
+| 8 | Stat increase | 4 |
+| 9 | General feat | 5 |
+| 10 | Stat increase and Skill traing | 5 |
 
 Proficiencies:  
 - Weapons: simple weapons as trained
@@ -27,6 +27,11 @@ Proficiencies:
 - Language: two (2) of their choice 
 
 ## Level 1
+
+Accurate strike: once per turn when enemy isn't giving your attack their full attention you can use one additional action to find hole in their defense and strike it.  
+You deal wounds equal to your Accurate strike value if you make agility based damage gate.  
+Most common exmples of target not giving you attention are target Gate tyranny on Attack action or if there is a nerby ally (in melee range of the target). This can also be granted by GM in special situations.  
+If dual wielding and you used backstab after first attack you can use free attack of dual wield instead of full action.
 
 Skill training (feature) gives you INT tokens (min 1) to use on skill increases
 

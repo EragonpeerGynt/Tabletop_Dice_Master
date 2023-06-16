@@ -8,16 +8,16 @@ Destiny type: Low
 Progression:  
 | Level | Feature | Flux damage | Spells known | 1 | 2 | 3 |
 |---|---|:---:|:---:|:---:|:---:|:---:|
-| 1 | Improvised granades, Spell preparation | 1d6 | 1 | 2 |
-| 2 |  | 1d6 | 2 | 3 |
-| 3 | Stat increase | 1d6 | 3 | 3 |
-| 4 | General feat | 2d6 | 4 | 3 | 1 |
-| 5 |  | 2d6 | 5 | 3 | 1 |
-| 6 | Stat increase | 2d6 | 6 | 3 | 2 |
-| 7 | General feat | 3d6 | 7 | 3 | 2 |
-| 8 |  | 3d6 | 8 | 3 | 2 | 1 |
-| 9 | Stat increase | 3d6 | 9 | 3 | 2 | 1 |
-| 10 | General feat, Quick thinking | 3d6 | 10 | 3 | 3 | 2 |
+| 1 | Improvised granades, Spell preparation | 1 | 1 | 2 |
+| 2 |  | 1 | 2 | 3 |
+| 3 | Stat increase | 1 | 2 | 3 |
+| 4 | General feat | 2 | 3 | 3 | 1 |
+| 5 |  | 2 | 3 | 3 | 1 |
+| 6 | Stat increase | 2 | 4 | 3 | 2 |
+| 7 | General feat | 3 | 4 | 3 | 2 |
+| 8 |  | 3 | 5 | 3 | 2 | 1 |
+| 9 | Stat increase | 3 | 5 | 3 | 2 | 1 |
+| 10 | General feat, Quick thinking | 3 | 6 | 3 | 3 | 2 |
 
 Proficiencies:  
 - Weapons: Simple weapons and any thrown weapons as trained
@@ -29,7 +29,7 @@ Proficiencies:
 
 ## Level 1
 
-Improvised granades: Special action that costs one (1) action token. When you use it you produce single alchemical granade. Alchemical granade counts as Simple weapon that has Agile and Thrown modifiers without any of their Detriments. Whenever you hit enemy with alchemical granade you deal additional Flux damage.
+Improvised granades: Special action that costs one (1) action token. When you use it you produce single alchemical granade. Alchemical granade counts as Simple weapon that has Agile and Thrown modifiers without any of their Detriments. Whenever you deal wound to the enemy with alchemical granade you deal additional Flux damage.
 
 Spell preparation: Whenever you gain level in this destiny you can forget one spell known and gain as many spells from Arcane spell list as required to reach Spells known limit and of level you are capable of casting. You regain all expanded spell slots each morning.
 
@@ -47,4 +47,4 @@ You gain skill level of expert in skill gate of CON and WIL
 
 ## Level 10
 
-Quick thinking: your improvised granades action no longer costs action token. You add INT per flux damage dice bonus damage.
+Quick thinking: your improvised granades action no longer costs action token. You add INT wounds any time you deal flux damage.
