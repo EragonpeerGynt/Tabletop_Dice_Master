@@ -1,8 +1,7 @@
 # Alchemist
 
 Primary stat: AGI and INT  
-Static increase: AGI   
-Optional increase: INT or CON  
+Available stat boosts: select any two (2) out of AGI, INT, and CON.  
 Destiny type: Low
 
 Progression:  

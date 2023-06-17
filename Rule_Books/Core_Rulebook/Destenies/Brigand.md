@@ -1,8 +1,7 @@
 # Brigand
 
 Primary stat: AGI  
-Static increase: AGI   
-Optional increase: INT or WIS  
+Available stat boosts: select any two (2) out of AGI, INT, and WIS.  
 Destiny type: Half
 
 Progression:  

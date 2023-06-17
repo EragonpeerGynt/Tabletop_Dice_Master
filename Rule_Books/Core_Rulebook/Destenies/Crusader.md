@@ -1,8 +1,7 @@
 # Crusader
 
 Primary stat: STR, WIS, and WIL  
-Static increase: WIS   
-Optional increase: STR, CON, or WIL  
+Available stat boosts: select any two (2) out of WIS, STR, CON, and WIL.  
 Destiny type: Full
 
 Progression:  

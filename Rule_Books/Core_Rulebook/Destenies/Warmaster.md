@@ -1,8 +1,7 @@
 # Warmaster
 
 Primary stat: WIL and STR  
-Static increase: WIL   
-Optional increase: STR or CON  
+Available stat boosts: select any two (2) out of WIL, STR, and CON.  
 Destiny type: Low
 
 Progression:  

@@ -1,8 +1,7 @@
 # Sorcerer
 
 Primary stat: WIL or CON  
-Static increase: WIL and CON   
-Optional increase: none  
+Available stat boosts: you gain stat increase in WIL and CON.  
 Destiny type: Specialist
 
 Progression:  

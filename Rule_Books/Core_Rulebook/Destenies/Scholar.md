@@ -1,8 +1,7 @@
 # Scholar
 
 Primary stat: INT  
-Static increase: INT   
-Optional increase: WIL or DEX  
+Available stat boosts: select any two (2) out of INT, WIL, and DEX.  
 Destiny type: Low
 
 Progression:  

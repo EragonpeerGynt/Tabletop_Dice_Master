@@ -1,8 +1,7 @@
 # Warrior
 
 Primary stat: STR or AGI  
-Static increase: CON  
-Optional increase: STR or AGI  
+Available stat boosts: select any two (2) out of  CON, STR, and AGI.  
 Destiny type: Full  
 
 Progression:  
@@ -31,13 +30,13 @@ Proficiencies:
 
 Increase one (1) weapon type (Simple, Status, War) skill level to expert.  
 You gain two (2) armor skill level increases. You can use them on any armor type (Cloth, Light, Half, Full) but only to increase it to expert.  
-You gain skill level of expert in static and optional gate (same stats as chosen at character creation).
-
+You gain skill level of expert in CON and STR gate.
 ## Level 6
 
 You gain one (1) weapon skill level increases. You can use them on any weapon type (Simple, Status, War).  
 You gain one (1) armor skill level increases. You can use them on any armor type (Cloth, Light, Half, Full).  
-You gain skill level of specialized in optional gate (same stats as chosen at character creation).
+You gain skill level of specialized in STR gate.  
+You gain skill level of expert in AGI gate.
 
 ## Level 9
 
