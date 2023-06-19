@@ -1,73 +1,79 @@
 # Dictionary
 
-### Skill check:
+<!-- ### Skill check:
 
-action of rolling 2d6 - 2 (modified by Gate tyranny and oppression) and comparing it to their skill gate. If result is lower check succeeds.
+action of rolling 2d6 - 2 (modified by Gate tyranny and oppression) and comparing it to their skill gate. If result is lower check succeeds. -->
 
-### Skill gate:
+### Skill test:
 
-value of five (5) modified by all affecting modifiers (proficiencies) and stat scores.
+Action of player rolling 2d6-2 and comparing it to their *Skill target*. If numbered rolled is lower than *Skill target* *Skill test* is counted as success.  
+When you find ***skill name*** *test* this denotes a specific check of that skill.
 
-### Unmodified check:
+<!-- ### Skill gate:
 
-Skill check without modifiers. You throw 2d6 - 2 and try to get value of less than five (5)
+value of five (5) modified by all affecting modifiers (proficiencies) and stat scores. -->
 
-### Critical skill:
+### Skill target:  
+ 
+Is number calculated as five (5) plus all modifiers. It is used in *Skill test*.
 
-when you roll at least 5 below skill gate you may expirience additional benefits.
+### Unmodified test:
 
-### Catastrophic skill:
+*Skill test* without any modifiers. You throw 2d6-2 and try to get value of less than five (5).
 
-when you roll at least 5 above skill gate you may expirience additional penalties.
+### Critical test:
+
+Is triggered when you roll at least 5 below *Skill target* on *Skill test* you may expirience additional benefits.
+
+### Catastrophic test:
+
+Is triggered when you roll at least 5 above *Skill target* on *Skill test* you may expirience additional penalties.
 
 ### Ranged strike:
 
-you can target creatures up to 10 map units away
+You can target creatures up to 10 map units away. If you don't have *Negative test* for this attack range can be extended up to 20 map units away but you gain *Negative test*.
 
 ### Carry capacity:
 
-how much can player wield on their person (armor + weapons) while still being effective in combat. It's calculated as Strength + five (5)
+How much can player wield and carry on their person (armor + weapons) while still being effective in combat. It's calculated as STR + five (5)
 
-### Gate penalty:
+### Test penalty:
 
-some repeated action impose lower Skill gate after initial one. We have Offensive Gate penalty and Evasive Gate penalty that are each tracked by different counter.
+some repeated action impose lower *Skill target* after initial one. We have *Offensive penalty* and *Evasive penalty* that are each tracked by different counter.  
+Default penalty starts at 0 and is increased by 2 each turn. Some feats, abilities, and modifications may change how this operates.
 
-### Gate tyranny:
+### Positive test:
 
-when doing skill check you roll 3d6 and drop the highest roll
+When doing *Skill test* you roll 3d6 instead of 2d6 and drop the highest roll
 
-### Gate oppression:
+### Negative test:
 
-when doing skill check you roll 3d6 and drop the lowest roll  
+When doing *Skill test* you roll 3d6 instead of 2d6 and drop the lowest roll  
 
-### Double Gate oppression:
+### Multiple Positive and Negative test modifiers:
 
-when doing skill check you roll 3d6 - 3
+As long as you have at least one (1) *Negative test* modifier and ant least one (1) *Positive test* modifier you do this test as normal (not being Positive or Negative test).
 
 ### Command token:
 
-poll used by fighting classes that is used for special actions
-
-### Disarm
-
-target of this status is unable to attack with weapon
+Pool of tokes used by fighting classes that can be exchanged for special actions in combat.
 
 ### Coup De Grace (player)
 
-player makes Attack action against target. On success enemy takes damage and looses action it tried to preform (with all associated action costs).
+Player makes ***Attack*** *test* against target if conditions for it are triggered. On success enemy takes damage and looses action it tried to preform (with all associated action costs).
 
 ### Coup De Grace (enemy)
 
-player makes Dodge action against attack. On failiure player takes damage and looses action it tried to preform (with all associated action costs).
+Player makes ***Dodge*** *test* against attack. On failiure player makes ***Armor Reduction*** *test* and if it also fails this one they take damage and looses action they tried to preform (with all associated action costs).
 
-### Attack action (Attack gate)
+### Attack test
 
-You can replace Weapon gate by STR gate if it has higher skill level than weapon gate but only if you are at least trained in that weapon type.
+Action where player attempts to hit the target. This *Skill test* is done with the Skill level of weapon equiped and STR modifier
 
 ### Exploding dice
 
 Exploding dice is special status that makes you reroll any dice that falls onto six and keep both results. Second throw also keeps Exploding dice property. Any additional modifiers get resolved as following:
-- per dice modifiers get added or substracted from each die that Exploding dice provided
+- per dice modifiers **DON'T** get added or substracted from each die that Exploding dice provided
 - per damage modifiers get added or substracted in the end when you finish all the rolling
 
 ### Status effect step
@@ -77,16 +83,16 @@ If status effect contains number after it's name it's long lasting effect. Each 
 
 ### Vitality
 
-Character capacity to keep on fighting aftair sustaining injury.
+Players capacity to keep on fighting aftair sustaining injury.
 
 ### Wound
 
-How serious characters injuries are currently.
+How serious player's injuries are currently.
 
 ### Durability
 
-Characters ability to ignore physical and mental pain.
+Players ability to ignore physical and mental pain.
 
 ### Stress
 
-How much pain character is in currently
+How much pain player is in currently.
