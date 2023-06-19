@@ -26,15 +26,15 @@ Possible actions (GM can add others):
 
 \* N/A (not applicable) because each spell defines it's own action cost.
 
-Each time you take offensive action your Gate penalty will progress by one step. It begins at 0 and each offensive action lowers it (making it harder for you to succeed in following gates). This Gate penalty gets reset at the end of your turn.
+Each time you take *Attack test* your *Offensive penalty* will progress by one step. It begins at 0 and each offensive action increases it (making it harder for you to succeed in following tests). This *Test penalty* gets reset at the end of your turn.
 
 ## Your actions outside your turn
 
-You can preform Coup De Grace actions granted by features and feats even when it's not your turn. To use them enemy must trigger condition for triggering it after which you decide if you want to use it or not. You can use only one Coup De Grace action per turn.
+You can preform *Coup De Grace* actions granted by features and feats even when it's not your turn. To use them enemy must trigger condition for triggering it after which you decide if you want to use it or not. You can use only one *Coup De Grace* action per turn.
 
 ## Reactions to enemies
 
-When it is enemy's turn they will usually use actions that effect you. When this happens, you will need to use Appropriate skill gate to defend against them.
+When it is enemy's turn they will usually use actions that effect you. When this happens, you will need to use appropriate skill test to defend against them.
 
 Posible actions (GM can add others):
 | Action | Requires feat |
@@ -43,4 +43,4 @@ Posible actions (GM can add others):
 | Spell resist | &#9744; |
 | Call to arms | &#9745; |
 
-Each time you take evasive and/or defensive action your Gate penalty will progress by one step. It begins at 0 and each evasive and/or defensive action lowers it (making it harder for you to succeed in following gates). This Gate penalty get's reset at the start of your turn.
+Each time you take evasive and/or defensive action your *Evasive penalty* will progress by one step. It begins at 0 and each evasive and/or defensive action increases it (making it harder for you to succeed in following test). This *Test penalty* gets reset at the start of your turn.

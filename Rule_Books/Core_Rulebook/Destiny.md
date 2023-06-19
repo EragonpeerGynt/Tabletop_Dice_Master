@@ -2,21 +2,21 @@
 
 Destiny describes what player wants to achieve in this life. It sets the path he will take and try to reach goals he set for himself.
 
-## [Warrior](./Destenies/Warrior.md)
+## [Warrior](./Destinies/Warrior.md)
 
-## [Brigand](./Destenies/Brigand.md)
+## [Brigand](./Destinies/Brigand.md)
 
-## [Priest](./Destenies/Priest.md)
+## [Priest](./Destinies/Priest.md)
 
-## [Crusader](./Destenies/Crusader.md)
+## [Crusader](./Destinies/Crusader.md)
 
-## [Scholar](./Destenies/Scholar.md)
+## [Scholar](./Destinies/Scholar.md)
 
-## [Alchemist](./Destenies/Alchemist.md)
+## [Alchemist](./Destinies/Alchemist.md)
 
-## [Sorcerer](./Destenies/Sorcerer.md)
+## [Sorcerer](./Destinies/Sorcerer.md)
 
-## [Warmaster](./Destenies/Sorcerer.md)
+## [Warmaster](./Destinies/Sorcerer.md)
 
 <!-- ## Necromancer/Minionmancer
 the idea is class that can controll multiple (as many as possible) minions while still keeping action economy clean and doesn't create too much book keeping.  

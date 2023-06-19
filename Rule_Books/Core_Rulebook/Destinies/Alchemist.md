@@ -46,4 +46,4 @@ You gain skill level of expert in skill gate of CON and WIL
 
 ## Level 10
 
-Quick thinking: your improvised granades action no longer costs action token. You add INT for each flux damage dice and if you hit enemy you deal additional INT wounds to it (min 1).
+Quick thinking: your improvised granades action no longer costs action token. You add INT for each flux damage die and if you hit enemy you deal additional INT wounds to it (min 1).

@@ -8,7 +8,7 @@ For character creation you need to follow 4 simple steps. You begin with all sta
 
 1. Choose your **BIRTRIGHT** and select two (2) of the available stat boosts.
 2. Choose your **LEGACY** and select two (2) of the available stat boosts.
-3. Choose your **DESTINY** and select two (2) of the available stat boosts. You become trained in these two Gate checks.
+3. Choose your **DESTINY** and select two (2) of the available stat boosts. You become trained in these two *Skill tests*.
 4. Choose your **CONSTALATION**. Constalation increases one (1) stat left at the base value (-2) by two (2) or increases two (2) stats left at the base value (-2) by one (1)
 
 *Optional Rule:*  

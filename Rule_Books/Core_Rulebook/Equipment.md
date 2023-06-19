@@ -1,6 +1,6 @@
 # Equipment
 
-Each player has Carry capacity (how much weight they can carry while still being effective in combat) of ther Strength stat + five (5). Weapon weight is calculated as Weapon weight + number of applied modifiers and Armor weight is calculated as Armor weight + number of applied modifiers. These two numbers together need to be below or equal Carry capacity
+Each player has *Carry capacity* (how much weight they can carry while still being effective in combat) of their STR + five (5). Weapon weight is calculated as Weapon weight + number of applied modifiers and Armor weight is calculated as Armor weight + number of applied modifiers. These two numbers together need to be below or equal *Carry capacity*.
 
 ## Weapons
 
@@ -19,19 +19,19 @@ Players can apply modifiers to their weapons that change how weapon behaves in c
 
 | Modifier | Effect | Detriment |
 |---|---|---|
-| Agile | Player can use Agility gate instead of Strength gate when takin attack action with this weapon | Weapon deals one (-1) less damage |
-| Cantrip | Player can use their Spell gate instead of Strength gate when making attack action with this weapon | Weapon deals one (-1) less damage |
+| Agile | Player can use Attack (AGI) test instead of Attack (STR) test when taking attack action with this weapon | Weapon deals one (-1) less damage |
+| Cantrip | Player can use their Spell test instead of Attack (STR) test when making attack action with this weapon | Weapon deals one (-1) less damage |
 | Two-handed | Adds one (+2) to damage for each base damage die |
 | Versetile | Adds one (+2) to damage when Two-handing the weapon |
 | Polearm | Can strike foes one (1) map unit farther away | Weapon deals one (-1) less damage |
 | Ranged | Weapon gains Agile modifier and can strike targets at range | Weapon looses any damage scaling and deals two (-2) less damage and you cannot use it if somebody is in your melee range |
 | Thrown | Weapon can strike targets at half range | Weapon deals one (-1) less damage |
-| Light | If wielding light weapon in off-hand you can strike with it once per turn after Attack action with same gate penalty as original attack | Weapon deals one (-1) less damage |
+| Light | If wielding light weapon in off-hand you can strike with it once per turn after Attack action with same Offensive penalty as original attack | Weapon deals one (-1) less damage |
 
 ### Calculating weapon damage
 
 When calculating how much damage you did on succesfull Attack action you calculate it as following:  
-1. Roll weapon Base damage
+1. Roll weapon damage
 2. Add any modifiers if they apply
 3. Add any runes if they apply
 4. Add Strength stat
@@ -56,8 +56,8 @@ Players can apply modifiers to their armor that change how armor behaves in comb
 
 | Modifier | Effect | Detriment |
 |---|---|---|
-| Unmovable | Gate penalty on attack get's lower from two (-2) to one (1) | Player takes one (+1) more damage |
-| Sturdy | Player takes one (-1) less damage for each base armor die | Player looses one (-1) of their base mobility |
+| Unmovable | Gate penalty on attack get's lower from two (2) to one (1) | Player takes one (+1) more damage |
+| Sturdy | Player gains one (1) *Armor reduction* for each base armor die | Player looses one (-1) of their base mobility |
 
 ### Calculating damage taken
 
@@ -66,11 +66,11 @@ When calculating how much damage you take on failed Dodge action you calculate i
 2. Add any modifiers if they apply
 3. Add skill level for each Armor base reduction die
 4. Add any runes if they apply
-5. Lower damage by calculated value and lower your health by remaining ammount
+5. If the damage taken is higher than calculated value you take specified amount of *Wound*s
 
 ## Shield
 
-Shield is active armor that combatant needs to use in exchange of an action. It temporary boosts your armor reduction but it can break.
+Shield is active armor that combatant needs to use in exchange of an action. It temporary boosts your *Armor reduction* but it can break.
 
 There is only one shield type and it has Armor base reduction of 1d6 but they do come in multiple qualities.
 
@@ -78,9 +78,9 @@ There is only one shield type and it has Armor base reduction of 1d6 but they do
 
 | Modifier | Effect | Detriment |
 |---|---|---|
-| Quick reflexes | You can use your reaction to activate Raise shield action (only for this hit) after you learn that you failed dodge gate but before you know if you have taken any damage. You can use this once per encounter | You need to make Guard gate even if you didn't take any damage |
-| Battlefield repairs | Each time your shield takes damage you instead loose one modifier, but you can still use your shield. When you run out of modifiers you cannot use shield anymore |
-| Shield redirection | After using Raise shield action and attack not getting trough your armor reduction you can use Coup De Grace against the attacker |
+| Quick reflexes | You can use *Coup De Grace* to activate *Raise shield* action (only for this hit) after you learn that you failed *Dodge test* but before you know if you have taken any damage. You can use this once per encounter | You need to make Guard test even if you didn't take any *Wound*s |
+| Battlefield repairs | Each time your shield takes damage you instead loose one modifier (if you discard this one, shield behaves like a normal one from then on), but you can still use your shield. When you run out of modifiers you cannot use shield anymore |
+| Shield redirection | After using Raise shield action and attack not getting trough your armor reduction you can use *Coup De Grace* against the attacker |
 
 ## Runes
 
@@ -89,26 +89,26 @@ Runes are additional customizations for weapons and armor. They can be applied t
 Weapon runes:  
 | Rune | Effect | Rune slots |
 |---|---|:---:|
-| Striking | adds additional 1d6 damage to war or status weapon | 1 |
+| Striking | adds additional 1d6 damage to *Status* or *War* weapon | 1 |
 | Demolision | adds additional 1d6 damage to war weapon | 1 |
 | Wounding | weapons deals additional wound | 1 |
 | Exploding | if you roll six (6) on a damage die you roll additional 1d6 for damage. You continue rolling this way as long as you keep getting sixes (6) | 1 |
-| Precision +1 | increases Skill gate when attacking by one (+1) | 1 |
-| Precision +2 | increases Skill gate when attacking by two (+2) only appliable on status and war weapons | 2 |
-| Chaneling | increases Skill gate when using spells by one (+1) only appliable on status and war weapons | 2 |
+| Precision +1 | increases *Attack test* when attacking by one (+1) | 1 |
+| Precision +2 | increases *Attack test* when attacking by two (+2) only appliable on *Status* and *War* weapons | 2 |
+| Chaneling | increases Spell test when using spells by one (+1) only appliable on *Status* and *War* weapons | 2 |
 | Spell +n | gain one spell slot of each level that is lower or equal **n** | n |
 
 Armor runes:
 | Rune | Effect | Rune slots |
 |---|---|:---:|
-| Protection +1 | increases Skill gate for Dodge action by one (+1) | 1 |
-| Protection +2 | increases Skill gate for Dodge action by two (+2) on half and full armors | 2 |
-| Protection +3 | increases Skill gate for Dodge action by three (+3) on full armors | 2 |
-| Guardian | first Dodge action of the turn doesn't increase Gate penalty | 1 |
+| Protection +1 | increases *Dodge test* by one (+1) | 1 |
+| Protection +2 | increases *Dodge test* by two (+2) on *Half* and *Full* armors | 2 |
+| Protection +3 | increases *Dodge test* by three (+3) on *Full armors* | 2 |
+| Guardian | first *Dodge test* of the turn doesn't increase *Offensive penalty* | 1 |
 
 Shield runes:
 | Rune | Effect | Rune slots |
 |---|---|:---:|
-| Hardness +1 | increase armor reduction of shield by one (+1) | 1 |
-| Hardness +2 | increase armor reduction of shield by two (+2) | 2 |
-| Hardness +3 | increase armor reduction of shield by three (+3) | 3 |
+| Hardness +1 | increase *Armor reduction* of shield by one (+1) | 1 |
+| Hardness +2 | increase *Armor reduction* of shield by two (+2) | 2 |
+| Hardness +3 | increase *Armor reduction* of shield by three (+3) | 3 |

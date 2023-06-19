@@ -43,7 +43,7 @@ For some life infused golems and for others living libraries of ages passed. One
 Available stat boosts: select any two (2) out of Intelligence, Agility, and Constitution.  
 Mobility: 5  
 Vitality: 4 + STR (min 1)  
-Passive: They gain ability to wear any type of light or medium armor.
+Passive: They gain ability to wear any type of light or medium armor (they become trained in them).
 
 ### Stoneborne - Forgotten
 
@@ -57,7 +57,7 @@ Passive: They gain 1 additional hp per life die.
 Available stat boosts: select any two (2) out of Willpower, Intelegence, and Constitution.  
 Mobility: 5  
 Vitality: 4 + STR (min 1)  
-Passive: They gain +1 luck bonus to any save vs spell.
+Passive: They gain +1 luck bonus to any *Skill test* vs spell.
 
 ## Forsaken
 
