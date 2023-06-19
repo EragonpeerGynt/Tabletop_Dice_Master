@@ -1,6 +1,6 @@
 # Gameplay
 
-Every skill check is resolved by rolling two (2) six (6) sided die (2d6) and substracting 2 (this gives us range of 0-10 with Gauss like graph of variability). Exceptions to this rule are advantage where you roll 3d6 and take higher 2 and disadvantage where you roll 3d6 and take lower 2. It is roll under system, where default success is to roll 5 or under, with player modifiers being able to increase range of this possibility.  
+Every skill check is resolved by rolling two (2) six (6) sided die (2d6) and substracting 2 (this gives us range of 0-10 with Gauss like graph of variability). Exceptions to this rule are advantage where you roll 3d6 and take lower 2 and disadvantage where you roll 3d6 and take higher 2. It is roll under system, where default success is to roll 5 or under, with player modifiers being able to increase range of this possibility.  
 Also important is that this system is GM light, where GM can and should put all his energy into telling stories (either trough combat or social interactions) without having to slow down to roll. This is why all rolls are made by the player.  
 
 ## Combat actions
@@ -17,7 +17,7 @@ You can use 2 of your actions to preform long move which is equal to 2x your mob
 
 ### Making an attack (Attack action)
 
-Player rolls skill check against their skill gate for attack action (Attack gate). If they succeed they then roll their weapon's damage gate and if that is successfull GM increases target's wounds by one (1).  
+Player rolls skill check against their skill gate for attack action (Attack gate). If they succeed they then roll their weapon's damage and if that is higher than monster's armor reduction GM increases target's wounds by one (1).  
 In case of Critical gate target takes one (1) wound even if damage doesn't penetrate Armor reduction (and further one (1) if it does penetrate Armor reduction)   
 Each attack action after the first one in a turn has reduced chances of hitting enemy. This means that each attack after first one in a turn gets stacking Gate penalty of two (-2)
 
@@ -39,7 +39,7 @@ You can use your action to also interact with any object close enough to you or 
 
 ### Guarding (Raise shield action)
 
-If you are at least trained in shields you can use your action to raise the shield and brace for impact. All attack untill your next turn will have to get trough it to deal you damage. If you would take damage you don't, raise shield action is finished, and you need to throw guard gate. If you fail your shield looses it's effectiveness till the end of encounter and you cannot use guard action any more. After encounter you can repair it for free.
+If you are at least trained in shields you can use your action to raise the shield and brace for impact. All attack untill your next turn will have to get trough it to deal you damage. This functions as additional armor reduction. If you take damage and you need to throw guard gate. If you fail your shield looses it's effectiveness till the end of encounter and you cannot use guard action any more. After encounter you can repair it for free.
 
 ### Getting attacked (Dodge action)
 

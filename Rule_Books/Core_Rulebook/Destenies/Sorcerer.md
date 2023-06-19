@@ -32,9 +32,9 @@ Spell preparation: Whenever you gain level in this destiny you can forget one sp
 
 Surge points: Their number is calculated as WIL x 2 + (Base Surge points).
 
-Surge conversion: You can regenerate spell slots by using one (1) action toke and as many Surge points as the slot level regenerated. You can regenerate only Sorcerer spell slots with this and they must be of level you have access to and you cannot have more spell slots at any moment than your maximum spell slots defined in spell slot table.
+Surge conversion: You can regenerate spell slots by using one (1) action token and as many Surge points as the slot level regenerated. You can regenerate only Sorcerer spell slots with this and they must be of level you have access to and you cannot have more spell slots at any moment than your maximum spell slots defined in spell slot table.
 
-Occult wildfire: Any time you deal damage with spells you deal additional damage Wounds equal to your WIL (min 0).
+Occult wildfire: Any time you deal damage with spells you deal additional Wounds equal to your WIL (min 0).
 
 ## Level 2
 

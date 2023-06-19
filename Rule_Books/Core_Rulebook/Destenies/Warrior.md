@@ -36,11 +36,16 @@ You gain skill level of expert in CON and STR gate.
 You gain one (1) weapon skill level increases. You can use them on any weapon type (Simple, Status, War).  
 You gain one (1) armor skill level increases. You can use them on any armor type (Cloth, Light, Half, Full).  
 You gain skill level of specialized in STR gate.  
-You gain skill level of expert in AGI gate.
+You gain skill level of expert in AGI gate.  
+Your attacks deal 1 more wound if they penetrate armor.
 
 ## Level 9
 
 You gain one (1) weapon skill level increases. You can use them on any weapon type (Simple, Status, War).  
 You gain one (1) armor skill level increases. You can use them on any armor type (Cloth, Light, Half, Full).  
 Your carry capacity is increased by two (2)  
-You gain skill level of specialized in static gate and increase skill level by one for skill gate of WIS and WIL.
+You gain skill level of specialized in static gate and increase skill level by one for skill gate of WIS and WIL.  
+
+## Level 10
+
+Your attacks deal 1 more wound if they penetrate armor.

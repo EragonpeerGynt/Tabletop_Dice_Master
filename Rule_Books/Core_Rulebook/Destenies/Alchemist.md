@@ -7,16 +7,16 @@ Destiny type: Low
 Progression:  
 | Level | Feature | Flux damage | Spells known | 1 | 2 | 3 |
 |---|---|:---:|:---:|:---:|:---:|:---:|
-| 1 | Improvised granades, Spell preparation | 1 | 1 | 2 |
-| 2 |  | 1 | 2 | 3 |
-| 3 | Stat increase | 1 | 2 | 3 |
-| 4 | General feat | 2 | 3 | 3 | 1 |
-| 5 |  | 2 | 3 | 3 | 1 |
-| 6 | Stat increase | 2 | 4 | 3 | 2 |
-| 7 | General feat | 3 | 4 | 3 | 2 |
-| 8 |  | 3 | 5 | 3 | 2 | 1 |
-| 9 | Stat increase | 3 | 5 | 3 | 2 | 1 |
-| 10 | General feat, Quick thinking | 3 | 6 | 3 | 3 | 2 |
+| 1 | Improvised granades, Spell preparation | 1d6 | 1 | 2 |
+| 2 |  | 1d6 | 2 | 3 |
+| 3 | Stat increase | 1d6 | 2 | 3 |
+| 4 | General feat | 2d6 | 3 | 3 | 1 |
+| 5 |  | 2d6 | 3 | 3 | 1 |
+| 6 | Stat increase | 2d6 | 4 | 3 | 2 |
+| 7 | General feat | 3d6 | 4 | 3 | 2 |
+| 8 |  | 3d6 | 5 | 3 | 2 | 1 |
+| 9 | Stat increase | 3d6 | 5 | 3 | 2 | 1 |
+| 10 | General feat, Quick thinking | 3d6 | 6 | 3 | 3 | 2 |
 
 Proficiencies:  
 - Weapons: Simple weapons and any thrown weapons as trained
@@ -46,4 +46,4 @@ You gain skill level of expert in skill gate of CON and WIL
 
 ## Level 10
 
-Quick thinking: your improvised granades action no longer costs action token. You add INT wounds any time you deal flux damage.
+Quick thinking: your improvised granades action no longer costs action token. You add INT for each flux damage dice and if you hit enemy you deal additional INT wounds to it (min 1).

@@ -42,6 +42,10 @@ You have next limit on skill level (from skill traing feature only)
 | Expert | 1 |
 | Specialized | 0 |
 
+### Level 3  
+
+You gain skill level of trained in skill gate of Accurate strike.  
+
 ## Level 4
 
 You have next limit on skill level (from skill traing feature only)
@@ -56,7 +60,8 @@ You have next limit on skill level (from skill traing feature only)
 
 You gain 1 weapon skill level increases. You can use them on weapon types Simple or Status.  
 You gain 1 armor skill level increases. You can use them on armor type Cloth, Light, or Half.  
-You gain skill level of expert in skill gate of AGI and INT.
+You gain skill level of expert in skill gate of AGI and INT.  
+You gain skill level of expert in skill gate of Accurate strike.  
 
 ## Level 7
 
@@ -67,6 +72,8 @@ You have next limit on skill level (from skill traing feature only)
 | Trained | none |
 | Expert | none |
 | Specialized | 2 |
+
+You gain skill level of specialized in skill gate of Accurate strike.  
 
 ## Level 9
 
