@@ -2,7 +2,7 @@
 
 Primary stat: WIL or CON  
 Available stat boosts: you gain stat increase in WIL and CON.  
-Destiny type: Specialist
+Destiny Vitality and Durability type: Specialist
 
 Progression:  
 | Level | Feature | Base Surge points | Known floods | Spells known | 1 | 2 | 3 | 4 | 5 |

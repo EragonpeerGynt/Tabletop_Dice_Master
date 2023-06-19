@@ -2,7 +2,7 @@
 
 Primary stat: STR or AGI  
 Available stat boosts: select any two (2) out of  CON, STR, and AGI.  
-Destiny type: Full  
+Destiny Vitality and Durability type: Full  
 
 Progression:  
 | Level | Feature |

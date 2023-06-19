@@ -2,7 +2,7 @@
 
 Primary stat: WIL and STR  
 Available stat boosts: select any two (2) out of WIL, STR, and CON.  
-Destiny type: Low
+Destiny Vitality and Durability type: Low
 
 Progression:  
 | Level | Feature | Command tokens | Advanced Commands known |

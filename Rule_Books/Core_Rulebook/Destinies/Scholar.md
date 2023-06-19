@@ -2,7 +2,7 @@
 
 Primary stat: INT  
 Available stat boosts: select any two (2) out of INT, WIL, and DEX.  
-Destiny type: Low
+Destiny Vitality and Durability type: Low
 
 Progression:  
 | Level | Feature | 1 | 2 | 3 | 4 | 5 |

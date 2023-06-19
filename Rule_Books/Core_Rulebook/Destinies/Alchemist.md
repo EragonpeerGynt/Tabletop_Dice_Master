@@ -2,7 +2,7 @@
 
 Primary stat: AGI and INT  
 Available stat boosts: select any two (2) out of AGI, INT, and CON.  
-Destiny type: Low
+Destiny Vitality and Durability type: Low
 
 Progression:  
 | Level | Feature | Flux damage | Spells known | 1 | 2 | 3 |
@@ -19,31 +19,34 @@ Progression:
 | 10 | General feat, Quick thinking | 3d6 | 6 | 3 | 3 | 2 |
 
 Proficiencies:  
-- Weapons: Simple weapons and any thrown weapons as trained
-- Armor: Light armor as trained
+- Weapons: *Simple weapon*s and any *Thrown weapon*s as *Trained*
+- Armor: Light armor as *Trained*
 - Skills: INT x 2 + 4 (min 4)
-- Stat skill gates: AGI and INT as trained
+- *Stat test*s: AGI and INT as *Trained*
 - Language: three (3) of their choice
-- Spells: Arcane (INT) Spell gate as trained
+- Spells: *Arcane (INT) Spell test* as *Trained*
 
 ## Level 1
 
-Improvised granades: Special action that costs one (1) action token. When you use it you produce single alchemical granade. Alchemical granade counts as Simple weapon that has Agile and Thrown modifiers without any of their Detriments. Whenever you deal wound to the enemy with alchemical granade you deal additional Flux damage.
+Improvised granades: Special action that costs one (1) *Action token*. When you use it you produce single alchemical granade. Alchemical granade counts as *Simple weapon* that has Agile and Thrown modifiers without any of their Detriments. Whenever you deal wound to the enemy with alchemical granade you deal additional Flux damage.
 
-Spell preparation: Whenever you gain level in this destiny you can forget one spell known and gain as many spells from Arcane spell list as required to reach Spells known limit and of level you are capable of casting. You regain all expanded spell slots each morning.
+Spell preparation: Whenever you gain level in this *Destiny* you can forget one spell known and gain as many spells from Arcane spell list as required to reach Spells known limit. They must be of a level you are capable of casting. You regain all expanded spell slots while you sleep.
 
 ## Level 5
 
-You gain skill level of expert in skill gate of Simple weapons and any thrown weapons.  
-You fain skill level of expert in Light armor.  
-You gain skill level of expert in skill gate of INT and AGI
+You become *Expert* in *Attack test* for *Simple weapon*s and any *Thrown weapon*s.  
+You become *Expert* in *Light armor*.  
+You become *Expert* in *Skill test* for INT and AGI.
 
 ## Level 8
 
 You gain skill level of specialized in skill gate of any thrown weapons.  
 You gain skill level of specialized in skill gate of AGI  
 You gain skill level of expert in skill gate of CON and WIL
+You become *Specialized* in *Attack test* for any *Thrown weapon*s.  
+You become *Specialized* in *Skill test* for AGI.  
+You become *Expert* in *Skill test* for CON and WIL.  
 
 ## Level 10
 
-Quick thinking: your improvised granades action no longer costs action token. You add INT for each flux damage die and if you hit enemy you deal additional INT wounds to it (min 1).
+Quick thinking: your improvised granades action no longer costs *Action token*. You add INT for each flux damage die and if you hit enemy you deal additional INT wounds to it (min 1).

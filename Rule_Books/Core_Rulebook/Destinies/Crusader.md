@@ -2,7 +2,7 @@
 
 Primary stat: STR, WIS, and WIL  
 Available stat boosts: select any two (2) out of WIS, STR, CON, and WIL.  
-Destiny type: Full
+Destiny Vitality and Durability type: Full
 
 Progression:  
 | Level | Feature | Spells known | 1 | 2 | 3 |

@@ -56,4 +56,4 @@ Specialized skills (can only be increased with special feats and/or character pr
 | Armor (any) | Ability to wear specific type of armor |
 | Spellcasting (any) | Ability to cast specific magic |
 | Guard | Ability to not break shield on successfull guard |
-| Accurate strike (AGI) | Ability to hit Accurate strike on target |
+| Accurate strike | Ability to hit Accurate strike on target |

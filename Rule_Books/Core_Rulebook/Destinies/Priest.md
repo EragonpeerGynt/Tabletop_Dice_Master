@@ -4,7 +4,7 @@ Primary stat: WIS
 Static increase: WIS   
 Optional increase: CON or INT  
 Available stat boosts: select any two (2) out of WIS, CON, and INT.  
-Destiny type: Half
+Destiny Vitality and Durability type: Half
 
 Progression:  
 | Level | Feature | 1 | 2 | 3 | 4 | 5 |
