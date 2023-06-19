@@ -1,10 +1,10 @@
 # Wounds (Vitality)
 
-Each character can only sustain some harm before they become ineffective in combat. This is represented by wounds. Each time character is hit trough armor they gain one wound.  
+Each character can only sustain some harm before they become ineffective in combat. This is represented by *Wound*s. Each time character is hit trough *Armor reduction* they gain one *Wound*.  
 
-Maximum number of wounds character can have is called vitality and is based on race and destiny type.
+Maximum number of *Wound*s character can have is called *Vitality* and is based on *Birthright* and *Destiny* type.
 
-Destiny Vitality table:
+*Destiny* Vitality table:
 | Level \\ Type | Full | Half | Low | Specialist |
 |----|:---:|:---:|:---:|:---:|
 |  1 | CON + 1 (min 1) | CON + 1 (min 1) | CON + 1 (min 1) | CON + 1 (min 0) |
@@ -20,7 +20,7 @@ Destiny Vitality table:
 
 ## Healing wounds (Durability)
 
-There are multiple ways of healing wounds like spells and potions but they all come at the price. Characters can still feel the pain of a wound even after it has been healed. Character can resist this pain for only so long. Amount they can resist is called Durability while current pain is meassured in Stress. Whenever you remove one Wound you gain 1 Stress
+There are multiple ways of healing *Wound*s like spells and potions but they all come at the price. Characters can still feel the pain of a *Wound* even after it has been healed. Character can resist this pain for only so long. Amount they can resist is called *Durability* while current pain is meassured in *Stress*. Whenever you remove one *Wound* you gain one (1) *Stress*.
 
 | Level \\ Type | Full | Half | Low | Specialist |
 |----|:---:|:---:|:---:|:---:|
@@ -37,6 +37,6 @@ There are multiple ways of healing wounds like spells and potions but they all c
 
 ## How to use
 
-Players track their Wounds and their Stress.  
-When player reaches Vitality in Wounds they gain Last stand status.  
-When they have both reached Vitality in Wounds and reached Durability in Stress they permanently die without save and possibility of ressurection.
+Players track their *Wound*s and their *Stress*.  
+When player reaches *Vitality* in *Wound*s they gain *Last stand* status.  
+When they have both reached *Vitality* in *Wound*s and reached *Durability* in *Stress* they permanently die without save and possibility of ressurection.
