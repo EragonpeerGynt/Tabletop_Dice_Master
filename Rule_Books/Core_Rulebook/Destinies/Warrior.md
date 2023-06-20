@@ -19,33 +19,34 @@ Progression:
 | 10 | 2 Battle feats |
 
 Proficiencies:  
-- Weapons: all weapons as trained
-- Armor: all armors as trained
-- Shield: all shields as trained
+- Weapons: all weapons as *Trained*
+- Armor: all armors as *Trained*
+- Shield: all shields as *Trained*
 - Skills: INT + 2 (min 2)
-- Stat skill gates: static and optional as trained
+- *Stat test*s: STR and CON as *Trained*
 - Language: one (1) of their choice with partial understanding of another one (1)
 
 ## Level 3
 
-Increase one (1) weapon type (Simple, Status, War) skill level to expert.  
-You gain two (2) armor skill level increases. You can use them on any armor type (Cloth, Light, Half, Full) but only to increase it to expert.  
-You gain skill level of expert in CON and STR gate.
+You gain 1 skill level increase. You can use it on any weapon type to increase it to *Expert*.  
+You gain 2 skill level increase. You can use them on any armor type to increase it to *Expert*.  
+You become *Expert* in *Skill test* for STR and CON.  
+
 ## Level 6
 
-You gain one (1) weapon skill level increases. You can use them on any weapon type (Simple, Status, War).  
-You gain one (1) armor skill level increases. You can use them on any armor type (Cloth, Light, Half, Full).  
-You gain skill level of specialized in STR gate.  
-You gain skill level of expert in AGI gate.  
-Your attacks deal 1 more wound if they penetrate armor.
+You gain 1 skill level increase. You can use it on any weapon type to increase it.  
+You gain 2 skill level increase. You can use them on any armor type to increase it.  
+You become *Specialized* in *Skill test* for STR.  
+You become *Expert* in *Skill test* for AGI.  
+Your attacks deal 1 more *Wound* if they penetrate *Armor reduction*.
 
 ## Level 9
 
-You gain one (1) weapon skill level increases. You can use them on any weapon type (Simple, Status, War).  
-You gain one (1) armor skill level increases. You can use them on any armor type (Cloth, Light, Half, Full).  
-Your carry capacity is increased by two (2)  
-You gain skill level of specialized in static gate and increase skill level by one for skill gate of WIS and WIL.  
+You gain 2 skill level increase. You can use them on any weapon type to increase it.  
+Your Carry capacity is increased by two (2).  
+You become *Specialized* in *Skill test* for AGI and CON.
+You increase *Skill test* for WIL and WIS by one (1).  
 
 ## Level 10
 
-Your attacks deal 1 more wound if they penetrate armor.
+Your attacks deal 1 more *Wound* if they penetrate *Armor reduction*.
