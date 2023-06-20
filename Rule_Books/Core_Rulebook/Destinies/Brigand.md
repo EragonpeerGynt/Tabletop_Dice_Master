@@ -61,7 +61,7 @@ You become *Expert* in *Accurate strike test*.
 
 ## Level 5
 
-You gain 1 skill level increase. You can use it on either *Simple* or *Status* weapons.  
+You gain 1 skill level increase. You can use it on either *Simple* or *Status* weapons to increase it to *Expert*.  
 You gain 1 skill level increase. You can use it on either *Cloth*, *Light*, or *Half* armor.  
 You become *Expert* in *Skill test* for INT and AGI.
 

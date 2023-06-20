@@ -36,13 +36,11 @@ Spell preparation: Whenever you gain level in this *Destiny* you can forget one 
 
 You become *Expert* in *Attack test* for *Simple weapon*s and any *Thrown weapon*s.  
 You become *Expert* in *Light armor*.  
+You become *Expert* in *Arcane (INT) Spell test*.  
 You become *Expert* in *Skill test* for INT and AGI.
 
 ## Level 8
 
-You gain skill level of specialized in skill gate of any thrown weapons.  
-You gain skill level of specialized in skill gate of AGI  
-You gain skill level of expert in skill gate of CON and WIL
 You become *Specialized* in *Attack test* for any *Thrown weapon*s.  
 You become *Specialized* in *Skill test* for AGI.  
 You become *Expert* in *Skill test* for CON and WIL.  
