@@ -19,12 +19,12 @@ Progression:
 | 10 | General feat, Magnum opus | 4 | 3 | 3 | 2 | 2 |
 
 Proficiencies:
-- Weapons: Simple weapons as Trained
-- Armor: Cloth armor as Trained
+- Weapons: *Simple weapon*s as *Trained*
+- Armor: Cloth armor as *Trained*
 - Skills: INT + 3 (min 3)
-- Stat skill gates: INT and WIL as trained
+- *Stat test*s: INT and WIL as *Trained*
 - Language: six (6) of their choice
-- Spells: Arcane (INT) Spell gate as trained
+- Spells: *Arcane (INT) Spell test* as *Trained*
 - Spells capacity: INT x 2 + level / 2
 
 ## Level 1
@@ -42,19 +42,18 @@ Spell fluidity: You have deep connection to arcane of the world. This means you 
 
 ## Level 5
 
-You gain expert level Cloth armor.  
-You gain expert level Arcane Spell gate.  
-You gain skill level of expert in skill gate of INT.  
-You gain skill level of trained in skill gate of WIS.  
-
+You become *Expert* in *Cloth armor*.  
+You become *Expert* in *Arcane (INT) Spell test*.  
+You become *Expert* in *Skill test* for INT.  
+You become *Trained* in *Skill test* for WIS.  
 
 ## Level 8
 
-You gain specialized level Cloth armor.  
-You gain expert level Arcane Spell gate.  
-You gain skill level of specialized in skill gate of INT.  
-You gain skill level of expert in skill gate of WIL.  
+You become *Specialized* in *Cloth armor*.  
+You become *Specialized* in *Arcane (INT) Spell test*.  
+You become *Specialized* in *Skill test* for INT.  
+You become *Expert* in *Skill test* for WIL and WIS.  
 
 ## Level 10
 
-Magnum opus: You perfect one (1) 1st level spell, one (1) 2nd level spell, and one (1) 3rd level spell. When you have this spells prepared you can cast them at their base level once per encounter without expanding spell slot.
+Magnum opus: You perfect one (1) 1st level spell and one (1) 2nd level spell. When you have this spells prepared you can cast them at their base level once per encounter without expanding spell slot.
