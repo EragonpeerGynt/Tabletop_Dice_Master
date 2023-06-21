@@ -97,6 +97,7 @@ Weapon runes:
 | Precision +2 | increases *Attack test* when attacking by two (+2) only appliable on *Status* and *War* weapons | 2 |
 | Chaneling | increases Spell test when using spells by one (+1) only appliable on *Status* and *War* weapons | 2 |
 | Spell +n | gain one spell slot of each level that is lower or equal **n** | n |
+| Specialist of x | increases one Stat by 1 but only up to max modifier (+3) and can be selected after reaching level 6 | 1 |
 
 Armor runes:
 | Rune | Effect | Rune slots |
@@ -105,6 +106,7 @@ Armor runes:
 | Protection +2 | increases *Dodge test* by two (+2) on *Half* and *Full* armors | 2 |
 | Protection +3 | increases *Dodge test* by three (+3) on *Full armors* | 2 |
 | Guardian | first *Dodge test* of the turn doesn't increase *Offensive penalty* | 1 |
+| Specialist of x | increases one Stat by 1 but only up to max modifier (+3) and can be selected after reaching level 6 | 1 |
 
 Shield runes:
 | Rune | Effect | Rune slots |
@@ -112,3 +114,6 @@ Shield runes:
 | Hardness +1 | increase *Armor reduction* of shield by one (+1) | 1 |
 | Hardness +2 | increase *Armor reduction* of shield by two (+2) | 2 |
 | Hardness +3 | increase *Armor reduction* of shield by three (+3) | 3 |
+| Specialist of x | increases one Stat by 1 but only up to max modifier (+3) and can be selected after reaching level 6 | 1 |
+
+\* all Specialist of x are counted as same Rune even if they increase different stat. It does stack if it is on different pieces of armor.

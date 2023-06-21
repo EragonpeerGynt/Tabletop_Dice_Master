@@ -16,7 +16,9 @@ Destiny describes what player wants to achieve in this life. It sets the path he
 
 ## [Sorcerer](./Destinies/Sorcerer.md)
 
-## [Warmaster](./Destinies/Sorcerer.md)
+## [Warmaster](./Destinies/Warmaster.md)
+
+## [Spirit Caller](./Destinies/Spirit_Caller.md)
 
 <!-- ## Necromancer/Minionmancer
 the idea is class that can controll multiple (as many as possible) minions while still keeping action economy clean and doesn't create too much book keeping.  

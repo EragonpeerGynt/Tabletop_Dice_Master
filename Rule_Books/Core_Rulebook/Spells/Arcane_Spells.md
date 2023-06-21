@@ -85,7 +85,7 @@ Line shot of thunder that penetrates targets
 
 ## Skill enhance    
 
-Enchances one stat to maximum value and increases Stat test to Specialized
+Enchances one stat to maximum value and increases Stat test to Specialized. Also posible to gain urgency status (basicly dnd haste)
 
 ## Spell level 4
 
