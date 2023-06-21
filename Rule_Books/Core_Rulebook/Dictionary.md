@@ -79,7 +79,9 @@ Exploding dice is special status that makes you reroll any die that falls onto s
 ### Status effect step
 
 If status effect contains number after it's name it's long lasting effect. Each time target that has this effect ends it's turn the effect is lowered by one step. When the step number would reach 0 effect ends.  
-*Example*: If you are Slowed 3 this condition changes to Slowed 2 after your turn is finished.
+*Example*: If you are Slowed 3 this condition changes to Slowed 2 after your turn is finished.  
+Maximum number of steps status can have is five (5).  
+Additional applications of status increases step value by it's step number.
 
 ### Vitality
 
