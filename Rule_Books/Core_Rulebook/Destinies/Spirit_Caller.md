@@ -53,6 +53,8 @@ Their *Attack test* is same as your *Occult (WIL) Spell test* and it uses your O
 All their Stats are zero (0) and they are *Expert* in *Dodge test*.  
 Spirits are not stable and the souls used to raise them dissipate after combat.
 
+If you have no souls stored in your Spirit philactery at the end of your morning sacrifice you gain one (1) soul.
+
 ## Level 2
 
 Spirit tuning: you can give one type of your spirits any Weapon or Armor modification. This choice can be changed on level ups.  
