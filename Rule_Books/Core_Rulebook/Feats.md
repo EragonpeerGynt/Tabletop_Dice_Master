@@ -16,7 +16,7 @@
 | Defensive casting | Gain *Positive test* when getting targeted by *Coup De Grace* because of spell cast. You cannot get targeted by *Coup De Grace* if your spell is targeted and targeting the enemy with ability to do it |
 | Quick thinking | Player's actions and spells cannot be stopped by *Coup De Grace* and their actions and spells fire before they get a hit on you but you take automatic Catastrophic test if you fail your dodge action |
 | Unphased | Your first *Dodge test* of the Round doesn't increase *Evasive penalty*. On any failed *Dodge test* you also don't increase *Evasive penalty* |
-| Tunel vanguard | You increase your Guard gate by one (1) |
+| Tunel vanguard | You increase your *Guard test* by one (1) |
 
 ## Racial feats
 
@@ -44,7 +44,7 @@
 | Precise strikes | Changes Offensive penalty on attack from two (2) to one (1) for first attack of the turn |
 | Acrobat | Changes Evasive penalty on *Dodge test* from two (2) to one (1) |
 | Bouncer | Gives *Coup De Grace* when enemy tries to leave your melee range or uses item interaction in your melee range |
-| Phalanx | Gives *Coup De Grace* when enemy tries to enter your melee or polearm range |
+| Phalanx | Gives *Coup De Grace* when enemy tries to enter your melee or polearm range. On successfull hit enemy cannot move this turn anymore |
 | Mage slayer | Gives *Coup De Grace* when enemy tries to cast spell in your range (even if you are using ranged weapon) |
 | Savage attacker | After declaring use of this feature all your attacks for this turn gain *Positive test*, but you have *Negative test* on all other *Skill test*s untill the begining of your next turn |
 | Ogre strength | You can wield 2 handed weapons in 1 hand but 2 handed bonus gets lowered from +2 per base die to +1 per base die |
