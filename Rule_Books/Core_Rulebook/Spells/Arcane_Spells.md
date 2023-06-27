@@ -96,8 +96,8 @@ Additional Actions: Yes
 Range: Melee  
 Increases offensive penalty: No  
 Description: You touch target in melee range and give it Arcane protection 2 status.  
-If you use additional *Action token* you can include additional target.  
-If you use additional *Action token* you can increase Status effect step by one.
+If you use one additional *Action token* you can include additional target.  
+If you use one additional *Action token* you can increase Status effect step of Arcane protection x by one.
 
 ## Burning fan   
 
@@ -228,7 +228,7 @@ Upcastable: Yes
 Additional Actions: No  
 Range: Half  
 Increases offensive penalty: Yes  
-Tags: Focus spell
+Tags: Focus spell  
 Description: You enchance one target. You give status Hyperactive 2.  
 For each spell level above 3rd you can add Hyperactive x to another target.
 
@@ -236,23 +236,76 @@ For each spell level above 3rd you can add Hyperactive x to another target.
 
 ## Communal shield 
 
-Applies Arcane shield to multiple targets
+Actions: 2  
+Upcastable: No  
+Additional Actions: Yes  
+Range: Full  
+Increases offensive penalty: Yes  
+Tags: Focus spell  
+Description: You give Arcane protection 1 status to all chosen targets in Full range.  
+For each additional *Action token* you can increase Status effect step of Arcane protection x by 1
 
 ## Mass sleep      
 
-Applies sleep status to multiple targets
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: Yes  
+Range: Full/Custom:  
+```
+.......
+.#####.
+.#####.
+.##%##.
+.#####.
+.#####.
+.......
+...@...
+```
+Increases offensive penalty: Yes  
+Tags: Focus spell  
+Description: You try to project your mind and mana on to a spot somewhere in your full range. At the target area it creates field of heavy mana with diameter of 5 map units that tries to put all targets in range to slumber. On successfull save you apply Sleep 2 status to all targets in range. On failed save you instead apply Slowed 1 to everyone in range and you cannot Focus spell on it.  
+For each additiona *Action token* you increase diameter by 2 map units.  
+For each spell slot above 4th you increase Status effect step of applied status by one.
 
 ## Shock nova      
 
-AoE thunder damage around caster that pushes enemies away
+Actions: 3  
+Upcastable: Yes  
+Additional Actions: No  
+Range: Melee/Custom:  
+```
+.......
+.#####.
+.#####.
+.##@##.
+.#####.
+.#####.
+.......
+```
+Increases offensive penalty: Yes  
+Description: You gather elemental mana around you and release it all at once as lightning originating from yourself with diameter of five map units. On successfull Spell test you deal 7 *Wound*s to all targets in range and knock them back so they aren't in range of this spell any more. On failed Spell test you don't knock enemies back and you halve all spell's damage.  
+For each spell slot above 4th you increase spell's damage by 4 *Wound*s and increase spell's diameter by 2 map units.
 
 ## Summon food     
 
-Summons food to eat for party
+Actions: 3  
+Upcastable: No  
+Additional Actions: No  
+Range: N/A  
+Increases offensive penalty: No  
+Description: You summon enough food to feed up to 6 targets enough to continue with adventure (each target recieves about a ration of food) but it's not tasty.
 
 ## Mass ignite     
 
 Deals heavy fire damage to multiple enemies
+
+Actions: 3  
+Upcastable: Yes  
+Additional Actions: Yes  
+Range: Full  
+Increases offensive penalty: Yes  
+Description: You sprout wing like flames from your back that explode and shoot embers at chosen targets in your full range. On successfull Spell test you choose up to 6 targets and you deal 6 *Wound*s to each of them. On failed save you halve number of targets you can choose.  
+For each spell slot above 4th you increase spell's damage by 4 *Wound*s and increase number of available targets by 2.  
 
 ## Spell level 5
 
