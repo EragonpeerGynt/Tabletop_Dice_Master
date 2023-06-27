@@ -297,8 +297,6 @@ Description: You summon enough food to feed up to 6 targets enough to continue w
 
 ## Mass ignite     
 
-Deals heavy fire damage to multiple enemies
-
 Actions: 3  
 Upcastable: Yes  
 Additional Actions: Yes  
@@ -311,20 +309,57 @@ For each spell slot above 4th you increase spell's damage by 4 *Wound*s and incr
 
 ## Black star   
 
-Heavy arcane damage. Pulls everyone cought in it to the center
+Actions: 3  
+Upcastable: No  
+Additional Actions: No  
+Range: Full/Custom:  
+```
+#######
+#######
+#######
+###%###
+#######
+#######
+.......
+...@...
+```
+Increases offensive penalty: Yes  
+Description: You summon dying star that implodes on itself. On successfull spell test all targets caught in it's range with diameter of 7 map units take 10 *Wound*s, are pulled to the center of implosion, and get status Crippled 1. On failed Spell test targets only take 8 *Wound*s and don't get pulled or effected by Crippled x.
 
 ## Fortress     
 
-Creates fortress from stone/dirt caster is standing one.
+Actions: N/A  
+Upcastable: No  
+Additional Actions: No  
+Range: Melee
+Increases offensive penalty: No  
+Description: Caster touches the ground and chanells their mana into the area. After few seconds walls begin raising from the ground and create simple fortress aroung the caster (area of around 100 map units squared) that has battlements and some simple defensive structures. Fortress is destroyed if caster uses this spell again.
 
 ## World gate   
 
 Extreme long range teleport that takes multiple rounds to set up. Can only teleport to specific targets
 
+Actions: N/A  
+Upcastable: No  
+Additional Actions: No  
+Range: Half
+Increases offensive penalty: No  
+Description: Caster creates magical circle to chanell mana into it. After chanelling for 1 minute they can open gate at the center of magical circle that teleports any number of target of caster choice that are standing in half range (to center of gate) to any location caster has visited and is high in natural mana.
+
 ## Projection   
 
-Like dnd wish
+Actions: 3  
+Upcastable: No  
+Additional Actions: No  
+Range: N/A
+Increases offensive penalty: Yes  
+Description: You tap into arcane knowleadge of mana itself. You gain ability to cast any spell from any spell list as it's base form (no upcasting and no additional actions) but it is also casted as if you succeeded spell check.
 
 ## Icon of doom 
 
-Fears and damages everyone around caster. Looses ability to cast spells for 1 round.
+Actions: 3  
+Upcastable: No  
+Additional Actions: No  
+Range: Full
+Increases offensive penalty: Yes  
+Description: Caster sheeds their mortal skin and displays their full arcane power to all targets of their choosing in Full range. On successfull save they deal 10 *Wound*s to everyone choosen and applies Fear 2 status to them. On failed save they take only 2 *Wound*s but still get applied with Fear 2 status. Caster gains Muted 2 status.

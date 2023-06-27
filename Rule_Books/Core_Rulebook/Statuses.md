@@ -20,3 +20,5 @@
 | Hyperactive x | Target gains one (1) more *Action token* per turn and gains one more mobility. They don't suffer mobility penalty on multiple moves in a turn |
 | Arcane protection x | Target's Mental tests (INT, WIS, WIL) get replaced by caster's Spellcasting test if it's higher than original save. |
 | Water breathing | You can breath under water but it need's to be *Focus spell* on to not be lost |
+| Fear x | Targe only get's 1 *Action token* per turn and they need to use it for movement away from cause of fear. They need to move at least 1 map unit away |
+| Muted x | Target cannot cast any spells |
