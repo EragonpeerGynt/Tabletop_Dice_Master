@@ -58,7 +58,7 @@ Base *Dodge test* of multiple dodges:
 
 ### Casting spell (Cast action)
 
-When using spell it will specify which kind od *Skill test* we should use if any apply and how many *Action token*s it uses.
+When using spell it will specify which kind od *Skill test* we should use if any apply and how many *Action token*s it uses. If it specifies increase of offensive penalty you increase it by number of steps equal to actions used by the spell cast. This doesn't apply if spell specifies otherwise.
 
 ### Saving against spell (Spell resist action)
 

@@ -40,3 +40,19 @@ There are multiple ways of healing *Wound*s like spells and potions but they all
 Players track their *Wound*s and their *Stress*.  
 When player reaches *Vitality* in *Wound*s they gain *Last stand* status.  
 When they have both reached *Vitality* in *Wound*s and reached *Durability* in *Stress* they permanently die without save and possibility of ressurection.
+
+# Potions
+
+There are multiple potions you can use to heal yourself or your allies. These are:
+
+| Name | Quality | Healing |
+|---|---|---|
+| Lesser wounds | 1 | 1 *Wound* |
+| Moderate wounds | 2 | 3 *Wound*s |
+| Greater wounds | 3 | 5 *Wound*s |
+| Ultimate wounds | 5 | 10 *Wound*s |
+| Spirit shot | 1 | 1 *Stress* |
+| Calming shot | 2 | 3 *Stress* |
+| Tranquilizing shot | 3 | 5 *Stress* |
+
+Each time you dring potion you throw Alchemy or Poison test (whichever is higher) to determine if you become poisoned by potion. If you fail the test you gain *Stress* equal to potion quality and you gain Alchemy reflux status.

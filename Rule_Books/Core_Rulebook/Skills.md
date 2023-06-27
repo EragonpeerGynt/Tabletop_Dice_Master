@@ -20,13 +20,13 @@ Skills:
 |  | Crafting | Ability to craft basic quality weapons (+0) and craft runes |
 |  | History | Recall knowleadge about specific topic |
 |  | Decution | Ability to investigate and deduce facts about current situation |
-|  | Magikwork | Ability to unlock magical locks |
+|  | Magikwork | Ability to unlock magical locks. You can unlock magical locks of quality at most equal to your Skill bonus in Magiwork |
 |  | Manipulation | Ability to force people to do your bidding thinking they are doing it by free will |
 |  |  |  |
 | AGI | Dodge | Ability to dodge hits in battle |
 |  | Parkour | Ability to preform moves not usually possible by humans |
 |  | Cutpurse | Ability to pickpocket items, steal them from plain view, etc. |
-|  | Lockpicking | Ability to unlock mechanical locks |
+|  | Lockpicking | Ability to unlock mechanical locks. You can unlock locks of quality at most equal to your Skill bonus in Lockpicking |
 |  |  |  |
 | WIS | Perception | Ability to see details in environment |
 |  | Mentalist | Ability to read people |
@@ -37,6 +37,7 @@ Skills:
 | CON | Poison | Ability to resist or cause poison |
 |  | Cook | Ability to prepare food and to remove poisons from it |
 |  | Resilient | Ability to not sustain life threatening injuries and/or ability to heal them faster |
+|  | Alchemy | You gain 3x your (Alchemy + CON (min 1)) tokens each rest period that you can use to create potions. Each potion costs number of tokens equal to it's quality and you can distribute this between your teammates. These potions turn bad after each rest period |
 |  |  |  |
 | WIL | Persuasion | Ability to change peoples' mind |
 |  | Mercentile | Ability to haggle for better prices |

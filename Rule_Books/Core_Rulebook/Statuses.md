@@ -2,7 +2,7 @@
 
 | Status | Effect |
 |---|---|
-| Slowness x | Target gains one (1) less *Action token* per turn |
+| Slowness x | Target gains one (1) less *Action token* per turn. This status cannot be applied on the target that is Hyperactive |
 | Crippled x | Whenever target moves each movement done uses 2 movement |
 | Marked x | All *Skill test*s against target are made with *Positive target* |
 | Disarmed | Target cannot attack for a whole round (untill it's the turn of the one that used disarm on target) |
@@ -15,3 +15,8 @@
 | Mind controll x | Caster controls the target, but it can only use Move action. It uses your *Action token*s and your movement penalty |
 | Frozen x | Target cannot take it's turns but noone can damage it |
 | Necropolis x | 2 map units radius aura centered on caster that follows them around. If enemy would take a *Wound* while in range of aura ally instead takes that *Wound*s in *Stress* instead |
+| Mana shield x | You become protected from enemy spell casts. Any time you would be hit by a spell you lover Mana shield status by number equal to spell level used, until you run out of it. Still behaves like a normal Status |
+| Alchemy reflux | You become poisoned by potions you drank. You cannot drink any more potions untill next rest |
+| Hyperactive x | Target gains one (1) more *Action token* per turn and gains one more mobility. They don't suffer mobility penalty on multiple moves in a turn |
+| Arcane protection x | Target's Mental tests (INT, WIS, WIL) get replaced by caster's Spellcasting test if it's higher than original save. |
+| Water breathing | You can breath under water but it need's to be *Focus spell* on to not be lost |

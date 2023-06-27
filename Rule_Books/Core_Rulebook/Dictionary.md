@@ -80,7 +80,7 @@ Exploding dice is special status that makes you reroll any die that falls onto s
 
 If status effect contains number after it's name it's long lasting effect. Each time target that has this effect ends it's turn the effect is lowered by one step. When the step number would reach 0 effect ends.  
 *Example*: If you are Slowed 3 this condition changes to Slowed 2 after your turn is finished.  
-Maximum number of steps status can have is five (5).  
+Maximum number of steps status can have is six (6).  
 Additional applications of status increases step value by it's step number.
 
 ### Vitality
@@ -98,3 +98,11 @@ Players ability to ignore physical and mental pain.
 ### Stress
 
 How much pain player is in currently.
+
+### Focus spell
+
+Some spells have ability to focus on them. This means than you can use one *Action token* after your original turn to change behaviour of the spell. This will be mainly used to keep certain buffs up but it can have other effects.
+
+### Rounding
+
+Whenever you need to round numbers you round them up.
