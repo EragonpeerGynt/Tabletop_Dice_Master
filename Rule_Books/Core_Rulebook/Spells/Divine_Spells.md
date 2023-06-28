@@ -320,8 +320,6 @@ For each additional *Action token* you can select one more target.
 
 ## Holy purge
 
-Ignite yourself and take heavy stress, but deal same ammount of wounds to every target up to 2 units away
-
 Actions: 3  
 Upcastable: Yes  
 Additional Actions: No  
