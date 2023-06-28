@@ -33,3 +33,5 @@
 | Guardian aura x | If ally in range of your aura needs to make any Stat test or non-specialized skill test they can use caster's Spell target if it's higher than their specified target. |
 | Blessed weapon x | Target's weapon will deal additional 2 *Wound*s if they hit their target |
 | Geass | Target must try to follow command given with geass. If they disobey they take 10 *Wound*s and 10 *Stress* of damage. Effect ends when target fulfills the command |
+| Branded x | Denotes how far the target's soul is gone because of reviving. This status does not decay trough time (you cannot loose Status effect steps in any way). When you reach Branded 3 all normal forms of revivification stop working permanently. |
+| Undeath x | Denotes how far the target's body is gone because of reviving. This status does not decay trough time (you cannot loose Status effect steps in any way). Each Status effect step of this status lowers target's *Durability* by 1 |

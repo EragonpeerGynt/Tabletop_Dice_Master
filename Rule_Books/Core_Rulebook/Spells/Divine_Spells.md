@@ -64,7 +64,7 @@ Upcastable: No
 Additional Actions: No  
 Range: Melee  
 Increases offensive penalty: Yes
-Description: Caster prays to their deity and pastes short prayer note above target's heart. Target revives with one less than maximum amount of *Wound*s and their *Stress* is increased by 1/2 of their maximum stress. If this stress increase would reach maximum Stress they get maximum amount of stress.
+Description: Caster prays to their deity and pastes short prayer note above target's heart. If target died less than 10 minutes ago target revives with one less than maximum amount of *Wound*s and their *Stress* is increased by 1/2 of their maximum stress. If this stress increase would reach maximum Stress they get maximum amount of stress.
 
 ## Detect magic
 
@@ -143,7 +143,7 @@ Description: You suppress feelings of a target creature. On successfull Spell te
 Actions: 2  
 Upcastable: Yes  
 Additional Actions: No  
-Range: Melee  
+Range: Half  
 Increases offensive penalty: Yes  
 Description: You bind target that is of opposite alignment than your deity with holy chains to stop it from acting. On successfull Spell test you apply Hold 2 and Slowness 2 to target. On failed test you apply Slowness 1 to target.  
 If casted with spell level of 4th level or above you increase Status effect step of any applied status by 1.
@@ -168,7 +168,8 @@ Upcastable: No
 Additional Actions: No  
 Range: Full  
 Increases offensive penalty: Yes  
-Description: You infuse life energy back into body and your god pulls target's soul from wherever it is. On successfull Spell test you revive target with 5 *Wound*s (if this is more than their maximum amount they revive with one wound less than their maximum) and with *Stress* equal to half their maximum stress or 10 *Stress* whichever is lower. On failed test target gets revived with 10 *Wound*s (if this is more than their maximum amount they ressurect with one wound less than their maximum) and they gain maximum *Stress*.
+Description: You infuse life energy back into body and your god pulls target's soul from wherever it is but it only works if target is dead less than 1 hours. On successfull Spell test you revive target with 5 *Wound*s (if this is more than their maximum amount they revive with one wound less than their maximum) and with *Stress* equal to half their maximum stress or 10 *Stress* whichever is lower. On failed test target gets revived with 10 *Wound*s (if this is more than their maximum amount they ressurect with one wound less than their maximum) and they gain maximum *Stress*.  
+If used out of combat Spell test counts as automatic success.
 
 ## Protection from opposite
 
@@ -185,7 +186,7 @@ For each spell above 3th you increase Status effect step of Protection from Neut
 Actions: 2  
 Upcastable: Yes  
 Additional Actions: No  
-Range: Melee  
+Range: Half  
 Increases offensive penalty: Yes  
 Description: You bind target that is non-intelligent creature with holy chains to stop it from acting. On successfull Spell test you apply Hold 2 and Slowness 2 to target. On failed test you apply Slowness 1 to target.  
 If casted with spell level of 4th level or above you increase Status effect step of any applied status by 1.
@@ -241,7 +242,7 @@ For each spell above 4th you increase Status effect step of Protection from Neut
 Actions: 2  
 Upcastable: Yes  
 Additional Actions: No  
-Range: Melee  
+Range: Half  
 Increases offensive penalty: Yes  
 Description: You bind target that is humanoid with holy chains to stop it from acting. On successfull Spell test you apply Hold 2 and Slowness 2 to target. On failed test you apply Slowness 1 to target.  
 If casted with spell level of 5th level or above you increase Status effect step of any applied status by 1.
@@ -268,8 +269,6 @@ If you use 2 additional *Action token*s you increase range to Full.
 
 ## Geass
 
-Curse target that then needs to follow this to the point. If it disobeys it takes damage.
-
 Actions: 3  
 Upcastable: No  
 Additional Actions: No  
@@ -281,20 +280,60 @@ Description: You command a target to do your biding and empower the bond with go
 
 ## True revival
 
-Ressurection that fully heals and has almost no negative (non combat)
+Actions: N/A*  
+Upcastable: No  
+Additional Actions: No  
+Range: Melee  
+Increases offensive penalty: N/A  
+Description: Caster reaches into the otherside and pulls back the soul of dead target. Then caster infuses body of target with life energy from god. Target is revived with 0 *Wound*s and 0 *Stress*.  
+If this was first time being revived this way they gain status Branded 1. If they already have it they increase its Status effect step by 1.
+\* Can only be casted outside of combat.
 
 ## Celestial lock
 
-Target cannot move this turn and has one action less and cannot use Coup De Grace. Can use on anything that is sentient
+Actions: 2  
+Upcastable: No  
+Additional Actions: No  
+Range: Half  
+Increases offensive penalty: Yes  
+Description: You bind target that is sentient with holy chains to stop it from acting. On successfull Spell test you apply Hold 3 and Slowness 4 to target. On failed test you apply Slowness 2 to target.  
 
 ## Reconstrucion
 
-Gives ability to raise one target effected by true death. That character looses one vitality permanently
+Actions: 3  
+Upcastable: No  
+Additional Actions: No  
+Range: Melee  
+Increases offensive penalty: Yes  
+Description: Caster blocks soul from reaching otherside and stuffs it back into body. This can only be preformed if target hasn't been dead for more than 1 round. Target is revived with 3 *Wound*s and with 3 *Stress*.  
+When revived this way target gains Undeath 1. If they already have it they increase its Status effect by 1. This form of revification cannot be used if target's *Stress* is equal or above their *Durability*.
 
 ## Smiting fist
 
-Heavy single target wounds and stress
+Actions: 2  
+Upcastable: No  
+Additional Actions: Yes  
+Range: Melee  
+Increases offensive penalty: Yes  
+Description: You point a finger towards a target. On successfull Spell test your deity casts lightnint at your target and deals 10 *Wound*s and 10 *Stress* and any target adjacent (in melee range of original target) take 5 *Wound*s and 5 *Stress*. On failed test you deal 7 *Wound*s and no *Stress*.  
+For each additional *Action token* you can select one more target.
 
 ## Holy purge
 
 Ignite yourself and take heavy stress, but deal same ammount of wounds to every target up to 2 units away
+
+Actions: 3  
+Upcastable: Yes  
+Additional Actions: No  
+Range: Melee/Custom:  
+```
+.......
+.#####.
+.#####.
+.##@##.
+.#####.
+.#####.
+.......
+```
+Increases offensive penalty: Yes  
+Description: You take on holy fire that deals 1-20 *Stress* to yourself. On successfull Spell test you deal same damage in *Wound*s to all targets in range of 2 map units. On failed test you halve damage dealt to enemies.
