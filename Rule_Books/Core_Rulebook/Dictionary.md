@@ -99,9 +99,9 @@ Players ability to ignore physical and mental pain.
 
 How much pain player is in currently.
 
-### Focus spell
+### Focus
 
-Some spells have ability to focus on them. This means than you can use one *Action token* after your original turn to change behaviour of the spell. This will be mainly used to keep certain buffs up but it can have other effects.
+Some spells have ability to focus on them. This means than you can use one *Action token* after your original turn to change behaviour of the spell. This will be mainly used to keep certain buffs up but it can have other effects. It can only be used if you succeeded on original Spell test if spell calls for it.
 
 ### Rounding
 

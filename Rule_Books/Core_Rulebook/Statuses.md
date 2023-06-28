@@ -19,6 +19,13 @@
 | Alchemy reflux | You become poisoned by potions you drank. You cannot drink any more potions untill next rest |
 | Hyperactive x | Target gains one (1) more *Action token* per turn and gains one more mobility. They don't suffer mobility penalty on multiple moves in a turn |
 | Arcane protection x | Target's Mental tests (INT, WIS, WIL) get replaced by caster's Spellcasting test if it's higher than original save. |
-| Water breathing | You can breath under water but it need's to be *Focus spell* on to not be lost |
+| Water breathing | You can breath under water but it need's to be *Focus*ed on to not be lost |
 | Fear x | Targe only get's 1 *Action token* per turn and they need to use it for movement away from cause of fear. They need to move at least 1 map unit away |
 | Muted x | Target cannot cast any spells |
+| Shielded x | Each time target would take weapon damage reduce remaining Status effect steps by the amount of *Wound*s they would take. If character has less Status effect steps than the amount of wounds they still don't take any |
+| Greater shielding x | Each time target would take weapon damage they reduce remaining Status effect steps by 1. |
+| Lesser burning x | At the start of target's turn it receives 1 *Wound* of fire damage |
+| Burning x | At the start of target's turn it receives 2 *Wound*s of fire damage |
+| Greater burning x | At the start of target's turn it receives 3 *Wound*s of fire damage |
+| Hold x | Target cannot move and and cannot use Coup De Grace actions |
+| Pacified x | Target will wonder around aimlessly and not attack anybody. If any damage hits target it looses status. After status ends it will be unfriendly to caster and imune to this status untill next day |

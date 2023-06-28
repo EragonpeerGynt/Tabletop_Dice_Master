@@ -13,14 +13,14 @@
 
 ## Magic dart      
 
-Actions: 2 
-Upcastable: Yes
+Actions: 2  
+Upcastable: Yes  
 Additional Actions: Yes  
 Range: Long  
 Increases offensive penalty: Yes  
 Description: You open yourself to raw arcane and haphazardly fire 3 bolts of arcane mana at your targets. You can target each target only once with the darts. Each dart deals 1 *Wound* and you don't do any test for it to hit.  
 For each additional *Action token* you can hit same target with 1 more dart.  
-If you upcast you add 1 dart for each spell level above first.
+For each spell level above 1st you add 1 dart.
 
 ## Arcane armor    
 
@@ -29,11 +29,11 @@ Upcastable: Yes
 Additional Actions: No  
 Range: Self/Long  
 Increases offensive penalty: No  
-Tags: Focus spell  
+Tags: Focus  
 Description. You weave mana around you to protect you from hostile spells. When you cast this spell you gain Mana shield 1.  
 For each spell level above 1st you highten Mana shield Status effect step by 1 up to Mana Shield 6 when cast with 5th level spell slot.  
 For each additional *Action token* used you can shield 1 additional target.  
-You can *Focus spell* on this spell to not lower it's status this round.
+You can *Focus* on this spell to not lower it's status this round.
 
 ## Burning spit    
 
@@ -113,7 +113,7 @@ Range: Custom:
 .....
 ```
 Increases offensive penalty: Yes  
-Description: You discharge fire in a specific direction where it spreads in shape of fan. On successfull Spell save all target's in area take 2 *Wound*s and on failed save all damage from this spell is halved.  
+Description: You discharge fire in a specific direction where it spreads in shape of fan. On successfull Spell test all target's in area take 2 *Wound*s and on failed test all damage from this spell is halved.  
 For each additional *Action token* you increase max range by one.  
 For each spell level above 2nd you deal 2 more *Wound*s.
 
@@ -145,7 +145,7 @@ Upcastable: No
 Additional Actions: No  
 Range: Full  
 Increases offensive penalty: No  
-Tags: Focus spell  
+Tags: Focus  
 Description: You give Water breathing to all target's you wish in your Full range. 
 
 ## Spell level 3
@@ -177,7 +177,7 @@ Range: Full/Custom:
 ...@...
 ```
 Increases offensive penalty: Yes  
-Description: You throw ball of magic molasses at the target are that is in your full range. At the target area it splashes into area of effect that has diameter of 5 map units. On successfull Spell test you apply Slowness 2 to all targets in the area. All Status effect steps of this spell are halved on failed save.  
+Description: You throw ball of magic molasses at the target are that is in your full range. At the target area it splashes into area of effect that has diameter of 5 map units. On successfull Spell test you apply Slowness 2 to all targets in the area. All Status effect steps of this spell are halved on failed test.  
 For each spell level above 3rd you add 2 Status effect steps to Slowness x.
 
 ## Burning sun      
@@ -207,7 +207,7 @@ Upcastable: Yes
 Additional Actions: Yes  
 Range: Full  
 Increases offensive penalty: Yes  
-Description: You charge spear of lightning in your hand that you throw in a line up to Full range away. It hit's all target's along it's path. On successfull Spell test it deals 7 *Wound*s to all target's and applies Marked 2 to them. On failed save all damage is halved and it doens't apply Marked x.  
+Description: You charge spear of lightning in your hand that you throw in a line up to Full range away. It hit's all target's along it's path. On successfull Spell test it deals 7 *Wound*s to all target's and applies Marked 2 to them. On failed test all damage is halved and it doens't apply Marked x.  
 For each additional *Action token* you increase Spell effect step of Marked x by 2.  
 For each spell level above 3rd you add 3 *Wound*s to spell's damage.
 
@@ -228,7 +228,7 @@ Upcastable: Yes
 Additional Actions: No  
 Range: Half  
 Increases offensive penalty: Yes  
-Tags: Focus spell  
+Tags: Focus  
 Description: You enchance one target. You give status Hyperactive 2.  
 For each spell level above 3rd you can add Hyperactive x to another target.
 
@@ -241,7 +241,7 @@ Upcastable: No
 Additional Actions: Yes  
 Range: Full  
 Increases offensive penalty: Yes  
-Tags: Focus spell  
+Tags: Focus  
 Description: You give Arcane protection 1 status to all chosen targets in Full range.  
 For each additional *Action token* you can increase Status effect step of Arcane protection x by 1
 
@@ -262,8 +262,8 @@ Range: Full/Custom:
 ...@...
 ```
 Increases offensive penalty: Yes  
-Tags: Focus spell  
-Description: You try to project your mind and mana on to a spot somewhere in your full range. At the target area it creates field of heavy mana with diameter of 5 map units that tries to put all targets in range to slumber. On successfull save you apply Sleep 2 status to all targets in range. On failed save you instead apply Slowed 1 to everyone in range and you cannot Focus spell on it.  
+Tags: Focus  
+Description: You try to project your mind and mana on to a spot somewhere in your full range. At the target area it creates field of heavy mana with diameter of 5 map units that tries to put all targets in range to slumber. On successfull test you apply Sleep 2 status to all targets in range. On failed test you instead apply Slowed 1 to everyone in range and you cannot *Focus* on it.  
 For each additiona *Action token* you increase diameter by 2 map units.  
 For each spell slot above 4th you increase Status effect step of applied status by one.
 
@@ -302,7 +302,7 @@ Upcastable: Yes
 Additional Actions: Yes  
 Range: Full  
 Increases offensive penalty: Yes  
-Description: You sprout wing like flames from your back that explode and shoot embers at chosen targets in your full range. On successfull Spell test you choose up to 6 targets and you deal 6 *Wound*s to each of them. On failed save you halve number of targets you can choose.  
+Description: You sprout wing like flames from your back that explode and shoot embers at chosen targets in your full range. On successfull Spell test you choose up to 6 targets and you deal 6 *Wound*s to each of them. On failed test you halve number of targets you can choose.  
 For each spell slot above 4th you increase spell's damage by 4 *Wound*s and increase number of available targets by 2.  
 
 ## Spell level 5
@@ -362,4 +362,4 @@ Upcastable: No
 Additional Actions: No  
 Range: Full
 Increases offensive penalty: Yes  
-Description: Caster sheeds their mortal skin and displays their full arcane power to all targets of their choosing in Full range. On successfull save they deal 10 *Wound*s to everyone choosen and applies Fear 2 status to them. On failed save they take only 2 *Wound*s but still get applied with Fear 2 status. Caster gains Muted 2 status.
+Description: Caster sheeds their mortal skin and displays their full arcane power to all targets of their choosing in Full range. On successfull test they deal 10 *Wound*s to everyone choosen and applies Fear 2 status to them. On failed test they take only 2 *Wound*s but still get applied with Fear 2 status. Caster gains Muted 2 status.
