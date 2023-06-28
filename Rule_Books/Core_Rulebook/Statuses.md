@@ -29,3 +29,5 @@
 | Greater burning x | At the start of target's turn it receives 3 *Wound*s of fire damage |
 | Hold x | Target cannot move and and cannot use Coup De Grace actions |
 | Pacified x | Target will wonder around aimlessly and not attack anybody. If any damage hits target it looses status. After status ends it will be unfriendly to caster and imune to this status untill next day |
+| Protection from Lawful/Chaos x | Target cannot be hit by attacker that is of specified alignment |
+| Guardian aura x | If ally in range of your aura needs to make any Stat test or non-specialized skill test they can use caster's Spell target if it's higher than their specified target. |

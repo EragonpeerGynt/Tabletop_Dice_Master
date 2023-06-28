@@ -44,7 +44,7 @@ Upcastable: Yes
 Additional Actions: Yes  
 Range: Melee  
 Increases offensive penalty: Yes  
-Description: You attempt to attach tiny strip of your holy scripture to your enemy. On successfull Spell test your god inflicts damage to your enemy causing 2 *Wounds*. On failiure your full damage is halved.  
+Description: You attempt to attach tiny strip of your holy scripture to your enemy. On successfull Spell test your god inflicts damage to your enemy causing 2 *Wounds*. On failed test your full damage is halved.  
 For each additional *Action token* you deal 1 *Wound* more.  
 For each spell slot above 1st you increase damage by 2 *Wound*s.
 
@@ -85,7 +85,7 @@ Upcastable: Yes
 Additional Actions: Yes  
 Range: Melee/Full  
 Increases offensive penalty: Yes  
-Description: You begin praying to your god to help target of this spell survive. You throw Spell test and on success you heal 3 wounds. On failiure you halve all healing done by the spell.  
+Description: You begin praying to your god to help target of this spell survive. You throw Spell test and on success you heal 3 wounds. On failed test you halve all healing done by the spell.  
 For 1 additional *Action token* you can change range from Melee to Full.  
 For 1 additional *Action token* you can add additional healing of 1 *Wound*.  
 For each spell level above 2nd you can add additional healing of 1 *Wound*.
@@ -140,41 +140,87 @@ Description: You suppress feelings of a target creature. On successfull Spell te
 
 ### Hold unfaithfull
 
-Target cannot move this turn and has one action less and cannot use Coup De Grace
-
 Actions: 2  
 Upcastable: Yes  
 Additional Actions: No  
 Range: Melee  
 Increases offensive penalty: Yes  
-Description: You bind target that is of opposite aligment than your deity with holy chains to stop it from acting. On successfull Spell test you apply Hold 2 and Slowness 2 to target. On failiure you apply Slowness 1 to target.  
+Description: You bind target that is of opposite alignment than your deity with holy chains to stop it from acting. On successfull Spell test you apply Hold 2 and Slowness 2 to target. On failed test you apply Slowness 1 to target.  
 If casted with spell level of 4th level or above you increase Status effect step of any applied status by 1.
 
 ## Spell level 3
 
 ### Releave pain
 
-Heals stress
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: Yes  
+Range: Half  
+Increases offensive penalty: Yes  
+Description: You weave a short prayer that soothes mind and body of nearby target. On successfull Spell test you remove 3 *Stress* from target. On failed test you only remove 2 *Stress* and don't gain any upcasting or additional action bonuses.  
+For each additional *Action token* you remove 1 additional *Stress*.  
+For each spell level above 2nd you remove 2 additional *Stress*.
 
 ### Ressurection
 
-Ressurection that heals more htan false life and has lower punishment
+Actions: 3  
+Upcastable: No  
+Additional Actions: No  
+Range: Full  
+Increases offensive penalty: Yes  
+Description: You infuse life energy back into body and your god pulls target's soul from wherever it is. On successfull Spell test you revive target with 5 *Wound*s (if this is more than their maximum amount they revive with one wound less than their maximum) and with *Stress* equal to half their maximum stress or 10 *Stress* whichever is lower. On failed test target gets revived with 10 *Wound*s (if this is more than their maximum amount they ressurect with one wound less than their maximum) and they gain maximum *Stress*.
 
 ### Protection from opposite
 
-Cannot be targeted by enemies of opposite alligment of caster
+Actions: 1  
+Upcastable: Yes  
+Additional Actions: No  
+Range: Full  
+Increases offensive penalty: Yes  
+Description: You bless target with essence of your god. They gain Protection from Lawful 2 if you are chaotic alignment and Protection from Chaos 2 if you are lawful alignment.
 
 ### Hold creature
 
-Target cannot move this turn and has one action less and cannot use Coup De Grace
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: No  
+Range: Melee  
+Increases offensive penalty: Yes  
+Description: You bind target that non-intelligent creature with holy chains to stop it from acting. On successfull Spell test you apply Hold 2 and Slowness 2 to target. On failed test you apply Slowness 1 to target.  
+If casted with spell level of 4th level or above you increase Status effect step of any applied status by 1.
 
 ### True heal
 
-Heals multi target and more
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: Yes  
+Range: Full  
+Increases offensive penalty: Yes  
+Description: You read prayer from your book and select 3 targets that can hear you. You heal them of 3 *Wound*s and 1 *Stress*. On successfull Spell test you also give them Shielded 1.  
+For each additional *Action token* you can select 1 additional target.  
+For each spell level above 3rd you heal additional 3 *Wound*s and additional 1 *Stress*.
 
 ### Holy aura
 
 You gain aura that gives every ally in range gate of equal level as the spell cast gate you used for this spell.
+
+Actions: 1  
+Upcastable: Yes  
+Additional Actions: Yes  
+Range: Melee/Custom:  
+```
+.......
+.#####.
+.#####.
+.##@##.
+.#####.
+.#####.
+.......
+```
+Increases offensive penalty: Yes  
+Description: Air arround you gains slight positive feeling for your allies. You gain Guardian aura 2 status with distance of 2 map units.  
+For each additional *Action token* used you increase Status effect step of Guardian aura x by 1.  
+If using spell of 5th level or higher you increase distance to 3 map units.
 
 ## Spell level 4
 
