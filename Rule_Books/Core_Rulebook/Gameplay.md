@@ -18,7 +18,7 @@ You can use 2 of your actions to preform long move which is equal to 2x your mob
 ### Making an attack (Attack action)
 
 Player rolls *Attack test*. If they succeed they then roll their weapon's damage and if that is higher than monster's *Armor reduction* GM increases target's *Wound*s by specified amount.  
-In case of *Critical test* target takes *Wound*s as if we successfully passed *Armor reduction*. If we then successfully pass test against *Armor reduction* they take all the damage again.   
+In case of *Critical test* target takes additional 1 *Wound*. This happens even if you don't penetrate *Armor reduction*.   
 Each *Attack test* after the first one in a turn has reduced chances of hitting enemy. This meains player needs to increase *Offensive penalty*.
 
 Base *Attack test* of multiple attacks:  
@@ -44,7 +44,7 @@ If you are at least *Trained* in shields you can use your *Action token* to rais
 ### Getting attacked (Dodge action)
 
 When player gets attacked by normal enemy attack player rolls *Dodge test*. If they succeed they take no damage. If they fail they roll *Armor reduction* and if it is lower than attacker's damage they take specified amount of *Wound*s.  
-In case of Catastrophic gate player automaticly take specified amount of *Wound*s and further specified amount of *Wound*s if they roll *Armor reduction* under enemy damage.   
+In case of Catastrophic gate player takes additional 1 *Wound*. This happens even if the attacker doesn't penetrate *Armor reduction*.   
 Each *Dodge test* after the first one in a turn has reduced chances of dodging enemy's hit. This means player needs to increase *Evasive penalty*.  
 In case of *Critical test* player doesn't increase Evasive penalty.
 

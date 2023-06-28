@@ -11,7 +11,7 @@
 
 ## Spell level 1
 
-### Triage
+## Triage
 
 Actions: 1  
 Upcastable: Yes  
@@ -21,10 +21,10 @@ Increases offensive penalty: Yes
 Description: You pray over the wound for quick recovery. You touch the target and heal 1 *Wound*.  
 For each additional *Action token* you can heal 1 more *Wound*.  
 For 1 additional *Action token* you can change range from Melee to Half.  
-For each spell level above 1st you can heal 1 more *Wound*.
+for each spell slot above 1st you can heal 1 more *Wound*.
 
 
-### Blessed shield
+## Blessed shield
 
 Actions: 2  
 Upcastable: Yes  
@@ -37,7 +37,7 @@ For 1 additional *Action token* you change range from Melee to Half.
 For each spell slot above 1st you increase Status effect step of Shielded x by 1.  
 You can *Focus* on this spell to not lower it's status this round.
 
-### Inflict wounds
+## Inflict wounds
 
 Actions: 2  
 Upcastable: Yes  
@@ -48,7 +48,7 @@ Description: You attempt to attach tiny strip of your holy scripture to your ene
 For each additional *Action token* you deal 1 *Wound* more.  
 For each spell slot above 1st you increase damage by 2 *Wound*s.
 
-### Holy light
+## Holy light
 
 Actions: 1  
 Upcastable: No  
@@ -57,7 +57,7 @@ Range: Custom
 Increases offensive penalty: No  
 Description: You summon formless ball of light that sheeds bright light up to 20 map units away. Whenever follower opposite deity enters this light's range for the first time caster does Spell test. On success target gains Blindness 1 status.
 
-### False life
+## False life
 
 Actions: 3  
 Upcastable: No  
@@ -66,7 +66,7 @@ Range: Melee
 Increases offensive penalty: Yes
 Description: Caster prays to their deity and pastes short prayer note above target's heart. Target revives with one less than maximum amount of *Wound*s and their *Stress* is increased by 1/2 of their maximum stress. If this stress increase would reach maximum Stress they get maximum amount of stress.
 
-### Detect magic
+## Detect magic
 
 Actions: 3  
 Upcastable: No  
@@ -78,7 +78,7 @@ Description: You begin seeing world trough god's eyes. Any object or creature yo
 
 ## Spell level 2
 
-### Healing prayer
+## Healing prayer
 
 Actions: 2  
 Upcastable: Yes  
@@ -88,9 +88,9 @@ Increases offensive penalty: Yes
 Description: You begin praying to your god to help target of this spell survive. You throw Spell test and on success you heal 3 wounds. On failed test you halve all healing done by the spell.  
 For 1 additional *Action token* you can change range from Melee to Full.  
 For 1 additional *Action token* you can add additional healing of 1 *Wound*.  
-For each spell level above 2nd you can add additional healing of 1 *Wound*.
+for each spell slot above 2nd you can add additional healing of 1 *Wound*.
 
-### Blessing 
+## Blessing 
 
 Actions: 2  
 Upcastable: Yes  
@@ -100,10 +100,10 @@ Increases offensive penalty: Yes
 Tags: Focus  
 Description: You summon shield around a person noticable by slight glimmer of air around the target. On successfull Spell test you give target Greater shielding 2. On failed test you give target Shielded 2.  
 For 1 additional *Action token* you can select 1 more target.  
-For each spell level above 2nd you increase Status effect step by 1.  
+for each spell slot above 2nd you increase Status effect step by 1.  
 You can *Focus* on this spell to not lower it's status this round.
 
-### Unbroken shield
+## Unbroken shield
 
 Actions: 1  
 Upcastable: Yes  
@@ -112,10 +112,10 @@ Range: Self
 Increases offensive penalty: Yes  
 Tags: Focus  
 Description: You summon shield around yourself and you gain Greater shielding 4.  
-For each spell level above 2nd you increase Status effect step by 1.  
+for each spell slot above 2nd you increase Status effect step by 1.  
 You can *Focus* on this spell to not lower it's status this round.
 
-### Holy flare
+## Holy flare
 
 Actions: 1  
 Upcastable: Yes  
@@ -125,11 +125,11 @@ Increases offensive penalty: Yes
 Tags: Focus  
 Description: You point to your target and condemn it's sins. On successfull Spell test you deal 1 *Wound* of fire damage and apply Lesser burning 2 status. On failed save you don't apply Lesser burning x status.  
 For each additional *Action token* you increase Status effect step of Lesser burning x by 1.  
-For each spell level above 2nd you increase damage by 2 *Wound*s.  
+for each spell slot above 2nd you increase damage by 2 *Wound*s.  
 If casted with spell slot of 5th level you change Lesser burning x to Burning x.
 You can *Focus* on this spell to not lower it's status this round.
 
-### Clear emotions
+## Clear emotions
 
 Actions: 2  
 Upcastable: No  
@@ -138,7 +138,7 @@ Range: Melee
 Increases offensive penalty: No  
 Description: You suppress feelings of a target creature. On successfull Spell test you apply Pacified 2 to target. On failed save you instead apply Slowness 1 status.  
 
-### Hold unfaithfull
+## Hold unfaithfull
 
 Actions: 2  
 Upcastable: Yes  
@@ -150,7 +150,7 @@ If casted with spell level of 4th level or above you increase Status effect step
 
 ## Spell level 3
 
-### Releave pain
+## Releave pain
 
 Actions: 2  
 Upcastable: Yes  
@@ -159,9 +159,9 @@ Range: Half
 Increases offensive penalty: Yes  
 Description: You weave a short prayer that soothes mind and body of nearby target. On successfull Spell test you remove 3 *Stress* from target. On failed test you only remove 2 *Stress* and don't gain any upcasting or additional action bonuses.  
 For each additional *Action token* you remove 1 additional *Stress*.  
-For each spell level above 2nd you remove 2 additional *Stress*.
+for each spell slot above 2nd you remove 2 additional *Stress*.
 
-### Ressurection
+## Ressurection
 
 Actions: 3  
 Upcastable: No  
@@ -170,26 +170,27 @@ Range: Full
 Increases offensive penalty: Yes  
 Description: You infuse life energy back into body and your god pulls target's soul from wherever it is. On successfull Spell test you revive target with 5 *Wound*s (if this is more than their maximum amount they revive with one wound less than their maximum) and with *Stress* equal to half their maximum stress or 10 *Stress* whichever is lower. On failed test target gets revived with 10 *Wound*s (if this is more than their maximum amount they ressurect with one wound less than their maximum) and they gain maximum *Stress*.
 
-### Protection from opposite
+## Protection from opposite
 
 Actions: 1  
 Upcastable: Yes  
 Additional Actions: No  
 Range: Full  
 Increases offensive penalty: Yes  
-Description: You bless target with essence of your god. They gain Protection from Lawful 2 if you are chaotic alignment and Protection from Chaos 2 if you are lawful alignment.
+Description: You bless target with essence of your god. They gain Protection from Lawful 2 if you are chaotic alignment and Protection from Chaos 2 if you are lawful alignment.  
+For each spell above 3th you increase Status effect step of Protection from Neutral x by 1.
 
-### Hold creature
+## Hold creature
 
 Actions: 2  
 Upcastable: Yes  
 Additional Actions: No  
 Range: Melee  
 Increases offensive penalty: Yes  
-Description: You bind target that non-intelligent creature with holy chains to stop it from acting. On successfull Spell test you apply Hold 2 and Slowness 2 to target. On failed test you apply Slowness 1 to target.  
+Description: You bind target that is non-intelligent creature with holy chains to stop it from acting. On successfull Spell test you apply Hold 2 and Slowness 2 to target. On failed test you apply Slowness 1 to target.  
 If casted with spell level of 4th level or above you increase Status effect step of any applied status by 1.
 
-### True heal
+## True heal
 
 Actions: 2  
 Upcastable: Yes  
@@ -198,9 +199,9 @@ Range: Full
 Increases offensive penalty: Yes  
 Description: You read prayer from your book and select 3 targets that can hear you. You heal them of 3 *Wound*s and 1 *Stress*. On successfull Spell test you also give them Shielded 1.  
 For each additional *Action token* you can select 1 additional target.  
-For each spell level above 3rd you heal additional 3 *Wound*s and additional 1 *Stress*.
+for each spell slot above 3rd you heal additional 3 *Wound*s and additional 1 *Stress*.
 
-### Holy aura
+## Holy aura
 
 You gain aura that gives every ally in range gate of equal level as the spell cast gate you used for this spell.
 
@@ -210,11 +211,11 @@ Additional Actions: Yes
 Range: Melee/Custom:  
 ```
 .......
-.#####.
-.#####.
+.####.
+.####.
 .##@##.
-.#####.
-.#####.
+.####.
+.####.
 .......
 ```
 Increases offensive penalty: Yes  
@@ -224,44 +225,76 @@ If using spell of 5th level or higher you increase distance to 3 map units.
 
 ## Spell level 4
 
-### Protection from neutral
+## Protection from neutral
 
-Cannot be targeted by enemies of neutral view of caster
+Actions: 1  
+Upcastable: Yes  
+Additional Actions: No  
+Range: Full  
+Increases offensive penalty: Yes  
+Description: You bless target with essence of your god. They gain Protection from Neutral 2.  
+For each spell above 4th you increase Status effect step of Protection from Neutral x by 2.
 
-### Hold humanoid
 
-Target cannot move this turn and has one action less and cannot use Coup De Grace
+## Hold humanoid
 
-### Holy weapon
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: No  
+Range: Melee  
+Increases offensive penalty: Yes  
+Description: You bind target that is humanoid with holy chains to stop it from acting. On successfull Spell test you apply Hold 2 and Slowness 2 to target. On failed test you apply Slowness 1 to target.  
+If casted with spell level of 5th level or above you increase Status effect step of any applied status by 1.
 
-Weapon effected by this deals additional 1 wound
+## Holy weapon
 
-### Greater blessing
+Actions: 2  
+Upcastable: No  
+Additional Actions: Yes  
+Range: Half  
+Increases offensive penalty: No  
+Description: Caster blesses chooses 3 targets and blesses their weapons to help fight for caster's god. They gain Blessed weapon 3 status.  
+For each additional *Action token* you can select 2 more targets.
 
-grants small wound shield to multiple targets
+## Greater blessing
 
-### Geass
+Actions: 1  
+Upcastable: Yes  
+Additional Actions: Yes  
+Range: Half  
+Increases offensive penalty: Yes  
+Description: You burst out with holy power and grant blessing to everyone you want in your Half range. Each target gains Shielded 4 status.  
+If you use 2 additional *Action token*s you increase range to Full.
+
+## Geass
 
 Curse target that then needs to follow this to the point. If it disobeys it takes damage.
 
+Actions: 3  
+Upcastable: No  
+Additional Actions: No  
+Range: Half  
+Increases offensive penalty: Yes  
+Description: You command a target to do your biding and empower the bond with god's will. On successfull Spell test target gains Geass status. On failed test target gains Slowness 1 and Crippled 1 statuses.
+
 ## Spell level 5
 
-### True revival
+## True revival
 
 Ressurection that fully heals and has almost no negative (non combat)
 
-### Celestial lock
+## Celestial lock
 
 Target cannot move this turn and has one action less and cannot use Coup De Grace. Can use on anything that is sentient
 
-### Reconstrucion
+## Reconstrucion
 
 Gives ability to raise one target effected by true death. That character looses one vitality permanently
 
-### Smiting fist
+## Smiting fist
 
 Heavy single target wounds and stress
 
-### Holy purge
+## Holy purge
 
 Ignite yourself and take heavy stress, but deal same ammount of wounds to every target up to 2 units away
