@@ -65,7 +65,7 @@ Upcastable: Yes
 Additional Actions: No  
 Range: Self  
 Increases offensive penalty: No  
-Description: You force necrotic energy to create a shield around you. On successfull spell test you gain Half reduction 3 status. On failed save you gain Light reduction 2 status.  
+Description: You force necrotic energy to create a shield around you. On successfull spell test you gain Half reduction 3 status. On failed test you gain Light reduction 2 status.  
 For each spell slot above 1st you increase Status effect step of gained status by 1.
 
 ## Poison dagger    
@@ -75,7 +75,7 @@ Upcastable: Yes
 Additional Actions: Yes  
 Range: Half/Full  
 Increases offensive penalty: Yes  
-Description: You attempt to poison target with summoned dagger that you throw at them. On successfull spell save you give target Venom 5 status.  
+Description: You attempt to poison target with summoned dagger that you throw at them. On successfull spell test you give target Venom 5 status.  
 For 1 additional *Action token* you can change range from Half to Full.  
 If you use spell slot of 3rd level or higher Venom x status is changed to Poison x status.  
 If you use spell slot of 5th level or higher Venom x status is changed to Toxin x status.
@@ -83,8 +83,6 @@ If you use spell slot of 5th level or higher Venom x status is changed to Toxin 
 ## Spell level 2
 
 ## Cold snap       
-
-Medium *Wound*s to multiple targets in fan shape
 
 Actions: 2  
 Upcastable: Yes  
@@ -105,8 +103,6 @@ If using spell slot of 4th level or higher you add 2 Status effect steps to slow
 
 ## False sound     
 
-Creates ilusion of a sound
-
 Actions: 1  
 Upcastable: No  
 Additional Actions: No  
@@ -121,7 +117,7 @@ Upcastable: Yes
 Additional Actions: Yes  
 Range: Half  
 Increases offensive penalty: Yes  
-Description: You fill your lungs with fresh air and change it to poison that you breath in a straight line up to Half range away. You hit all targets in this zone. On successfull spell test you deal 2 *Wound*s and apply Venom 2 to all targets. On failed save you don't deal any direct *Wound*s but still apply Venom 2.  
+Description: You fill your lungs with fresh air and change it to poison that you breath in a straight line up to Half range away. You hit all targets in this zone. On successfull spell test you deal 2 *Wound*s and apply Venom 2 to all targets. On failed test you don't deal any direct *Wound*s but still apply Venom 2.  
 For 1 additional *Action token* you change Venom x status to Poison x status.  
 For each spell slot above 2nd you deal 1 more *Wound* and increase applied status' Status effect step by 1.
 
@@ -137,8 +133,6 @@ For each additional *Action token* you increase status effect of Frozen x by 1.
 For each spell level above 2nd summon one more dagger.
 
 ## Necrotic scythe 
-
-Heavy melee AoE necrotic wounds. Gives Decay 2
 
 Actions: 2  
 Upcastable: Yes  
@@ -157,8 +151,6 @@ For 1 additional *Action token* you can add Venom 2 to targets hit if spell test
 For each spell slot above 2nd you deal additional 2 *Wounds* and increase Status effect step of all applied statuses by 1.
 
 ## Mind sear       
-
-Applies heavy psychic damage to everyone around and gives them Disarm
 
 Actions: 3  
 Upcastable: Yes  
@@ -181,27 +173,94 @@ If casted with spell slot of 4th level or above you increase damage by 3 *Wound*
 
 ## Coma             
 
-Applies Sleep x to targets in AoE
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: Yes  
+Range: Half/Custom:  
+```
+.......
+.......
+..###..
+..#%#..
+..###..
+.......
+.......
+...@...
+```
+Increases offensive penalty: Yes  
+Description: You spread cloud of sleeping mana originating from point in your half range with diameter of 3 map units. On successfull spell test all targets in it's area of effect gain Sleep 3. On failed test targets instead gain Crippled 2.  
+For each additional *Action token* you increase diameter of the spell by 2.  
+For each spell slot above 3rd you increase diameter of the spell by 2.
 
 ## False image      
 
-Creates ilusion of image that has depth
+Actions: 1  
+Upcastable: Yes  
+Additional Actions: No  
+Range: Full  
+Increases offensive penalty: Yes  
+Description: Creates illusion of any entity smaller than 1 by 1 by 1 map units on a specific point of origin in caster's full range. Can be used with Deception test to trick enemies.  
+For each spell slot above 3rd you increase maximum size on entity by 1 step, steps being:  
+| Step | Size limit |
+|:---:|:---:|
+| 1 | 1 by 1 by 1 |
+| 2 | 2 by 2 by 2 |
+| 3 | 3 by 3 by 3 |
 
 ## Boiling blood    
 
-Target's single target. On successfull hit it takes full damage and everyone around takes half. On unsuccessfull hit it takes half damage and targets around take none.
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: Yes  
+Range: Full  
+Increases offensive penalty: Yes  
+Description: You try to boil blood of a target. They need to have blood in themselves for this spell to work. On successfull spell test you deal 6 *Wound*s to them and 3 *Wound*s to any target standing in target's Melee range. On failed test your damage to primary target is halved and no damage is dealt to nerby targets.  
+For 1 additional *Action token* you increase range of secodary damage to Polearm range.  
+For each spell level above 3rd you add 2 *Wound*s to primary target and 3 *Wound*s to secondary targets.
 
 ## Nocturnal relief 
 
-Heal some stress from all allies
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: Yes  
+Range: Half/Full  
+Increases offensive penalty: Yes  
+Description: You charm targets of your choosing in your Half range and give them illusion of just waking up. On successfull spell test you remove 4 *Stress* from each of the targets. On failed test all your *Stress* healing is halved.  
+For 1 additional *Action token* you can change range from Half to Full.  
+For each spell slot above 3rd you can heal 2 more *Stress*.
 
 ## Mind puppet      
 
-Gives target Mind controll x
+Gives target Mind control x
+
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: No  
+Range: Full  
+Increases offensive penalty: Yes  
+Description: You project necrotic tendrils towards target and try to take control of the body from soul. On successfull spell test you apply Mind control 5 status to target. On failed test you apply Muted 1 to target and yourself.  
+For each spell slot above 3rd you increase Status effect step of Muted x by 1.  
+If you use 5th spell slot to cast this spell and you failed spell test you don't apply Muted x to yourself.
 
 ## Frost bomb       
 
-Heavy AoE ice damage and slowness
+Actions: 3  
+Upcastable: Yes  
+Additional Actions: No  
+Range: Full/Custom:  
+```
+.......
+.#####.
+.#####.
+.##%##.
+.#####.
+.#####.
+.......
+...@...
+```
+Increases offensive penalty: Yes  
+Description: You summon fiery ball somewhere in your range that unleashes burning hell to surounding area with diameter of 5 map units. On successfull Spell test you deal 2 *Wound*s and Slowness 3 to all target's in range. On failed Spell test all your damage is halved and you apply Slowness 1 status.  
+For each spell level above 3rd you add 2 *Wound*s to spell's damage.
 
 ## Spell level 4
 

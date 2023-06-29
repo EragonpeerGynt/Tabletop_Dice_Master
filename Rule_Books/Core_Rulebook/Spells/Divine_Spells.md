@@ -112,7 +112,7 @@ Range: Self
 Increases offensive penalty: Yes  
 Tags: Focus  
 Description: You summon shield around yourself and you gain Greater shielding 4.  
-for each spell slot above 2nd you increase Status effect step by 1.  
+For each spell slot above 2nd you increase Status effect step by 1.  
 You can *Focus* on this spell to not lower it's status this round.
 
 ## Holy flare
