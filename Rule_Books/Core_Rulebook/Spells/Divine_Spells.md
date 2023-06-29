@@ -146,7 +146,7 @@ Additional Actions: No
 Range: Half  
 Increases offensive penalty: Yes  
 Description: You bind target that is of opposite alignment than your deity with holy chains to stop it from acting. On successfull Spell test you apply Hold 2 and Slowness 2 to target. On failed test you apply Slowness 1 to target.  
-If casted with spell level of 4th level or above you increase Status effect step of any applied status by 1.
+If casted with spell slot of 4th level or above you increase Status effect step of any applied status by 1.
 
 ## Spell level 3
 
@@ -189,7 +189,7 @@ Additional Actions: No
 Range: Half  
 Increases offensive penalty: Yes  
 Description: You bind target that is non-intelligent creature with holy chains to stop it from acting. On successfull Spell test you apply Hold 2 and Slowness 2 to target. On failed test you apply Slowness 1 to target.  
-If casted with spell level of 4th level or above you increase Status effect step of any applied status by 1.
+If casted with spell slot of 4th level or above you increase Status effect step of any applied status by 1.
 
 ## True heal
 
@@ -245,7 +245,7 @@ Additional Actions: No
 Range: Half  
 Increases offensive penalty: Yes  
 Description: You bind target that is humanoid with holy chains to stop it from acting. On successfull Spell test you apply Hold 2 and Slowness 2 to target. On failed test you apply Slowness 1 to target.  
-If casted with spell level of 5th level or above you increase Status effect step of any applied status by 1.
+If casted with spell Slot of 5th level or above you increase Status effect step of any applied status by 1.
 
 ## Holy weapon
 

@@ -10,12 +10,14 @@
 | Last stand | Target needs to make successfull *Unmodified test* any time they gain this status, take damage in this state, or start a turn in this state. If they fail they end Last stand and become *Dying*. If they succeed they increase *Stress* by one (1). If their *Stress* ever reaches *Durability* while they have *Last stand* status they permanently die. |  
 | Decay x | Target cannot loose *Wound*s or *Stress* while effected by this status |
 | Blindness x | Target cannot move more than one map unit and it tries to hit or dodge with with *Negative test* |
-| Poison x | Deals 1 *Wound* every start of a turn |
+| Venom x | Deals 1 *Wound* every start of a turn |
+| Poison x | Deals 2 *Wound*s every start of a turn |
+| Toxin x | Deals 3 *Wound* every start of a turn |
 | Sleep x | Target falls asleep and looses it's turn while under this status. Any damage will remove this status and give target additional turn right after it has been awoken |
 | Mind controll x | Caster controls the target, but it can only use Move action. It uses your *Action token*s and your movement penalty |
 | Frozen x | Target cannot take it's turns but noone can damage it |
 | Necropolis x | 2 map units radius aura centered on caster that follows them around. If enemy would take a *Wound* while in range of aura ally instead takes that *Wound*s in *Stress* instead |
-| Mana shield x | You become protected from enemy spell casts. Any time you would be hit by a spell you lover Mana shield status by number equal to spell level used, until you run out of it. Still behaves like a normal Status |
+| Mana shield x | You become protected from enemy spell casts. Any time you would be hit by a spell you lover Mana shield status by number equal to spell slot level used, until you run out of it. Still behaves like a normal Status |
 | Alchemy reflux | You become poisoned by potions you drank. You cannot drink any more potions untill next rest |
 | Hyperactive x | Target gains one (1) more *Action token* per turn and gains one more mobility. They don't suffer mobility penalty on multiple moves in a turn |
 | Arcane protection x | Target's Mental tests (INT, WIS, WIL) get replaced by caster's Spellcasting test if it's higher than original save. |
@@ -35,3 +37,6 @@
 | Geass | Target must try to follow command given with geass. If they disobey they take 10 *Wound*s and 10 *Stress* of damage. Effect ends when target fulfills the command |
 | Branded x | Denotes how far the target's soul is gone because of reviving. This status does not decay trough time (you cannot loose Status effect steps in any way). When you reach Branded 3 all normal forms of revivification stop working permanently. |
 | Undeath x | Denotes how far the target's body is gone because of reviving. This status does not decay trough time (you cannot loose Status effect steps in any way). Each Status effect step of this status lowers target's *Durability* by 1 |
+| Light reduction x | While having this status active you calculate *Armor reduction* as if you have Light armor type equiped |
+| Half reduction x | While having this status active you calculate *Armor reduction* as if you have Half armor type equiped |
+| Full reduction x | While having this status active you calculate *Armor reduction* as if you have Full armor type equiped |

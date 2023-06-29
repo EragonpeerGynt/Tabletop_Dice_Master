@@ -38,7 +38,7 @@ If you find any spell scrolls that contain spell from Arcane spell list you can 
 
 Spell fluidity: You have deep connection to arcane of the world. This means you can:  
 - INT amount of times a day change one prepared spell for another you haven't prepared but is contained in your Arcane philactery.
-- You can regenerate up to half your level (rounded up) spell slots once per day when you are out of combat (all spell levels summed must be of lower or equal value compared to your level).
+- You can regenerate up to half your level (rounded up) spell slots once per day when you are out of combat (all spell slot levels summed must be of lower or equal value compared to your level).
 
 ## Level 5
 

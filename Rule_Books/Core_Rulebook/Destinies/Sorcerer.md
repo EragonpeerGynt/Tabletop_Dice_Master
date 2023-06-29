@@ -50,7 +50,7 @@ Surge flood list:
 | Elemental | 1 | You can change damage type to any element you want |
 | Mirror | S | When you cast spell that targets one target you may specify second target |
 
-*S: This means spell level.
+*S: This means spell's level.
 
 Occult wildfire: Any time you deal damage with spells that you modified you deal additional *Wound*s equal to your WIL (min 0).
 

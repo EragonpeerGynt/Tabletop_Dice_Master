@@ -15,27 +15,70 @@ Dark, psyhic, ghost, ice, poison, blood
 
 ## Snowball         
 
-Single target ranged ice wounds
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: Yes  
+Range: Full  
+Increases offensive penalty: Yes  
+Description: You create medium sized ball of ice and snow in your hand that you catapult towards target with mana. On successfull spell test you deal 2 *Wound*s.  
+For each additional *Action token* you deal 2 more *Wound*s.  
+For each spell slot above 1st you deal 1 more *Wound*.
+
 
 ## Blindness        
 
-Gives Blindness 1 to target
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: No  
+Range: Full  
+Increases offensive penalty: Yes  
+Description: You spray target with paralictic poison. On successfull spell test you apply Blindness 1 to target.  
+For each spell Slot above 1st you increase Status effect step of Blindness x by 1.
 
 ## Necromatic grasp 
 
-Heavy melee necrotic wounds. Gives Decay 1
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: Yes  
+Range: Melee  
+Increases offensive penalty: Yes  
+Description: You empower your hand with necreotic energy with which you try to grab target. On successfull spell test you deal 3 *Wound*s and apply Decay 1 status to target. On failed test your damage is halved and you don't apply any status.  
+For each additional *Action token* you deal 1 more *Wound*.  
+For each spell slot above 1st you deal 2 more *Wound*s and add 1 to Status effect step of Decay x.
 
 ## False relief     
 
-Heals some stress
+Actions: 1  
+Upcastable: Yes  
+Additional Actions: Yes  
+Range: Half/Full  
+Increases offensive penalty: Yes  
+Description: You use some of your necrotic powers to make target forget about the pain they are feeling. You focus necrotic energy and you heal 1 *Stress* from target.  
+For each additional *Action token* you can heal 1 more *Stress*.  
+For 1 additional *Action token* you can change range from Half to Full.  
+For each spell slot above 1st you can heal 1 more *Stress*.
 
 ## Iceskin          
 
-Gives *Half armor*'s *Armor reduction* to caster (Does not apply any modifiers)
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: No  
+Range: Self  
+Increases offensive penalty: No  
+Description: You force necrotic energy to create a shield around you. On successfull spell test you gain Half reduction 3 status. On failed save you gain Light reduction 2 status.  
+For each spell slot above 1st you increase Status effect step of gained status by 1.
 
 ## Poison dagger    
 
-Gives Poison x to target
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: Yes  
+Range: Half/Full  
+Increases offensive penalty: Yes  
+Description: You attempt to poison target with summoned dagger that you throw at them. On successfull spell save you give target Venom 5 status.  
+For 1 additional *Action token* you can change range from Half to Full.  
+If you use spell slot of 3rd level or higher Venom x status is changed to Poison x status.  
+If you use spell slot of 5th level or higher Venom x status is changed to Toxin x status.
 
 ## Spell level 2
 

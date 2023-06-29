@@ -43,8 +43,8 @@ Additional Actions: Yes
 Range: Half  
 Increases offensive penalty: Yes  
 Description: You fire a bolt of fire at target that is at most half range away. On successfull Spell test you deal 2 *Wound*s.  
-For each additional *Action token* you deal 1 more *Wound* on successfull hit.  
-For each spell level above 1st you deal 2 more *Wound* on successfull hit.
+For each additional *Action token* you deal 1 more *Wound*.  
+For each spell level above 1st you deal 2 more *Wound*.
 
 ## Discharge
 
@@ -73,7 +73,7 @@ Upcastable: No
 Additional Actions: No  
 Range: Half  
 Increases offensive penalty: No  
-Description: You can detect if there are any poisons present in your environment. If you succeed on Posion test you can determine which poison is it.
+Description: You gain Specialized in Poison skill test for this round. You can detect if there are any poisons present in your environment. If you succeed on Poison test you can determine which poison is it.
 
 ## Spell level 2
 
