@@ -266,23 +266,55 @@ For each spell level above 3rd you add 2 *Wound*s to spell's damage.
 
 ## Frost prison    
 
-Gives target Frozen x status
+Actions: 1  
+Upcastable: Yes  
+Additional Actions: No  
+Range: Half  
+Increases offensive penalty: Yes  
+Description: You quickly gather cold mana at the target's location. On successfull spell test you apply Frozen 3 status to target. On failed test you apply Crippled 3.  
+For each spell slot above 4th you add one more target.
 
 ## Necrotic spirit 
 
-Spawns spirit that deals damage around it for n turns
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: No  
+Range: Half  
+Increases offensive penalty: Yes  
+Description: You spawn entity that cannot be targeted and has Alive 4 status. Any target of caster's choosing that begins it's turn in melee range of Necrotic spirit takes 3 necrotic *Wound*s. You can use one of your actions to more spirit up to Full range.
 
 ## Blood lake      
 
-Aoe attack that deals wounds and some status?
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: No  
+Range: Half  
+Increases offensive penalty: Yes  
+Description: You create illusion of lake of blood armound you that reaches 3 map units away. On successfull spell test you target all possible targets in lake and deal 6 *Wound*s, Toxin 2 status, and Slowness 2 status. On failed test all targets get 3 *Wound*s, Cripled 1, and Venom 3 status.  
+For each spell slot above 4th you add 3 *Wound*s and increase Status effect step of all aplied statuse no matter the result of a spell test.
 
 ## Dragon claw     
 
-Medium range dark attack that CCs enemy
+Actions: 1  
+Upcastable: Yes  
+Additional Actions: Yes  
+Range: Polearm  
+Increases offensive penalty: Yes  
+Description: You envelop your hand in darkness that molds it into shape of dragon's claw. On successfull spell test you deal 10 *Wound*s and Stun 1 status. On failed test your damage is halved and you don't apply any status.  
+For 1 additional *Action token* you can transform your other hand and attack second target.  
+For each spell slot above 4th level you increase damage by 10 *Wound*s and increase Status effect step by 1.
 
 ## Psychic lance   
 
 Line based psychic damage skill shot
+
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: No  
+Range: Full  
+Increases offensive penalty: Yes  
+Description: You project spear of pure psychic energy that penetrates all living targets up to your Full range. On successfull spell test you deal 7 *Wound*s and Hold 2 status to every target hit. On failed test your damage is halved and you only apply Hold 1 status.  
+For each spell slot above 4th you increase damage by 7 *Wound*s.
 
 ## Spell level 5
 

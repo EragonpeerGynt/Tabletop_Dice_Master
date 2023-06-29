@@ -40,3 +40,5 @@
 | Light reduction x | While having this status active you calculate *Armor reduction* as if you have Light armor type equiped |
 | Half reduction x | While having this status active you calculate *Armor reduction* as if you have Half armor type equiped |
 | Full reduction x | While having this status active you calculate *Armor reduction* as if you have Full armor type equiped |
+| Alive 3 | Status that denotes how much time does temporary summon have left. This lowers at the end of it's casters turn |
+| Stun x | Target looses it's turn and Coup De Grace actions |
