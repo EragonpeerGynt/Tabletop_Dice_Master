@@ -65,7 +65,7 @@ Upcastable: Yes
 Additional Actions: No  
 Range: Self  
 Increases offensive penalty: No  
-Description: You force necrotic energy to create a shield around you. On successfull spell test you gain Half reduction 3 status. On failed test you gain Light reduction 2 status.  
+Description: You force ice mana to create a shield around you. On successfull spell test you gain Half reduction 3 status. On failed test you gain Light reduction 2 status.  
 For each spell slot above 1st you increase Status effect step of gained status by 1.
 
 ## Poison dagger    
@@ -306,8 +306,6 @@ For each spell slot above 4th level you increase damage by 10 *Wound*s and incre
 
 ## Psychic lance   
 
-Line based psychic damage skill shot
-
 Actions: 2  
 Upcastable: Yes  
 Additional Actions: No  
@@ -320,20 +318,50 @@ For each spell slot above 4th you increase damage by 7 *Wound*s.
 
 ## Bone shell     
 
-Gives Full armor's *Armor reduction* to caster
+Actions: 1  
+Upcastable: No  
+Additional Actions: No  
+Range: Self  
+Increases offensive penalty: No  
+Description: You force necrotic energy to create a bone shield around you. On successfull spell test you gain Full reduction 5 status. On failed test you gain Half reduction 5 status.  
+If you failed spell test you can change outcome to success for 1 additional *Action token* but it changes spell so it increases offensive penalty.
+
 
 ## Necropolis     
 
-Gives Necropolis x to caster.
+Actions: 2  
+Upcastable: No  
+Additional Actions: Yes  
+Range: Self  
+Increases offensive penalty: Yes  
+Description: You open gate to your personal necropolis. On successfull spell test you gain Necropolis 5 status. On failed test you instead gain Necropolis 3 status and get 5 *Stress*.  
+For 1 additional *Action token* you can apply this status also to your Necrotic spirit if it's currently active.
 
 ## Ghost shield   
 
-Deploys ghost that has some vitality. If ally is in range of ghost ghost will take wounds instead of them.
+Actions: 2  
+Upcastable: No  
+Additional Actions: No  
+Range: Half  
+Increases offensive penalty: Yes  
+Description: You retrieve ghost of a protector from otherside. Ghost is untargetable and can be moved up to double Full range. Whenever ally of caster takes damage in Polearm range of ghost that damage is instead applied to ghost. When summoning it you take spell test. On successfull spell test ghost gains 20 *Vitality* and on failed save it gains 10 *Vitality*. When ghost's *Wound*s reach it's vitality ghost returns to otherside and any leftover *Wound*s get applied to target of original attack. Same thing happens when combat ends.
 
 ## Archangel      
 
-Deals heavy psyhic damage to chosen targets around caster
+Actions: 3  
+Upcastable: No  
+Additional Actions: No  
+Range: Polearm  
+Increases offensive penalty: Yes  
+Description: Any chosen target in Polearm range of caster takes 12 psyhic *Wound*s. On successfull spell test you deal additional 12 *Wound*s.
 
 ## Dark sanctuary 
 
 Deals heavy dark damage to enemies in range and gives them Blindness x.
+
+Actions: 3  
+Upcastable: No  
+Additional Actions: No  
+Range: Polearm  
+Increases offensive penalty: Yes  
+Description: Any chosen target in Polearm range of caster takes 9 psyhic *Wound*s. On successfull spell test you deal additional 6 *Wound*s and Blindness 2 status.

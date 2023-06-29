@@ -16,7 +16,7 @@
 | Sleep x | Target falls asleep and looses it's turn while under this status. Any damage will remove this status and give target additional turn right after it has been awoken |
 | Mind control x | Caster controls the target, but it can only use Move action. It uses your *Action token*s and your movement penalty. Caster must re-succeed original Spell test each start of their turn or Mind control x immediately ends |
 | Frozen x | Target cannot take it's turns but noone can damage it |
-| Necropolis x | 2 map units radius aura centered on caster that follows them around. If enemy would take a *Wound* while in range of aura ally instead takes that *Wound*s in *Stress* instead |
+| Necropolis x | 2 map units radius aura centered on caster that follows them around. If enemy would take a *Wound* while in range of aura ally instead takes that *Wound*s in *Stress* instead. Only works if ally has less *Stress* than *Durability* |
 | Mana shield x | You become protected from enemy spell casts. Any time you would be hit by a spell you lover Mana shield status by number equal to spell slot level used, until you run out of it. Still behaves like a normal Status |
 | Alchemy reflux | You become poisoned by potions you drank. You cannot drink any more potions untill next rest |
 | Hyperactive x | Target gains one (1) more *Action token* per turn and gains one more mobility. They don't suffer mobility penalty on multiple moves in a turn |
