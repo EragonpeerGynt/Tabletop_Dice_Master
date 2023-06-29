@@ -86,25 +86,96 @@ If you use spell slot of 5th level or higher Venom x status is changed to Toxin 
 
 Medium *Wound*s to multiple targets in fan shape
 
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: Yes  
+Range: Custom:  
+```
+#####
+.###.
+..@..
+.....
+.....
+```
+Increases offensive penalty: Yes  
+Description: You blow icy wind in a fan like direction. If it touches anything it immidietly causes frostburn. On successfull spell test you deal 3 *Wound*s and apply Slowness 1 to all targets in range. On failed test your damage is halved and you don't apply any status.  
+For each additional *Action token* you increase max range by one.  
+For each spell slot above first you add 3 more *Wound*s.
+If using spell slot of 4th level or higher you add 2 Status effect steps to slowness.
+
 ## False sound     
 
 Creates ilusion of a sound
 
+Actions: 1  
+Upcastable: No  
+Additional Actions: No  
+Range: Full  
+Increases offensive penalty: Yes  
+Description: Creates illusion of sound on a specific point of origin in caster's full range. Can be used with Deception test to trick enemies.
+
 ## Poison breath   
 
-Applies Poison x to multiple targets in straight line
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: Yes  
+Range: Half  
+Increases offensive penalty: Yes  
+Description: You fill your lungs with fresh air and change it to poison that you breath in a straight line up to Half range away. You hit all targets in this zone. On successfull spell test you deal 2 *Wound*s and apply Venom 2 to all targets. On failed save you don't deal any direct *Wound*s but still apply Venom 2.  
+For 1 additional *Action token* you change Venom x status to Poison x status.  
+For each spell slot above 2nd you deal 1 more *Wound* and increase applied status' Status effect step by 1.
 
 ## Ice daggers     
 
-Deal medium ice damage to multiple (single) targets
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: Yes  
+Range: Full  
+Increases offensive penalty: Yes  
+Description: You summon 2 ice daggers that you throw to 2 distinct targets. On successfull spell test you deal 2 *Wound*s and Frozen 1 to each target hit by dagger. On failed test you deal only 1 *Wound*.  
+For each additional *Action token* you increase status effect of Frozen x by 1.  
+For each spell level above 2nd summon one more dagger.
 
 ## Necrotic scythe 
 
 Heavy melee AoE necrotic wounds. Gives Decay 2
 
+Actions: 2  
+Upcastable: Yes  
+Additional Actions: Yes  
+Range: Polearm/Custom:  
+```
+#####
+#####
+##@##
+.....
+.....
+```
+Increases offensive penalty: Yes  
+Description: Caster summons reaper's scythe with Polearm range and swings it in half circle arch in front of them. On successfull spell test you deal 2 *Wound*s and Decay 2 status to every target in the area of effect. On failed test your damage is halved and you don't apply any statuses.  
+For 1 additional *Action token* you can add Venom 2 to targets hit if spell test succeeded but needs to be specified before throwing any dice.  
+For each spell slot above 2nd you deal additional 2 *Wounds* and increase Status effect step of all applied statuses by 1.
+
 ## Mind sear       
 
 Applies heavy psychic damage to everyone around and gives them Disarm
+
+Actions: 3  
+Upcastable: Yes  
+Additional Actions: No  
+Range: Melee/Custom:  
+```
+.......
+.#####.
+.#####.
+.##@##.
+.#####.
+.#####.
+.......
+```
+Increases offensive penalty: Yes  
+Description: Caster recollects themself and gather their mental power that they use to burst around them in radius of 5 map units. On successfull spell test they deal 3 psychic *Wound*s and apply Disarmed status to all surrounding targets. On failed test they don't deal any damage but still apply Disarmed status and any other status.  
+If casted with spell slot of 4th level or above you increase damage by 3 *Wound*s and add Hold 2 status to targets.
 
 ## Spell level 3
 

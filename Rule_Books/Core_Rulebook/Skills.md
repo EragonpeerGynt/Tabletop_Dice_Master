@@ -43,6 +43,7 @@ Skills:
 |  | Mercentile | Ability to haggle for better prices |
 |  | Meditation | Ability to fight intrusive thoughts and magic playing with your mind |
 |  | Ironwilled | Ability to resist fear and morale drops |
+|  | Deception | Can decieve other creatures and people |
 
 Specialized skills (can only be increased with special feats and/or character progression):
 | Gate | Explanation |

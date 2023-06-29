@@ -88,7 +88,7 @@ Increases offensive penalty: Yes
 Description: You begin praying to your god to help target of this spell survive. You throw Spell test and on success you heal 3 wounds. On failed test you halve all healing done by the spell.  
 For 1 additional *Action token* you can change range from Melee to Full.  
 For 1 additional *Action token* you can add additional healing of 1 *Wound*.  
-for each spell slot above 2nd you can add additional healing of 1 *Wound*.
+For each spell slot above 2nd you can add additional healing of 1 *Wound*.
 
 ## Blessing 
 
@@ -100,7 +100,7 @@ Increases offensive penalty: Yes
 Tags: Focus  
 Description: You summon shield around a person noticable by slight glimmer of air around the target. On successfull Spell test you give target Greater shielding 2. On failed test you give target Shielded 2.  
 For 1 additional *Action token* you can select 1 more target.  
-for each spell slot above 2nd you increase Status effect step by 1.  
+For each spell slot above 2nd you increase Status effect step by 1.  
 You can *Focus* on this spell to not lower it's status this round.
 
 ## Unbroken shield
