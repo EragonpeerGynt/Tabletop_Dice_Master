@@ -63,3 +63,17 @@ When using spell it will specify which kind od *Skill test* we should use if any
 ### Saving against spell (Spell resist action)
 
 When player get's targeted by enemy's spell they need to make *Skill test* based on requested stat or skill. The spell itself dictates what each type of outcome of this check means for the player.
+
+### GM Fiat actions (Custom actions) *Optional Rule*
+
+You can talk to the dm if you want to preform action not defined here. This actions have 3 default modifiers you add to it, so it stays somewhat balanced.  
+Options:
+| Actions tokens | Roll |
+|---|:---:|
+| 1 | *STR test* with *Offensive penalty* |
+| 1 | *Unmodified test* |
+| 2 | none |
+| 2 | *STR test* with *Offensive penalty* |
+| 2 | *Unmodified test* |
+
+GM can add other penalties to move like mobility penalty.
